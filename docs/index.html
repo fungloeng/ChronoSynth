@@ -7,7 +7,7 @@
   <meta property="og:title" content="ChronoSynth">
   <meta property="og:description" content="Constraint-aware question synthesis over temporal knowledge graphs.">
   <meta property="og:url" content="https://fungloeng.github.io/ChronoSynth/">
-  <meta property="og:image" content="https://fungloeng.github.io/ChronoSynth/assets/method.png">
+  <meta property="og:image" content="https://fungloeng.github.io/ChronoSynth/assets/fig2.png">
   <meta name="theme-color" content="#f97316">
   <title>ChronoSynth | Temporal KG Question Synthesis</title>
   <link rel="canonical" href="https://fungloeng.github.io/ChronoSynth/">
@@ -45,8 +45,8 @@
 
     <section class="teaser" aria-label="ChronoSynth motivation">
       <figure>
-        <img src="assets/motivation.png" alt="Examples of temporal semantic drift and the ChronoSynth constraint-preserving approach">
-        <figcaption>Temporal knowledge graph question generation requires preserving temporal operators, reference events, answer fields, and graph evidence.</figcaption>
+        <img src="assets/fig1.png" alt="Motivating examples of temporal semantic drift">
+        <figcaption>Motivating examples of temporal semantic drift. Fluent questions can still change the time condition, reference event, answer field, or order cue.</figcaption>
       </figure>
     </section>
 
@@ -74,7 +74,7 @@
           <p>Method</p>
           <h2>From graph evidence to a controlled question</h2>
         </div>
-        <img class="wide-figure" src="assets/method.png" alt="ChronoSynth method overview">
+        <img class="wide-figure" src="assets/fig2.png" alt="ChronoSynth method overview">
         <ol class="pipeline">
           <li><span>01</span>Construct the Temporal Intent State.</li>
           <li><span>02</span>Retrieve compatible typed patterns.</li>
@@ -97,18 +97,22 @@
       </div>
       <div class="figure-grid">
         <figure>
-          <img src="assets/grouped_robustness.png" alt="Grouped robustness results">
-          <figcaption>Gains across temporal rules, graph sizes, and answer types.</figcaption>
+          <img src="assets/fig3_rq2_ablation_panel.png" alt="Ablation study of memory retrieval and cost">
+          <figcaption>Ablation study of memory retrieval and cost.</figcaption>
         </figure>
         <figure>
-          <img src="assets/efficiency.png" alt="Efficiency and cache reuse results">
-          <figcaption>Quality, latency, repeated runs, and indexed-memory reuse.</figcaption>
+          <img src="assets/fig3_rq3_heatmap_pair.png" alt="Grouped gains of ChronoSynth over the no-memory variant">
+          <figcaption>Grouped gains over the no-memory variant.</figcaption>
+        </figure>
+        <figure>
+          <img src="assets/fig3_rq4_quality_cost_panel.png" alt="Quality and cost analysis of indexed pattern-memory retrieval">
+          <figcaption>Quality-cost analysis, repeated-run stability, and memory reuse.</figcaption>
+        </figure>
+        <figure>
+          <img src="assets/fig3_rq5_scalability_matrix.png" alt="Indexed pattern-memory scale analysis">
+          <figcaption>Indexed pattern-memory scale analysis.</figcaption>
         </figure>
       </div>
-      <figure class="full-figure">
-        <img src="assets/scalability.png" alt="Indexed pattern memory scalability results">
-        <figcaption>Quality remains stable as indexed memory grows, while build time and storage scale predictably.</figcaption>
-      </figure>
     </section>
 
     <section class="band artifact" id="artifact">

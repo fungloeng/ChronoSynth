@@ -21,7 +21,7 @@ Official implementation and paper-aligned supplementary artifact.
 </div>
 
 <p align="center">
-  <img src="docs/assets/motivation.png" alt="Motivating examples of temporal semantic drift" width="100%">
+  <img src="docs/assets/fig1.png" alt="Motivating examples of temporal semantic drift" width="100%">
 </p>
 
 ## Overview
@@ -35,7 +35,7 @@ ChronoSynth addresses these failures with three components:
 3. **Constraint-aware realization** adapts patterns to the input graph and validates answer leakage, unresolved placeholders, temporal mismatch, and answer-field drift.
 
 <p align="center">
-  <img src="docs/assets/method.png" alt="ChronoSynth method overview" width="100%">
+  <img src="docs/assets/fig2.png" alt="ChronoSynth method overview" width="100%">
 </p>
 
 ## Highlights
