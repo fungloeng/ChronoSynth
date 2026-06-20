@@ -1,0 +1,2 @@
+dataset,split,method,miss_wall_time_seconds,hit_wall_time_seconds,miss_cache_build_seconds,hit_cache_build_seconds,wall_time_speedup,cache_build_reduction_seconds,cache_size_bytes,cache_size_mb
+MULTITQ,demo100,Chrono-full,7.800223,7.215912,74.59207951556891,0.4091187659651041,1.0809753500319847,74.18296074960381,36759139.0,35.056246757507324

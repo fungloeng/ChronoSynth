@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+*.pid
+.DS_Store
+.env
+data/
+result/
+results/
+outputs/
+models/
+checkpoints/

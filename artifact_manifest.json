@@ -1,0 +1,23 @@
+{
+  "name": "ChronoSynth code and supplementary artifact",
+  "paper": "ChronoSynth: Constraint-Aware Question Synthesis over Temporal Knowledge Graphs",
+  "contains_data": false,
+  "contains_baseline_code": false,
+  "contains_raw_predictions": false,
+  "contains_model_weights": false,
+  "contains_api_keys": false,
+  "contains": [
+    "ChronoSynth method code",
+    "paper-used ChronoSynth experiment code",
+    "aggregate paper results",
+    "dataset acquisition and preparation instructions",
+    "paper traceability documentation",
+    "project website"
+  ],
+  "entrypoints": {
+    "full_temporal": "run_full_chrono.py",
+    "paper_experiments": "experiments/run_chrono_experiment.py",
+    "evaluation": "evaluate.py",
+    "static_sanity_check": "run_full_chrono_kgqg.py"
+  }
+}

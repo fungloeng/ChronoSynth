@@ -1,0 +1,303 @@
+{
+  "full_runtime": [
+    {
+      "method": "ChronoSynth-full",
+      "dataset": "CRONQUESTIONS",
+      "N": 19122,
+      "BLEU-4": 0.2947,
+      "ROUGE-L": 0.5059,
+      "CIDEr": 2.7356,
+      "avg_latency_s": 1.967,
+      "p95_latency_s": 3.529,
+      "avg_total_tokens": 636.14
+    },
+    {
+      "method": "ChronoSynth-no-memory",
+      "dataset": "CRONQUESTIONS",
+      "N": 19122,
+      "BLEU-4": 0.1890,
+      "ROUGE-L": 0.3538,
+      "CIDEr": 1.6444,
+      "avg_latency_s": 1.713,
+      "p95_latency_s": 2.304,
+      "avg_total_tokens": 343.91
+    },
+    {
+      "method": "KQG-CoT",
+      "dataset": "CRONQUESTIONS",
+      "N": 19122,
+      "BLEU-4": 0.2124,
+      "ROUGE-L": 0.4268,
+      "CIDEr": 2.0148
+    },
+    {
+      "method": "ChronoSynth-full",
+      "dataset": "MultiTQ",
+      "N": 36318,
+      "BLEU-4": 0.3042,
+      "ROUGE-L": 0.5227,
+      "CIDEr": 2.6172,
+      "avg_latency_s": 1.790,
+      "p95_latency_s": 2.582,
+      "avg_total_tokens": 699.20
+    },
+    {
+      "method": "ChronoSynth-no-memory",
+      "dataset": "MultiTQ",
+      "N": 36318,
+      "BLEU-4": 0.1449,
+      "ROUGE-L": 0.3939,
+      "CIDEr": 1.2250,
+      "avg_latency_s": 4.302,
+      "p95_latency_s": 8.589,
+      "avg_total_tokens": 359.07
+    },
+    {
+      "method": "KQG-CoT",
+      "dataset": "MultiTQ",
+      "N": 36318,
+      "BLEU-4": 0.1810,
+      "ROUGE-L": 0.4286,
+      "CIDEr": 1.3367
+    }
+  ],
+  "variance_multitq_demo100": [
+    {
+      "method": "ChronoSynth-full",
+      "BLEU-4_mean": 0.3110,
+      "BLEU-4_std": 0.0050,
+      "ROUGE-L_mean": 0.5322,
+      "ROUGE-L_std": 0.0069,
+      "CIDEr_mean": 2.7385,
+      "CIDEr_std": 0.0729,
+      "avg_latency_s_mean": 1.896,
+      "avg_latency_s_std": 0.060,
+      "p95_latency_s_mean": 3.223,
+      "p95_latency_s_std": 0.108,
+      "avg_total_tokens_mean": 708.47,
+      "avg_total_tokens_std": 0.11
+    },
+    {
+      "method": "ChronoSynth-no-memory",
+      "BLEU-4_mean": 0.1477,
+      "BLEU-4_std": 0.0055,
+      "ROUGE-L_mean": 0.3888,
+      "ROUGE-L_std": 0.0046,
+      "CIDEr_mean": 1.3684,
+      "CIDEr_std": 0.0503,
+      "avg_latency_s_mean": 2.748,
+      "avg_latency_s_std": 1.261,
+      "p95_latency_s_mean": 3.589,
+      "p95_latency_s_std": 0.395,
+      "avg_total_tokens_mean": 358.85,
+      "avg_total_tokens_std": 0.12
+    }
+  ],
+  "cache_multitq_demo100": {
+    "miss_wall_s": 7.800,
+    "hit_wall_s": 7.216,
+    "speedup": 1.081,
+    "miss_build_s": 74.592,
+    "hit_build_s": 0.409,
+    "reduction_s": 74.183,
+    "cache_size_mb": 35.06
+  },
+  "grouped_robustness_cronquestions": [
+    {
+      "group": "operator=plain",
+      "N": 4539,
+      "delta_cider": 1.3822,
+      "ci95_cider": [1.1568, 1.4614],
+      "delta_bleu4": 0.1150,
+      "ci95_bleu4": [0.1046, 0.1277]
+    },
+    {
+      "group": "operator=when",
+      "N": 3772,
+      "delta_cider": 0.3749,
+      "ci95_cider": [0.2063, 0.5026],
+      "delta_bleu4": 0.0409,
+      "ci95_bleu4": [0.0229, 0.0574]
+    },
+    {
+      "group": "operator=before_last",
+      "N": 1132,
+      "delta_cider": 1.6063,
+      "ci95_cider": [1.3918, 1.7069],
+      "delta_bleu4": 0.1861,
+      "ci95_bleu4": [0.1584, 0.1995]
+    },
+    {
+      "group": "operator=after_first",
+      "N": 858,
+      "delta_cider": 2.1443,
+      "ci95_cider": [1.9429, 2.1982],
+      "delta_bleu4": 0.2183,
+      "ci95_bleu4": [0.1996, 0.2345]
+    },
+    {
+      "group": "edge_count=1",
+      "N": 7411,
+      "delta_cider": 0.8780,
+      "ci95_cider": [0.8349, 0.9871],
+      "delta_bleu4": 0.0669,
+      "ci95_bleu4": [0.0614, 0.0835]
+    },
+    {
+      "group": "edge_count=2",
+      "N": 4110,
+      "delta_cider": 1.4511,
+      "ci95_cider": [1.3053, 1.4311],
+      "delta_bleu4": 0.1587,
+      "ci95_bleu4": [0.1464, 0.1663]
+    },
+    {
+      "group": "answer_type=entity",
+      "N": 6671,
+      "delta_cider": 1.4917,
+      "ci95_cider": [1.3683, 1.5915],
+      "delta_bleu4": 0.1438,
+      "ci95_bleu4": [0.1305, 0.1694]
+    },
+    {
+      "group": "answer_type=time",
+      "N": 4851,
+      "delta_cider": 0.5280,
+      "ci95_cider": [0.3762, 0.5357],
+      "delta_bleu4": 0.0403,
+      "ci95_bleu4": [0.0257, 0.0445]
+    }
+  ],
+  "grouped_robustness_multitq": [
+    {
+      "group": "operator=plain",
+      "N": 4890,
+      "delta_cider": 2.5424,
+      "ci95_cider": [2.1416, 2.6165],
+      "delta_bleu4": 0.2213,
+      "ci95_bleu4": [0.2007, 0.2427]
+    },
+    {
+      "group": "operator=first",
+      "N": 6293,
+      "delta_cider": 2.1018,
+      "ci95_cider": [1.9674, 2.2218],
+      "delta_bleu4": 0.2516,
+      "ci95_bleu4": [0.2459, 0.2658]
+    },
+    {
+      "group": "operator=last",
+      "N": 3697,
+      "delta_cider": 1.5193,
+      "ci95_cider": [1.4993, 1.6997],
+      "delta_bleu4": 0.2384,
+      "ci95_bleu4": [0.2300, 0.2572]
+    },
+    {
+      "group": "operator=before_last",
+      "N": 8620,
+      "delta_cider": 0.9331,
+      "ci95_cider": [0.7862, 0.8999],
+      "delta_bleu4": 0.0914,
+      "ci95_bleu4": [0.0862, 0.1027]
+    },
+    {
+      "group": "operator=when",
+      "N": 6587,
+      "delta_cider": 0.9006,
+      "ci95_cider": [0.8160, 1.0056],
+      "delta_bleu4": 0.1533,
+      "ci95_bleu4": [0.1435, 0.1690]
+    },
+    {
+      "group": "edge_count=1",
+      "N": 5201,
+      "delta_cider": 2.3623,
+      "ci95_cider": [1.8883, 2.4175],
+      "delta_bleu4": 0.2138,
+      "ci95_bleu4": [0.1877, 0.2379]
+    },
+    {
+      "group": "edge_count=2",
+      "N": 14467,
+      "delta_cider": 1.2164,
+      "ci95_cider": [1.0389, 1.3187],
+      "delta_bleu4": 0.1684,
+      "ci95_bleu4": [0.1483, 0.1842]
+    },
+    {
+      "group": "edge_count=3",
+      "N": 13470,
+      "delta_cider": 1.2708,
+      "ci95_cider": [1.1652, 1.3979],
+      "delta_bleu4": 0.1431,
+      "ci95_bleu4": [0.1253, 0.1567]
+    },
+    {
+      "group": "answer_type=entity",
+      "N": 23608,
+      "delta_cider": 1.5304,
+      "ci95_cider": [1.2694, 1.5448],
+      "delta_bleu4": 0.1399,
+      "ci95_bleu4": [0.1281, 0.1491]
+    },
+    {
+      "group": "answer_type=time",
+      "N": 12710,
+      "delta_cider": 1.1229,
+      "ci95_cider": [1.1541, 1.2944],
+      "delta_bleu4": 0.1925,
+      "ci95_bleu4": [0.1863, 0.2147]
+    }
+  ],
+  "scalability_multitq": [
+    {
+      "scale_percent": 20,
+      "BLEU-4": 0.3380,
+      "ROUGE-L": 0.5658,
+      "CIDEr": 3.1234,
+      "avg_latency_s": 6.181,
+      "p95_latency_s": 8.881,
+      "throughput_per_min": 240.293,
+      "avg_tokens": 701.78,
+      "cache_build_s": 15.126,
+      "cache_size_mb": 15.43
+    },
+    {
+      "scale_percent": 40,
+      "BLEU-4": 0.3204,
+      "ROUGE-L": 0.5519,
+      "CIDEr": 2.9846,
+      "avg_latency_s": 7.433,
+      "p95_latency_s": 11.377,
+      "throughput_per_min": 196.790,
+      "avg_tokens": 703.45,
+      "cache_build_s": 30.582,
+      "cache_size_mb": 22.12
+    },
+    {
+      "scale_percent": 80,
+      "BLEU-4": 0.3388,
+      "ROUGE-L": 0.5641,
+      "CIDEr": 3.1753,
+      "avg_latency_s": 6.253,
+      "p95_latency_s": 10.772,
+      "throughput_per_min": 261.993,
+      "avg_tokens": 702.86,
+      "cache_build_s": 61.102,
+      "cache_size_mb": 31.31
+    },
+    {
+      "scale_percent": 100,
+      "BLEU-4": 0.3242,
+      "ROUGE-L": 0.5419,
+      "CIDEr": 2.8817,
+      "avg_latency_s": 7.390,
+      "p95_latency_s": 10.652,
+      "throughput_per_min": 194.689,
+      "avg_tokens": 708.61,
+      "cache_build_s": 74.572,
+      "cache_size_mb": 35.06
+    }
+  ]
+}

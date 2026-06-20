@@ -1,0 +1,68 @@
+{
+  "dataset_statistics": {
+    "CRONQUESTIONS": {
+      "questions": 250395,
+      "entities": 46963,
+      "relations": 6,
+      "train": 212259,
+      "dev": 19014,
+      "test": 19122
+    },
+    "MultiTQ": {
+      "questions": 333133,
+      "entities": 12323,
+      "relations": 239,
+      "train": 257687,
+      "dev": 39128,
+      "test": 36318
+    }
+  },
+  "rq1_chronosynth": {
+    "CRONQUESTIONS": {
+      "Qwen3.5-9B": [0.5678, 0.4411, 0.3545, 0.2959, 0.5054, 2.7439],
+      "DeepSeek-V4-Flash": [0.5692, 0.4422, 0.3552, 0.2970, 0.4997, 2.7196],
+      "GPT-4o-mini": [0.5690, 0.4415, 0.3540, 0.2947, 0.5054, 2.7451]
+    },
+    "MultiTQ": {
+      "Qwen3.5-9B": [0.5739, 0.4542, 0.3731, 0.3109, 0.5271, 2.6455],
+      "DeepSeek-V4-Flash": [0.5692, 0.4534, 0.3740, 0.3128, 0.5299, 2.7134],
+      "GPT-4o-mini": [0.5631, 0.4450, 0.3652, 0.3038, 0.5231, 2.6135]
+    },
+    "metric_order": ["BLEU-1", "BLEU-2", "BLEU-3", "BLEU-4", "ROUGE-L", "CIDEr"],
+    "source": "result/paper_integrated_20260605/old_full_only and final manuscript table"
+  },
+  "rq2_component_demo100": {
+    "CRONQUESTIONS": {
+      "full": {"BLEU-4": 0.2715, "CIDEr": 2.5643},
+      "no_memory": {"BLEU-4": 0.1785, "CIDEr": 1.6276},
+      "relation_only": {"BLEU-4": 0.2963, "CIDEr": 2.6533}
+    },
+    "MultiTQ": {
+      "full": {"BLEU-4": 0.3087, "CIDEr": 2.7035},
+      "no_memory": {"BLEU-4": 0.1479, "CIDEr": 1.3809},
+      "relation_only": {"BLEU-4": 0.2635, "CIDEr": 2.2389}
+    },
+    "source": "paper_results/component_ablation_summary.md"
+  },
+  "temporal_faithfulness_percent": {
+    "CRONQUESTIONS": {
+      "Direct Prompting": {"faithful": 42.0, "leakage": 0.5},
+      "ChronoSynth-no-memory": {"faithful": 64.5, "leakage": 18.0},
+      "ChronoSynth-full": {"faithful": 48.0, "leakage": 0.0}
+    },
+    "MultiTQ": {
+      "Direct Prompting": {"faithful": 21.0, "leakage": 5.0},
+      "ChronoSynth-no-memory": {"faithful": 66.0, "leakage": 4.0},
+      "ChronoSynth-full": {"faithful": 58.0, "leakage": 2.5}
+    },
+    "source": "paper_results/temporal_faithfulness_table.csv"
+  },
+  "static_chronosynth_kg": {
+    "WQ": {"Overall": 42.07, "BLEU-4": 28.68, "ROUGE-L": 55.46},
+    "PQ": {"Overall": 64.67, "BLEU-4": 54.10, "ROUGE-L": 75.24},
+    "source": {
+      "WQ": "result/full_chrono_kgqg/chrono_kgqg_WQ_full.metrics.json",
+      "PQ": "result/full_chrono_kgqg/chrono_kgqg_PQ_full_sota_v3.metrics.json"
+    }
+  }
+}

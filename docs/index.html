@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="ChronoSynth is a constraint-aware, memory-augmented framework for temporal knowledge graph question generation.">
+  <meta property="og:title" content="ChronoSynth">
+  <meta property="og:description" content="Constraint-aware question synthesis over temporal knowledge graphs.">
+  <meta property="og:url" content="https://fungloeng.github.io/ChronoSynth/">
+  <meta property="og:image" content="https://fungloeng.github.io/ChronoSynth/assets/method.png">
+  <meta name="theme-color" content="#f97316">
+  <title>ChronoSynth | Temporal KG Question Synthesis</title>
+  <link rel="canonical" href="https://fungloeng.github.io/ChronoSynth/">
+  <link rel="stylesheet" href="style.css?v=20260621">
+  <script>
+    if (window.location.hash === "#top") {
+      window.history.replaceState(null, "", window.location.pathname + window.location.search);
+    }
+  </script>
+</head>
+<body>
+  <main id="top">
+    <section class="hero">
+      <div class="hero-content">
+        <a class="project-mark" href="/ChronoSynth/" aria-label="ChronoSynth home">
+          <span class="project-icon" aria-hidden="true">&#x23F3;</span>
+          <span>ChronoSynth</span>
+        </a>
+        <h1><span>ChronoSynth:</span> Constraint-Aware Question Synthesis over Temporal Knowledge Graphs</h1>
+        <p class="authors">
+          Feng Liang<sup>1</sup>, Weixin Zeng<sup>1</sup>, Runhao Zhao<sup>1</sup>,
+          Mingjun Zhou<sup>1</sup>, Shaoshi Yang<sup>2</sup>, Xiang Zhao<sup>1,*</sup>
+        </p>
+        <p class="affiliations">
+          <sup>1</sup>National University of Defense Technology &nbsp;&nbsp;
+          <sup>2</sup>Beijing University of Posts and Telecommunications
+        </p>
+        <p class="venue">Research artifact &nbsp; <span>* Corresponding author</span></p>
+        <div class="actions">
+          <a class="button primary" href="https://github.com/fungloeng/ChronoSynth" aria-label="GitHub code and artifact"><span aria-hidden="true">&#9679;</span> Code &amp; Artifact</a>
+          <a class="button" href="https://github.com/fungloeng/ChronoSynth/blob/main/PAPER_TRACEABILITY.md" aria-label="Paper result traceability"><span aria-hidden="true">&#128196;</span> Traceability</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="teaser" aria-label="ChronoSynth motivation">
+      <figure>
+        <img src="assets/motivation.png" alt="Examples of temporal semantic drift and the ChronoSynth constraint-preserving approach">
+        <figcaption>Temporal knowledge graph question generation requires preserving temporal operators, reference events, answer fields, and graph evidence.</figcaption>
+      </figure>
+    </section>
+
+    <section class="intro">
+      <p class="lead">Temporal KG question generation is a constraint-preservation problem. A fluent question can still be wrong when it reverses before/after, drops first/last, changes the reference event, or asks for the wrong answer field.</p>
+      <div class="highlights">
+        <article>
+          <strong>Explicit intent</strong>
+          <span>Temporal rule, answer field, reference point, graph shape, and time granularity are represented before generation.</span>
+        </article>
+        <article>
+          <strong>Indexed pattern memory</strong>
+          <span>Typed question patterns are retrieved by temporal compatibility before relation and topology similarity.</span>
+        </article>
+        <article>
+          <strong>Constraint validation</strong>
+          <span>Drafts are checked for leakage, unresolved placeholders, temporal mismatch, and answer-field drift.</span>
+        </article>
+      </div>
+    </section>
+
+    <section class="band" id="method">
+      <div class="section-inner">
+        <div class="section-heading">
+          <p>Method</p>
+          <h2>From graph evidence to a controlled question</h2>
+        </div>
+        <img class="wide-figure" src="assets/method.png" alt="ChronoSynth method overview">
+        <ol class="pipeline">
+          <li><span>01</span>Construct the Temporal Intent State.</li>
+          <li><span>02</span>Retrieve compatible typed patterns.</li>
+          <li><span>03</span>Adapt patterns to the input graph.</li>
+          <li><span>04</span>Validate constraints and realize the question.</li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="results" id="results">
+      <div class="section-heading">
+        <p>Evaluation</p>
+        <h2>Quality gains with measurable component trade-offs</h2>
+      </div>
+      <div class="metric-strip">
+        <article><strong>+53.3%</strong><span>BLEU-4 over the strongest prompting-only baseline on MultiTQ</span></article>
+        <article><strong>+66.0%</strong><span>CIDEr over the strongest prompting-only baseline on MultiTQ</span></article>
+        <article><strong>35.06 MB</strong><span>100% MultiTQ indexed pattern-memory size</span></article>
+        <article><strong>74.18 s</strong><span>memory construction avoided by cache reuse in the measured subset</span></article>
+      </div>
+      <div class="figure-grid">
+        <figure>
+          <img src="assets/grouped_robustness.png" alt="Grouped robustness results">
+          <figcaption>Gains across temporal rules, graph sizes, and answer types.</figcaption>
+        </figure>
+        <figure>
+          <img src="assets/efficiency.png" alt="Efficiency and cache reuse results">
+          <figcaption>Quality, latency, repeated runs, and indexed-memory reuse.</figcaption>
+        </figure>
+      </div>
+      <figure class="full-figure">
+        <img src="assets/scalability.png" alt="Indexed pattern memory scalability results">
+        <figcaption>Quality remains stable as indexed memory grows, while build time and storage scale predictably.</figcaption>
+      </figure>
+    </section>
+
+    <section class="band artifact" id="artifact">
+      <div class="section-inner artifact-grid">
+        <div>
+          <div class="section-heading">
+            <p>Supplementary artifact</p>
+            <h2>Minimal, inspectable, and paper-aligned</h2>
+          </div>
+          <p>The public repository includes ChronoSynth code, experiment runners, aggregate paper values, dataset preparation instructions, and a claim-to-source map. It excludes datasets, baseline code, checkpoints, raw predictions, caches, and secrets.</p>
+        </div>
+        <div class="artifact-links">
+          <a href="https://github.com/fungloeng/ChronoSynth/blob/main/REPRODUCIBILITY.md"><strong>Reproduction guide</strong><span>Commands for RQ1-RQ5 and the static sanity check</span></a>
+          <a href="https://github.com/fungloeng/ChronoSynth/blob/main/DATASETS.md"><strong>Dataset setup</strong><span>Expected formats, paths, and split sizes</span></a>
+          <a href="https://github.com/fungloeng/ChronoSynth/blob/main/paper_results/paper_values.json"><strong>Paper values</strong><span>Frozen aggregate numbers from the final manuscript</span></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>ChronoSynth</span>
+    <a href="https://github.com/fungloeng/ChronoSynth">GitHub repository</a>
+  </footer>
+</body>
+</html>

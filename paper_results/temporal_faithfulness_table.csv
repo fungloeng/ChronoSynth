@@ -1,0 +1,9 @@
+dataset,method_key,method,num_samples,operator_accuracy,slot_accuracy,comparator_accuracy,temporal_faithfulness,answer_leakage_rate
+CRONQUESTION,direct,Direct Prompting,200,42.0,98.0,89.5,42.0,0.5
+CRONQUESTION,kqg_cot,KQG-CoT,45,71.1,100.0,100.0,71.1,0.0
+CRONQUESTION,no_memory,ChronoSynth-no-memory,200,66.5,95.0,96.5,64.5,18.0
+CRONQUESTION,full,ChronoSynth-full,200,48.0,95.0,98.0,48.0,0.0
+MULTITQ,direct,Direct Prompting,200,21.0,80.0,82.0,21.0,5.0
+MULTITQ,kqg_cot,KQG-CoT,20,30.0,85.0,80.0,30.0,5.0
+MULTITQ,no_memory,ChronoSynth-no-memory,200,72.0,90.0,97.0,66.0,4.0
+MULTITQ,full,ChronoSynth-full,200,62.0,85.5,92.5,58.0,2.5
