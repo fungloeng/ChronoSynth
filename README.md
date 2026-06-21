@@ -6,8 +6,7 @@
 
 **Feng Liang<sup>1</sup>, Weixin Zeng<sup>1</sup>, Runhao Zhao<sup>1</sup>, Mingjun Zhou<sup>1</sup>, Shaoshi Yang<sup>2</sup>, Xiang Zhao<sup>1,*</sup>**
 
-<sup>1</sup> National University of Defense Technology &nbsp;&nbsp; <sup>2</sup> Beijing University of Posts and Telecommunications<br>
-<sup>*</sup> Corresponding author
+
 
 [![Project Page](https://img.shields.io/badge/Project_Page-ChronoSynth-ea6a20?style=for-the-badge)](https://fungloeng.github.io/ChronoSynth/)
 [![Artifact](https://img.shields.io/badge/Artifact-Paper_Aligned-26343e?style=for-the-badge)](PAPER_TRACEABILITY.md)
