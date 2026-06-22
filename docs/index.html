@@ -27,7 +27,7 @@
           <span>ChronoSynth</span>
         </a>
         <h1>Constraint-Aware Question Synthesis over Temporal Knowledge Graphs</h1>
-        <p class="hero-title-line"><span>ChronoSynth</span> makes temporal intent explicit before generation.</p>
+        <p class="hero-title-line"><span>ChronoSynth</span> is a framework for temporal KG question generation with explicit temporal intent, indexed pattern memory, and constraint validation.</p>
         <p class="authors">
           Feng Liang<sup>1</sup>, Weixin Zeng<sup>1</sup>, Runhao Zhao<sup>1</sup>,
           Mingjun Zhou<sup>1</sup>, Shaoshi Yang<sup>2</sup>, Xiang Zhao<sup>1,*</sup>
@@ -38,9 +38,9 @@
           <sup>2</sup>Beijing University of Posts and Telecommunications
         </p>
         <div class="actions">
-          <a class="button primary" href="https://github.com/fungloeng/ChronoSynth">GitHub</a>
-          <a class="button" href="https://github.com/fungloeng/ChronoSynth/blob/main/PAPER_TRACEABILITY.md">Traceability</a>
-          <a class="button" href="https://github.com/fungloeng/ChronoSynth/blob/main/REPRODUCIBILITY.md">Reproduce</a>
+          <a class="button primary" href="https://github.com/fungloeng/ChronoSynth">Code</a>
+          <a class="button" href="https://github.com/fungloeng/ChronoSynth/blob/main/REPRODUCIBILITY.md">Reproducibility</a>
+          <a class="button" href="https://github.com/fungloeng/ChronoSynth/blob/main/PAPER_TRACEABILITY.md">Results</a>
         </div>
       </div>
     </section>
@@ -51,8 +51,8 @@
           <img src="assets/fig1.png" alt="Motivating examples of temporal semantic drift">
         </figure>
         <div class="figure-note">
-          <span class="eyebrow">Motivation</span>
-          <p>Fluent questions still fail when they flip before/after, drop first/last cues, shift the reference event, or ask for the wrong answer field.</p>
+          <span class="eyebrow">Overview</span>
+          <p>Temporal KG question generation is not only about fluency. A valid question must preserve the answer field, temporal rule, reference event, and ordering cue encoded in the input graph.</p>
         </div>
       </div>
     </section>
@@ -62,15 +62,15 @@
         <div class="intro-grid">
           <article>
             <strong>Temporal Intent State</strong>
-            <span>Answer field, temporal rule, reference point, graph context.</span>
+            <span>Represents answer field, temporal rule, reference point, and graph context before generation.</span>
           </article>
           <article>
             <strong>Indexed Pattern Memory</strong>
-            <span>Typed question patterns retrieved by temporal compatibility.</span>
+            <span>Retrieves typed question patterns with temporal compatibility ahead of surface similarity.</span>
           </article>
           <article>
             <strong>Constraint Validation</strong>
-            <span>Checks answer leakage, placeholder resolution, rule drift, answer-field drift.</span>
+            <span>Filters answer leakage, unresolved placeholders, temporal-rule drift, and answer-field drift.</span>
           </article>
         </div>
       </div>
@@ -79,8 +79,8 @@
     <section class="section-block alt" id="method">
       <div class="container">
         <div class="section-head">
-          <span class="eyebrow">Method</span>
-          <h2>Pipeline overview</h2>
+          <span class="eyebrow">Approach</span>
+          <h2>ChronoSynth pipeline</h2>
         </div>
         <figure class="panel">
           <img src="assets/fig2.png" alt="ChronoSynth method overview">
@@ -97,36 +97,36 @@
     <section class="section-block" id="results">
       <div class="container">
         <div class="section-head results-head">
-          <span class="eyebrow">Results</span>
-          <h2>Paper-aligned evidence</h2>
+          <span class="eyebrow">Experiments</span>
+          <h2>Main results</h2>
         </div>
 
         <div class="stats-grid">
           <article>
             <strong>+53.3%</strong>
-            <span>BLEU-4 gain over the strongest prompting-only baseline on MultiTQ</span>
+            <span>BLEU-4 improvement over the strongest prompting-only baseline on MultiTQ</span>
           </article>
           <article>
             <strong>+66.0%</strong>
-            <span>CIDEr gain over the strongest prompting-only baseline on MultiTQ</span>
+            <span>CIDEr improvement over the strongest prompting-only baseline on MultiTQ</span>
           </article>
           <article>
             <strong>35.06 MB</strong>
-            <span>Indexed memory size at full MultiTQ scale</span>
+            <span>Indexed pattern-memory size at full MultiTQ scale</span>
           </article>
           <article>
             <strong>74.183 s</strong>
-            <span>Pattern-memory construction time saved by reuse on the measured subset</span>
+            <span>Indexed-memory construction time saved by reuse on the measured subset</span>
           </article>
         </div>
 
         <div class="result-ribbon">
           <div>
-            <small>Best MultiTQ full-test run</small>
+            <small>Best full-test result on MultiTQ</small>
             <p>BLEU-4 <b>0.3128</b> <span class="dot">&middot;</span> ROUGE-L <b>0.5299</b> <span class="dot">&middot;</span> CIDEr <b>2.7134</b></p>
           </div>
           <div>
-            <small>ChronoSynth-full vs no-memory on MultiTQ</small>
+            <small>Full ChronoSynth vs no-memory on MultiTQ</small>
             <p>BLEU-4 <b>0.3042</b> vs 0.1449 <span class="dot">&middot;</span> CIDEr <b>2.6172</b> vs 1.2250</p>
           </div>
         </div>
@@ -135,12 +135,12 @@
           <article class="result-showcase">
             <div class="result-copy">
               <div class="result-label">RQ2</div>
-              <h3>Ablation makes the memory contribution explicit</h3>
-              <p>Removing indexed pattern-memory retrieval causes the largest drop on both datasets. The paper shows that this is the main source of quality gain, while relation-only retrieval helps but cannot fully preserve temporal compatibility on MultiTQ.</p>
+              <h3>Ablation: indexed memory is the main driver</h3>
+              <p>Removing indexed pattern-memory retrieval causes the largest drop on both datasets. Relation-only retrieval recovers part of the gain, but the full rule-aware design remains clearly stronger on MultiTQ.</p>
               <div class="callout-grid">
                 <article>
                   <strong>0.3042 -> 0.1449</strong>
-                  <span>MultiTQ BLEU-4 when full retrieval is removed.</span>
+                  <span>MultiTQ BLEU-4 after removing full retrieval.</span>
                 </article>
                 <article>
                   <strong>2.6172 -> 1.2250</strong>
@@ -148,25 +148,25 @@
                 </article>
                 <article>
                   <strong>0.3087 / 2.7035</strong>
-                  <span>100-sample MultiTQ full retrieval result.</span>
+                  <span>100-sample MultiTQ result with full retrieval.</span>
                 </article>
                 <article>
                   <strong>0.2635 / 2.2389</strong>
-                  <span>Relation-only still trails rule-aware retrieval.</span>
+                  <span>Relation-only retrieval still trails the full model.</span>
                 </article>
               </div>
             </div>
             <figure class="panel">
               <img src="assets/fig3_rq2_ablation_panel.png" alt="Ablation study of memory retrieval and cost">
-              <figcaption>RQ2. Full retrieval remains the clearest win, especially on MultiTQ.</figcaption>
+              <figcaption>RQ2. Rule-aware retrieval delivers the clearest gain, especially on MultiTQ.</figcaption>
             </figure>
           </article>
 
           <article class="result-showcase reverse">
             <div class="result-copy">
               <div class="result-label">RQ3</div>
-              <h3>Gains are not confined to a small subset of temporal questions</h3>
-              <p>The grouped analysis stays positive across temporal rules, graph sizes, and answer types. This matters because the method is intended to preserve temporal semantics broadly, not only improve a few easy cases.</p>
+              <h3>Robustness across temporal-semantic groups</h3>
+              <p>The grouped analysis stays positive across temporal rules, graph sizes, and answer types. The improvements are therefore not limited to a narrow subset of easier temporal questions.</p>
               <div class="callout-grid">
                 <article>
                   <strong>+2.1443</strong>
@@ -188,15 +188,15 @@
             </div>
             <figure class="panel">
               <img src="assets/fig3_rq3_heatmap_pair.png" alt="Grouped gains of ChronoSynth over the no-memory variant">
-              <figcaption>RQ3. Positive grouped gains remain visible across the reported categories.</figcaption>
+              <figcaption>RQ3. Positive grouped gains remain visible across the reported temporal-semantic categories.</figcaption>
             </figure>
           </article>
 
           <article class="result-showcase">
             <div class="result-copy">
               <div class="result-label">RQ4</div>
-              <h3>Structured conditioning costs tokens, but reuse changes the runtime story</h3>
-              <p>The paper reports a real quality-cost trade-off: full ChronoSynth uses longer prompts, yet it preserves far better temporal quality. Once the index is built, reuse sharply reduces the one-time overhead.</p>
+              <h3>Efficiency and indexed-memory reuse</h3>
+              <p>ChronoSynth uses more tokens than the no-memory variant, but it preserves much better temporal quality. Once the index has been built, reuse sharply reduces the one-time overhead and improves practical efficiency across repeated runs.</p>
               <div class="callout-grid">
                 <article>
                   <strong>1.790 s vs 4.302 s</strong>
@@ -218,15 +218,15 @@
             </div>
             <figure class="panel">
               <img src="assets/fig3_rq4_quality_cost_panel.png" alt="Quality and cost analysis of indexed pattern-memory retrieval">
-              <figcaption>RQ4. Reuse is the key reason the memory remains practical in repeated runs.</figcaption>
+              <figcaption>RQ4. Indexed-memory reuse largely amortizes the construction cost across repeated runs.</figcaption>
             </figure>
           </article>
 
           <article class="result-showcase reverse">
             <div class="result-copy">
               <div class="result-label">RQ5</div>
-              <h3>Quality stays stable as memory grows beyond the minimum useful scale</h3>
-              <p>Scaling the indexed pattern memory increases construction time and storage, but the quality curve remains relatively flat once enough compatible patterns are available. The effect is visible in both BLEU-4 and CIDEr.</p>
+              <h3>Scalability with memory size</h3>
+              <p>Scaling the indexed pattern memory increases construction time and storage, while quality remains comparatively stable once enough compatible patterns are available. The trend is visible in both BLEU-4 and CIDEr.</p>
               <div class="callout-grid">
                 <article>
                   <strong>0.3380</strong>
@@ -248,7 +248,7 @@
             </div>
             <figure class="panel">
               <img src="assets/fig3_rq5_scalability_matrix.png" alt="Indexed pattern-memory scale analysis">
-              <figcaption>RQ5. Overhead grows with memory size, while quality remains comparatively stable.</figcaption>
+              <figcaption>RQ5. Memory size increases overhead, while the quality curve stays relatively stable.</figcaption>
             </figure>
           </article>
         </div>
@@ -258,14 +258,14 @@
     <section class="section-block artifact" id="artifact">
       <div class="container artifact-grid">
         <div class="section-head">
-          <span class="eyebrow">Artifact</span>
-          <h2>Code, traceability, and setup</h2>
-          <p class="section-copy">The public repository keeps only the paper-used ChronoSynth code, aggregate values, and reproduction instructions.</p>
+          <span class="eyebrow">Resources</span>
+          <h2>Code and documentation</h2>
+          <p class="section-copy">The public repository contains the ChronoSynth implementation, reproducibility notes, and the frozen aggregate values used on this project page.</p>
         </div>
         <div class="artifact-links">
-          <a href="https://github.com/fungloeng/ChronoSynth/blob/main/README.md"><strong>Repository</strong><span>Project entry and layout</span></a>
-          <a href="https://github.com/fungloeng/ChronoSynth/blob/main/DATASETS.md"><strong>Datasets</strong><span>Expected paths and preparation notes</span></a>
-          <a href="https://github.com/fungloeng/ChronoSynth/blob/main/paper_results/paper_values.json"><strong>Paper values</strong><span>Frozen numbers used by the final manuscript</span></a>
+          <a href="https://github.com/fungloeng/ChronoSynth/blob/main/README.md"><strong>Repository</strong><span>Project overview and code layout.</span></a>
+          <a href="https://github.com/fungloeng/ChronoSynth/blob/main/DATASETS.md"><strong>Datasets</strong><span>Expected paths and dataset preparation notes.</span></a>
+          <a href="https://github.com/fungloeng/ChronoSynth/blob/main/paper_results/paper_values.json"><strong>Results File</strong><span>Frozen aggregate values used for the reported figures and tables.</span></a>
         </div>
       </div>
     </section>

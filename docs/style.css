@@ -349,6 +349,7 @@ figcaption {
 .result-showcase {
   display: grid;
   grid-template-columns: 0.9fr 1.1fr;
+  align-items: start;
   gap: 22px;
   padding: 22px;
   border: 1px solid var(--line);
@@ -371,7 +372,7 @@ figcaption {
 .result-copy {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .result-label {
@@ -399,6 +400,7 @@ figcaption {
   margin: 0;
   color: var(--muted);
   font-size: 14px;
+  line-height: 1.65;
 }
 
 .callout-grid {
