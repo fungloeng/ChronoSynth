@@ -131,23 +131,126 @@
           </div>
         </div>
 
-        <div class="result-gallery">
-          <figure class="panel large">
-            <img src="assets/fig3_rq2_ablation_panel.png" alt="Ablation study of memory retrieval and cost">
-            <figcaption>RQ2. Memory retrieval accounts for the largest quality gain.</figcaption>
-          </figure>
-          <figure class="panel">
-            <img src="assets/fig3_rq3_heatmap_pair.png" alt="Grouped gains of ChronoSynth over the no-memory variant">
-            <figcaption>RQ3. Gains remain positive across temporal rules, graph sizes, and answer types.</figcaption>
-          </figure>
-          <figure class="panel">
-            <img src="assets/fig3_rq4_quality_cost_panel.png" alt="Quality and cost analysis of indexed pattern-memory retrieval">
-            <figcaption>RQ4. Structured conditioning costs tokens, but preserves quality and benefits from reuse.</figcaption>
-          </figure>
-          <figure class="panel">
-            <img src="assets/fig3_rq5_scalability_matrix.png" alt="Indexed pattern-memory scale analysis">
-            <figcaption>RQ5. Quality stays stable after memory reaches a sufficient scale.</figcaption>
-          </figure>
+        <div class="result-stack">
+          <article class="result-showcase">
+            <div class="result-copy">
+              <div class="result-label">RQ2</div>
+              <h3>Ablation makes the memory contribution explicit</h3>
+              <p>Removing indexed pattern-memory retrieval causes the largest drop on both datasets. The paper shows that this is the main source of quality gain, while relation-only retrieval helps but cannot fully preserve temporal compatibility on MultiTQ.</p>
+              <div class="callout-grid">
+                <article>
+                  <strong>0.3042 -> 0.1449</strong>
+                  <span>MultiTQ BLEU-4 when full retrieval is removed.</span>
+                </article>
+                <article>
+                  <strong>2.6172 -> 1.2250</strong>
+                  <span>MultiTQ CIDEr drop from full to no-memory.</span>
+                </article>
+                <article>
+                  <strong>0.3087 / 2.7035</strong>
+                  <span>100-sample MultiTQ full retrieval result.</span>
+                </article>
+                <article>
+                  <strong>0.2635 / 2.2389</strong>
+                  <span>Relation-only still trails rule-aware retrieval.</span>
+                </article>
+              </div>
+            </div>
+            <figure class="panel">
+              <img src="assets/fig3_rq2_ablation_panel.png" alt="Ablation study of memory retrieval and cost">
+              <figcaption>RQ2. Full retrieval remains the clearest win, especially on MultiTQ.</figcaption>
+            </figure>
+          </article>
+
+          <article class="result-showcase reverse">
+            <div class="result-copy">
+              <div class="result-label">RQ3</div>
+              <h3>Gains are not confined to a small subset of temporal questions</h3>
+              <p>The grouped analysis stays positive across temporal rules, graph sizes, and answer types. This matters because the method is intended to preserve temporal semantics broadly, not only improve a few easy cases.</p>
+              <div class="callout-grid">
+                <article>
+                  <strong>+2.1443</strong>
+                  <span>CRONQUESTIONS Delta CIDEr on <code>after_first</code>.</span>
+                </article>
+                <article>
+                  <strong>+2.5424</strong>
+                  <span>MultiTQ Delta CIDEr on <code>plain</code>.</span>
+                </article>
+                <article>
+                  <strong>+1.5304</strong>
+                  <span>MultiTQ entity-answer Delta CIDEr.</span>
+                </article>
+                <article>
+                  <strong>+1.1229</strong>
+                  <span>MultiTQ time-answer Delta CIDEr.</span>
+                </article>
+              </div>
+            </div>
+            <figure class="panel">
+              <img src="assets/fig3_rq3_heatmap_pair.png" alt="Grouped gains of ChronoSynth over the no-memory variant">
+              <figcaption>RQ3. Positive grouped gains remain visible across the reported categories.</figcaption>
+            </figure>
+          </article>
+
+          <article class="result-showcase">
+            <div class="result-copy">
+              <div class="result-label">RQ4</div>
+              <h3>Structured conditioning costs tokens, but reuse changes the runtime story</h3>
+              <p>The paper reports a real quality-cost trade-off: full ChronoSynth uses longer prompts, yet it preserves far better temporal quality. Once the index is built, reuse sharply reduces the one-time overhead.</p>
+              <div class="callout-grid">
+                <article>
+                  <strong>1.790 s vs 4.302 s</strong>
+                  <span>MultiTQ full vs no-memory latency in the runtime run.</span>
+                </article>
+                <article>
+                  <strong>699.20 vs 359.07</strong>
+                  <span>MultiTQ token budget for full vs no-memory.</span>
+                </article>
+                <article>
+                  <strong>74.183 s saved</strong>
+                  <span>Construction time avoided by memory reuse.</span>
+                </article>
+                <article>
+                  <strong>35.06 MB</strong>
+                  <span>Indexed memory size at full measured scale.</span>
+                </article>
+              </div>
+            </div>
+            <figure class="panel">
+              <img src="assets/fig3_rq4_quality_cost_panel.png" alt="Quality and cost analysis of indexed pattern-memory retrieval">
+              <figcaption>RQ4. Reuse is the key reason the memory remains practical in repeated runs.</figcaption>
+            </figure>
+          </article>
+
+          <article class="result-showcase reverse">
+            <div class="result-copy">
+              <div class="result-label">RQ5</div>
+              <h3>Quality stays stable as memory grows beyond the minimum useful scale</h3>
+              <p>Scaling the indexed pattern memory increases construction time and storage, but the quality curve remains relatively flat once enough compatible patterns are available. The effect is visible in both BLEU-4 and CIDEr.</p>
+              <div class="callout-grid">
+                <article>
+                  <strong>0.3380</strong>
+                  <span>BLEU-4 at 20% memory scale.</span>
+                </article>
+                <article>
+                  <strong>3.1234</strong>
+                  <span>CIDEr at 20% memory scale.</span>
+                </article>
+                <article>
+                  <strong>15.43 MB -> 35.06 MB</strong>
+                  <span>Memory size from 20% to 100% scale.</span>
+                </article>
+                <article>
+                  <strong>15.126 s -> 74.572 s</strong>
+                  <span>Construction time from 20% to 100% scale.</span>
+                </article>
+              </div>
+            </div>
+            <figure class="panel">
+              <img src="assets/fig3_rq5_scalability_matrix.png" alt="Indexed pattern-memory scale analysis">
+              <figcaption>RQ5. Overhead grows with memory size, while quality remains comparatively stable.</figcaption>
+            </figure>
+          </article>
         </div>
       </div>
     </section>
