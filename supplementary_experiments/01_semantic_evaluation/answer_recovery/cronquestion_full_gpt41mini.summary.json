@@ -1,0 +1,10 @@
+{
+  "n": 972,
+  "answerable": 0.9711934156378601,
+  "answer_exact_match": 0.9012345679012346,
+  "answer_precision": 0.9012345679012346,
+  "answer_recall": 0.9012345679012346,
+  "answer_f1": 0.9012345679012346,
+  "wrong_slot": 0.0,
+  "unsupported": 0.029835390946502057
+}

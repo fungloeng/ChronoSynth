@@ -1,0 +1,2 @@
+n,operator_correct,slot_correct,answer_type_correct,granularity_correct,reference_correct,tis_exact_match
+200,0.46,0.86,1.0,0.265,0.79,0.085

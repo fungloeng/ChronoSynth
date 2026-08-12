@@ -1,0 +1,16 @@
+{
+  "dataset": "MULTITQ",
+  "model": "gpt-4o-mini",
+  "variants": [
+    {
+      "variant": "full",
+      "output_path": "result/supplementary_20260811/diagnostics/multitq/cross_dataset/chrono_multitq_full.json",
+      "BLEU-4": 0.09842447542453615,
+      "ROUGE-L": 0.32890314713453334,
+      "CIDEr": 1.1285420232900585,
+      "Distinct-1": 0.2503681885125184,
+      "Distinct-2": 0.5013609145345672,
+      "num_samples": 200
+    }
+  ]
+}

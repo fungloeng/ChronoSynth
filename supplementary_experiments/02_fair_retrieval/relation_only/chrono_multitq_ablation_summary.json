@@ -1,0 +1,16 @@
+{
+  "dataset": "MULTITQ",
+  "model": "gpt-4o-mini",
+  "variants": [
+    {
+      "variant": "relation_only",
+      "output_path": "result/supplementary_core_20260812/03_fair_retrieval/relation_multitq/chrono_multitq_relation_only.json",
+      "BLEU-4": 0.2475159895371896,
+      "ROUGE-L": 0.46864101686166454,
+      "CIDEr": 2.2014158094958867,
+      "Distinct-1": 0.12310347960388844,
+      "Distinct-2": 0.31927650644548816,
+      "num_samples": 1000
+    }
+  ]
+}

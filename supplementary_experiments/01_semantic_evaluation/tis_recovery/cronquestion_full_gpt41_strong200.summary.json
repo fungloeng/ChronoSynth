@@ -1,0 +1,9 @@
+{
+  "n": 200,
+  "operator_correct": 0.46,
+  "slot_correct": 0.86,
+  "answer_type_correct": 1.0,
+  "granularity_correct": 0.265,
+  "reference_correct": 0.79,
+  "tis_exact_match": 0.085
+}

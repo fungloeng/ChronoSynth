@@ -1,0 +1,16 @@
+{
+  "dataset": "MULTITQ",
+  "model": "gpt-4o-mini",
+  "variants": [
+    {
+      "variant": "no_typed_placeholders",
+      "output_path": "result/supplementary_core_20260812/04_typed_placeholder/multitq/chrono_multitq_no_typed_placeholders.json",
+      "BLEU-4": 0.30390467235184465,
+      "ROUGE-L": 0.526937832838081,
+      "CIDEr": 2.705963813091701,
+      "Distinct-1": 0.14752893624839242,
+      "Distinct-2": 0.4072425652437791,
+      "num_samples": 500
+    }
+  ]
+}

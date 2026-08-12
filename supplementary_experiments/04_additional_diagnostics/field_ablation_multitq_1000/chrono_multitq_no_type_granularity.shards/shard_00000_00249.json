@@ -1,0 +1,2002 @@
+[
+  {
+    "question_id": 3029777,
+    "generated_question": "When did Abhisit Vejjajiva last express his intention to meet with Thailand?",
+    "reference_questions": [
+      "In which year did Thailand negotiate with Abhisit Vejjajiva for the first time?"
+    ],
+    "sample_index": 0
+  },
+  {
+    "question_id": 3010581,
+    "generated_question": "Who was the last person to visit Iran before Tony Blair?",
+    "reference_questions": [
+      "After the student from Iran, who was the first to visit Iraq?"
+    ],
+    "sample_index": 1
+  },
+  {
+    "question_id": 3026683,
+    "generated_question": "Before Ethiopia, with whom did Liu Yandong want to negotiate?",
+    "reference_questions": [
+      "Which country did Liu Yandong announce his intention to meet before Ethiopia?"
+    ],
+    "sample_index": 2
+  },
+  {
+    "question_id": 3047128,
+    "generated_question": "Who last wanted to negotiate with Iraq before Farouk al-Sharaa?",
+    "reference_questions": [
+      "Who was the last person to want to negotiate with Iraq before Farouk al-Sharaa?"
+    ],
+    "sample_index": 3
+  },
+  {
+    "question_id": 3053948,
+    "generated_question": "Who would wish to visit China on 24 July 2005?",
+    "reference_questions": [
+      "Which country visited China on 24 July 2005?"
+    ],
+    "sample_index": 4
+  },
+  {
+    "question_id": 3014334,
+    "generated_question": "Could you tell me the exact month when Jason C. Hu last visited Malaysia?",
+    "reference_questions": [
+      "Could you tell me the exact month of Jason C. Hu's last visit to Malaysia?"
+    ],
+    "sample_index": 5
+  },
+  {
+    "question_id": 3049431,
+    "generated_question": "After 2014-09, who wanted to cooperate with Ethiopia?",
+    "reference_questions": [
+      "After September 2014, which country would like to cooperate with Ethiopia?"
+    ],
+    "sample_index": 6
+  },
+  {
+    "question_id": 3007610,
+    "generated_question": "After the The Hague, with whom did Ethiopia want to negotiate first?",
+    "reference_questions": [
+      "Which country did Ethiopia want to meet first after The Hague?"
+    ],
+    "sample_index": 7
+  },
+  {
+    "question_id": 3035879,
+    "generated_question": "In which year did China host the visit from Cabinet / Council of Ministers / Advisors (United States)?",
+    "reference_questions": [
+      "In what year did China host the visit of the Democratic Union of Hungarians to Romania?"
+    ],
+    "sample_index": 8
+  },
+  {
+    "question_id": 3023517,
+    "generated_question": "After China, which country was the first to sign an agreement with the Julia Gillard?",
+    "reference_questions": [
+      "Who was the first to sign formal agreements with Julia Gillard after China?"
+    ],
+    "sample_index": 9
+  },
+  {
+    "question_id": 3054983,
+    "generated_question": "Which country receive the visit from Gerhard Schröder first after Iraq did?",
+    "reference_questions": [
+      "Which country host Gerhard Schröder's visit from Gerhard Schröder first after Iraq did?"
+    ],
+    "sample_index": 10
+  },
+  {
+    "question_id": 3050134,
+    "generated_question": "Who made an appeal for easing of administrative sanctions to China on 30 March 2012?",
+    "reference_questions": [
+      "On 30 March 2012, who made an appeal to China?"
+    ],
+    "sample_index": 11
+  },
+  {
+    "question_id": 3053842,
+    "generated_question": "In which month did the insurgents of Thailand last used force against the employees of Thailand?",
+    "reference_questions": [
+      "In which month did Thailand last criticise the insurgent of Thailand?"
+    ],
+    "sample_index": 12
+  },
+  {
+    "question_id": 3055929,
+    "generated_question": "Who made optimistic remarks about China on 24 September 2008?",
+    "reference_questions": [
+      "On 24 September 2008, who made an optimistic statement about China?"
+    ],
+    "sample_index": 13
+  },
+  {
+    "question_id": 3000787,
+    "generated_question": "Who praised China before Oman?",
+    "reference_questions": [
+      "Who was praised by Oman before China?"
+    ],
+    "sample_index": 14
+  },
+  {
+    "question_id": 3031219,
+    "generated_question": "Who was the last to express the intention to engage in diplomatic cooperation with China, before Thailand?",
+    "reference_questions": [
+      "Which country last would wish to visit China before the Naval of Thailand did?"
+    ],
+    "sample_index": 15
+  },
+  {
+    "question_id": 3020051,
+    "generated_question": "In what month did China first express its intention to meet with Japan?",
+    "reference_questions": [
+      "In which month did the Ministry of Foreign Affairs of Hungary first express its intention to negotiate with China?"
+    ],
+    "sample_index": 16
+  },
+  {
+    "question_id": 3013859,
+    "generated_question": "Who did Islamic Preacher (Iran) praise first after Khordad?",
+    "reference_questions": [
+      "After Khordad, who did the Islamic preacher of Iran praise first?"
+    ],
+    "sample_index": 17
+  },
+  {
+    "question_id": 3019325,
+    "generated_question": "Before 2008-10-14, who did Ethiopia give the condemnation to?",
+    "reference_questions": [
+      "Before 14 October 2008, which country did Ethiopia denounce?"
+    ],
+    "sample_index": 18
+  },
+  {
+    "question_id": 3039846,
+    "generated_question": "In which year did China first rejected Iran?",
+    "reference_questions": [
+      "Which year did China first reject the citizens of United Kingdom?"
+    ],
+    "sample_index": 19
+  },
+  {
+    "question_id": 3032233,
+    "generated_question": "Who was the last to visit Malaysia before Heinz Fischer?",
+    "reference_questions": [
+      "Who was the last person to visit Malaysia before Heinz Fischer?"
+    ],
+    "sample_index": 20
+  },
+  {
+    "question_id": 3053614,
+    "generated_question": "When did the India Maoist Communist Centre pay a visit to China?",
+    "reference_questions": [
+      "When did the Maoist Communist Centre of India visit China?"
+    ],
+    "sample_index": 21
+  },
+  {
+    "question_id": 3010623,
+    "generated_question": "Who was the last to visit High Commission for Refugees before Iraq?",
+    "reference_questions": [
+      "Before Iraq, who was the last country to be recommended by the United Nations High Commission for Refugees?"
+    ],
+    "sample_index": 22
+  },
+  {
+    "question_id": 3015387,
+    "generated_question": "Who was the last to visit Iraq before Mohammad Ali Jafari?",
+    "reference_questions": [
+      "Who was the last person to visit Iraq before Mohammad Ali Jafari?"
+    ],
+    "sample_index": 23
+  },
+  {
+    "question_id": 3054389,
+    "generated_question": "Before China, which country was the last to make optimistic comments about Foreign Affairs (Israel)?",
+    "reference_questions": [
+      "Who was the Israeli foreign minister optimistic about in the same year as China?"
+    ],
+    "sample_index": 24
+  },
+  {
+    "question_id": 3044754,
+    "generated_question": "Who visited Iraq on 17 March 2007?",
+    "reference_questions": [
+      "Who visited Iraq on 17 March 2007?"
+    ],
+    "sample_index": 25
+  },
+  {
+    "question_id": 3053984,
+    "generated_question": "Who last signed a formal agreement with China in 2006?",
+    "reference_questions": [
+      "In 2006-12, who signed formal agreements with China?"
+    ],
+    "sample_index": 26
+  },
+  {
+    "question_id": 3055434,
+    "generated_question": "Who returned people to Iraq before 2014-03-15?",
+    "reference_questions": [
+      "Before 15 March 2014, who released people to Iraq?"
+    ],
+    "sample_index": 27
+  },
+  {
+    "question_id": 3004365,
+    "generated_question": "Who was the last to praise China before Freundel Jerome Stuart?",
+    "reference_questions": [
+      "Who was the last person to praise China before Freundel Jerome Stuart?"
+    ],
+    "sample_index": 28
+  },
+  {
+    "question_id": 3039611,
+    "generated_question": "In which month did China appeal to the Police (Malaysia)?",
+    "reference_questions": [
+      "In what month did Chuck Hagel last make an appeal to China?"
+    ],
+    "sample_index": 29
+  },
+  {
+    "question_id": 3046839,
+    "generated_question": "To which country did China provide humanitarian aid after Fishermen (Vietnam)?",
+    "reference_questions": [
+      "To whom did China last provide humanitarian aid in 2006?"
+    ],
+    "sample_index": 30
+  },
+  {
+    "question_id": 3035717,
+    "generated_question": "Before Jack Straw, who was the last to praise China?",
+    "reference_questions": [
+      "Before Jack Straw, who was the last to praise China?"
+    ],
+    "sample_index": 31
+  },
+  {
+    "question_id": 3000090,
+    "generated_question": "In what month did South Sudan first formally sign an agreement with Djibouti?",
+    "reference_questions": [
+      "When did South Sudan formally sign an agreement with Djibouti?"
+    ],
+    "sample_index": 32
+  },
+  {
+    "question_id": 3025338,
+    "generated_question": "Who was the last to make optimistic comments about Business (Iran) before Oman?",
+    "reference_questions": [
+      "Which country did the Business of Iran make optimistic comments about after Oman?"
+    ],
+    "sample_index": 33
+  },
+  {
+    "question_id": 3038094,
+    "generated_question": "Who was the last to sign a formal agreement with Malaysia before Police (Malaysia)?",
+    "reference_questions": [
+      "With whom did Malaysia formally sign an agreement on the same year of the Communist Party of Malaysia?"
+    ],
+    "sample_index": 34
+  },
+  {
+    "question_id": 3020593,
+    "generated_question": "Before Government (Mauritius), which country last wanted to engage in diplomatic cooperation with China?",
+    "reference_questions": [
+      "Before the government of Mauritius, which country last expressed its intention to engage in diplomatic cooperation with China?"
+    ],
+    "sample_index": 35
+  },
+  {
+    "question_id": 3015250,
+    "generated_question": "After Kuomintang, with whom did China negotiate first?",
+    "reference_questions": [
+      "Who was declined by China on the same day of the citizens of  State Actor?"
+    ],
+    "sample_index": 36
+  },
+  {
+    "question_id": 3019003,
+    "generated_question": "In which month did Cambodia make optimistic remarks about Xi Jinping?",
+    "reference_questions": [
+      "In which month did Cambodia express optimism about Xi Jinping?"
+    ],
+    "sample_index": 37
+  },
+  {
+    "question_id": 3049966,
+    "generated_question": "When did Sheikh Hamad bin Khalifa al-Thani visit Comoros for the first time?",
+    "reference_questions": [
+      "In which month did Sheikh Hamad bin Khalifa al-Thani visit the Comoros for the first time?"
+    ],
+    "sample_index": 38
+  },
+  {
+    "question_id": 3038814,
+    "generated_question": "Who had the first telephone conversation with the Inquirer after Benjamin Abalos?",
+    "reference_questions": [
+      "After Benjamin Abalos, with whom did the Inquirer have its first telephone conversation?"
+    ],
+    "sample_index": 39
+  },
+  {
+    "question_id": 3031349,
+    "generated_question": "Who praised Iraq in 2008?",
+    "reference_questions": [
+      "Who praised Iraq in October 2008?"
+    ],
+    "sample_index": 40
+  },
+  {
+    "question_id": 3042822,
+    "generated_question": "Which country wanted to cooperate with Thailand on 14 March 2011?",
+    "reference_questions": [
+      "Which country wanted to cooperate with Thailand on 14 March 2011?"
+    ],
+    "sample_index": 41
+  },
+  {
+    "question_id": 3001385,
+    "generated_question": "Who signed a formal agreement with Djibouti before 2005-04?",
+    "reference_questions": [
+      "Before April 2005, which country had formal agreements with Djibouti?"
+    ],
+    "sample_index": 42
+  },
+  {
+    "question_id": 3049217,
+    "generated_question": "When did Dahir Riyale Kahin express his intention to meet with Ethiopia?",
+    "reference_questions": [
+      "When did Dahir Riyale Kahin express his intention to negotiate with Ethiopia?"
+    ],
+    "sample_index": 43
+  },
+  {
+    "question_id": 3006747,
+    "generated_question": "After Ethiopia, who was the first to formally sign an agreement with Government (Sudan)?",
+    "reference_questions": [
+      "After the government of Sudan, with which country did Ethiopia first formally sign an agreement?"
+    ],
+    "sample_index": 44
+  },
+  {
+    "question_id": 3031814,
+    "generated_question": "Who was the last to investigate Malaysia before the Representatives (Russia)?",
+    "reference_questions": [
+      "After Xi Jinping, which country was the first to investigate Malaysia?"
+    ],
+    "sample_index": 45
+  },
+  {
+    "question_id": 3010231,
+    "generated_question": "After 2015-05-23, who expressed intent to engage in diplomatic cooperation such as policy support with Malaysia?",
+    "reference_questions": [
+      "After 23 May 2015, with which country did Malaysia want to engage in diplomatic cooperation?"
+    ],
+    "sample_index": 46
+  },
+  {
+    "question_id": 3048037,
+    "generated_question": "Which country made optimistic remarks about Oman on 08 April 2011?",
+    "reference_questions": [
+      "On 8 April 2011, which country made optimistic comments about Oman?"
+    ],
+    "sample_index": 47
+  },
+  {
+    "question_id": 3019900,
+    "generated_question": "When did Malaysia first appeal to Police (Malaysia)?",
+    "reference_questions": [
+      "At what time did Malaysia first appeal the Police of Malaysia?"
+    ],
+    "sample_index": 48
+  },
+  {
+    "question_id": 3047970,
+    "generated_question": "Before 03 September 2007, who wanted to negotiate with Swaziland?",
+    "reference_questions": [
+      "Who expressed an intention to negotiate with Swaziland before 3 September 2007?"
+    ],
+    "sample_index": 49
+  },
+  {
+    "question_id": 3052290,
+    "generated_question": "Who made a pessimistic comment about Iraq on 2006-05-05?",
+    "reference_questions": [
+      "In 2006-05, who made negative comments on Iraq?"
+    ],
+    "sample_index": 50
+  },
+  {
+    "question_id": 3007180,
+    "generated_question": "Who had a telephone conversation with Inquirer on 23 April 2009?",
+    "reference_questions": [
+      "Who made a phone call to the Inquirer on 23 April 2009?"
+    ],
+    "sample_index": 51
+  },
+  {
+    "question_id": 3009043,
+    "generated_question": "On 28 July 2015, which country wanted to cooperate with China?",
+    "reference_questions": [
+      "Which country expressed its intention to cooperate with China on 28 July 2015?"
+    ],
+    "sample_index": 52
+  },
+  {
+    "question_id": 3000822,
+    "generated_question": "Before Thailand, who was the last to express an interest in cooperation with Yoshihiko Noda?",
+    "reference_questions": [
+      "Who did Yoshihiko Noda express intent to engage in diplomatic cooperation with last before Thailand?"
+    ],
+    "sample_index": 53
+  },
+  {
+    "question_id": 3033188,
+    "generated_question": "On 24 April 2008, which country signed a formal agreement with China?",
+    "reference_questions": [
+      "On 24 April 2008, which country signed formal agreements with China?"
+    ],
+    "sample_index": 54
+  },
+  {
+    "question_id": 3055662,
+    "generated_question": "At what time did China first deploy military force against Men (United States)?",
+    "reference_questions": [
+      "When did China use conventional military force against the Men of the United States?"
+    ],
+    "sample_index": 55
+  },
+  {
+    "question_id": 3000226,
+    "generated_question": "In which year did Ali Abdullah Saleh appeal to Ethiopia?",
+    "reference_questions": [
+      "Which year did Ethiopia first appeal North America?"
+    ],
+    "sample_index": 56
+  },
+  {
+    "question_id": 3016448,
+    "generated_question": "Who would wish to visit Malaysia after January 6, the year of 2005?",
+    "reference_questions": [
+      "Who visited Malaysia in the same month as the Muslims of Myanmar?"
+    ],
+    "sample_index": 57
+  },
+  {
+    "question_id": 3034651,
+    "generated_question": "After China, who first appealed to Cabinet / Council of Ministers / Advisors (Japan)?",
+    "reference_questions": [
+      "Before the Cabinet Council of Ministers Advisors of Japan, which country did China last appeal to?"
+    ],
+    "sample_index": 58
+  },
+  {
+    "question_id": 3027365,
+    "generated_question": "Before Kabinga Pande, who was the last to praise China?",
+    "reference_questions": [
+      "Who was the last person to praise China before Kabinga Pande?"
+    ],
+    "sample_index": 59
+  },
+  {
+    "question_id": 3030612,
+    "generated_question": "When was the last time Chu Sang-song visited China?",
+    "reference_questions": [
+      "When was the last time Chu Sang-song visited China?"
+    ],
+    "sample_index": 60
+  },
+  {
+    "question_id": 3039544,
+    "generated_question": "In 2005, which country was the first to formally sign an agreement with Iraq?",
+    "reference_questions": [
+      "With which country did Iraq sign an agreement in the same month?"
+    ],
+    "sample_index": 61
+  },
+  {
+    "question_id": 3015321,
+    "generated_question": "Before Oman, which country signed an agreement with Thailand last?",
+    "reference_questions": [
+      "With which country did Thailand formally sign an agreement before Oman?"
+    ],
+    "sample_index": 62
+  },
+  {
+    "question_id": 3017038,
+    "generated_question": "When was the last time Igor Ivanovich Shuvalov visited China?",
+    "reference_questions": [
+      "When did Igor Ivanovich Shuvalov visit China for the first time?"
+    ],
+    "sample_index": 63
+  },
+  {
+    "question_id": 3022338,
+    "generated_question": "When did Mahmoud Abbas first praise Iraq?",
+    "reference_questions": [
+      "At what time did Mahmoud Abbas last praise Iraq?"
+    ],
+    "sample_index": 64
+  },
+  {
+    "question_id": 3015893,
+    "generated_question": "On 27 August 2008, which country wanted to cooperate with Iraq?",
+    "reference_questions": [
+      "On 27 August 2008, which country wanted to cooperate with Iraq?"
+    ],
+    "sample_index": 65
+  },
+  {
+    "question_id": 3002839,
+    "generated_question": "Before Japan, to whom did Angela Merkel last express pessimism?",
+    "reference_questions": [
+      "After China, who was the first to make pessimistic comments about Angela Merkel?"
+    ],
+    "sample_index": 66
+  },
+  {
+    "question_id": 3005294,
+    "generated_question": "On 30 March 2005, who wanted to meet with China?",
+    "reference_questions": [
+      "Who wanted to negotiate with China on 30 March 2005?"
+    ],
+    "sample_index": 67
+  },
+  {
+    "question_id": 3038458,
+    "generated_question": "Which year did Saud bin Faisal bin Abdul-Aziz rejected Iraq?",
+    "reference_questions": [
+      "Which year did Saud bin Faisal bin Abdul-Aziz reject Iraq?"
+    ],
+    "sample_index": 68
+  },
+  {
+    "question_id": 3018824,
+    "generated_question": "In which month did Zanzibar express interest in working with Citizen (Tanzania)?",
+    "reference_questions": [
+      "At what time did Zanzibar first express an interest in cooperating with the citizens of Tanzania?"
+    ],
+    "sample_index": 69
+  },
+  {
+    "question_id": 3039189,
+    "generated_question": "Who visited Ethiopia on 29 January 2015?",
+    "reference_questions": [
+      "Who visited Ethiopia on 29 January 2015?"
+    ],
+    "sample_index": 70
+  },
+  {
+    "question_id": 3022631,
+    "generated_question": "When did the Human Rights Watch first investigate Iraq?",
+    "reference_questions": [
+      "When did Human Rights Watch first investigate Iraq?"
+    ],
+    "sample_index": 71
+  },
+  {
+    "question_id": 3055638,
+    "generated_question": "When did China first express its intention to negotiate with Japan?",
+    "reference_questions": [
+      "When did Jack Straw last declare his intention to negotiate with China?"
+    ],
+    "sample_index": 72
+  },
+  {
+    "question_id": 3050914,
+    "generated_question": "Who visited Kuwait on 21 November 2013?",
+    "reference_questions": [
+      "Who visited Kuwait on 21 November 2013?"
+    ],
+    "sample_index": 73
+  },
+  {
+    "question_id": 3044102,
+    "generated_question": "With whom did China first formally sign an agreement after the Vietnam?",
+    "reference_questions": [
+      "Which country was the first to sign formal agreements with the Ministry of Foreign Affairs of Vietnam, after China?"
+    ],
+    "sample_index": 74
+  },
+  {
+    "question_id": 3015785,
+    "generated_question": "In which month did the Economist (China) use force against China?",
+    "reference_questions": [
+      "In which month did the Economist of China use unconventional force against China?"
+    ],
+    "sample_index": 75
+  },
+  {
+    "question_id": 3034919,
+    "generated_question": "Who last receive the visit from Head of Government (India) before Thailand did?",
+    "reference_questions": [
+      "Which country host the visit from the head of government of India last before Thailand did?"
+    ],
+    "sample_index": 76
+  },
+  {
+    "question_id": 3034018,
+    "generated_question": "Who last wanted to cooperate with China?",
+    "reference_questions": [
+      "In October 2006, who expressed an interest in cooperation with China?"
+    ],
+    "sample_index": 77
+  },
+  {
+    "question_id": 3055459,
+    "generated_question": "After 2015-05, who condemned China?",
+    "reference_questions": [
+      "Who gave China threats after 2015-05-6?"
+    ],
+    "sample_index": 78
+  },
+  {
+    "question_id": 3025173,
+    "generated_question": "In what year did James Baker criticise Iraq?",
+    "reference_questions": [
+      "In what year was James Baker critical of Iraq?"
+    ],
+    "sample_index": 79
+  },
+  {
+    "question_id": 3035404,
+    "generated_question": "In which year did the Military (Taiwan) last rejected China?",
+    "reference_questions": [
+      "In which year did the Military of Taiwan reject China?"
+    ],
+    "sample_index": 80
+  },
+  {
+    "question_id": 3012776,
+    "generated_question": "In which year did Uhuru Muigai Kenyatta praise China for the first time?",
+    "reference_questions": [
+      "In which year did Uhuru Muigai Kenyatta first praise China?"
+    ],
+    "sample_index": 81
+  },
+  {
+    "question_id": 3044681,
+    "generated_question": "Before Ethiopia, with whom did Benjamin Netanyahu last express his intention to negotiate?",
+    "reference_questions": [
+      "Before Ethiopia, with whom did Benjamin Netanyahu last express an intention to negotiate?"
+    ],
+    "sample_index": 82
+  },
+  {
+    "question_id": 3049628,
+    "generated_question": "Who last wanted to meet Cambodia on 2009-12-23?",
+    "reference_questions": [
+      "In December 2009, who wanted to meet with Cambodia?"
+    ],
+    "sample_index": 83
+  },
+  {
+    "question_id": 3021596,
+    "generated_question": "In which year did Oman host a visit from Nuri al-Maliki?",
+    "reference_questions": [
+      "Which year did Oman receive the visit from Nuri al-Maliki?"
+    ],
+    "sample_index": 84
+  },
+  {
+    "question_id": 3051965,
+    "generated_question": "In which year did the Citizen (Mongolia) express intent to provide military protection or peacekeeping to Iraq?",
+    "reference_questions": [
+      "In which year did the military of the Middle East support Iraq?"
+    ],
+    "sample_index": 85
+  },
+  {
+    "question_id": 3039558,
+    "generated_question": "After China, who first expressed intent to engage in diplomatic cooperation such as policy support with South Sudan?",
+    "reference_questions": [
+      "After China, with which country did South Sudan express its intention to establish diplomatic cooperation?"
+    ],
+    "sample_index": 86
+  },
+  {
+    "question_id": 3032908,
+    "generated_question": "In which month did Nuon Chea first visit Cambodia?",
+    "reference_questions": [
+      "In which month did Nuon Chea visit Cambodia for the first time?"
+    ],
+    "sample_index": 87
+  },
+  {
+    "question_id": 3014400,
+    "generated_question": "When did the Congress (United States) first make pessimistic comments about China?",
+    "reference_questions": [
+      "When did the United States Congress first make pessimistic comments about China?"
+    ],
+    "sample_index": 88
+  },
+  {
+    "question_id": 3014620,
+    "generated_question": "With whom did Kuwait last negotiate before Iraq?",
+    "reference_questions": [
+      "Who wanted to negotiate with Kuwait in the same month as the German Chancellor?"
+    ],
+    "sample_index": 89
+  },
+  {
+    "question_id": 3039637,
+    "generated_question": "Before George Yeo, who last made optimistic comments about Cambodia?",
+    "reference_questions": [
+      "Before George Yeo, who was the last to make optimistic comments about Cambodia?"
+    ],
+    "sample_index": 90
+  },
+  {
+    "question_id": 3032358,
+    "generated_question": "In which month did Abdirahman Mohamed Farole want to meet with Ethiopia?",
+    "reference_questions": [
+      "Could you tell me the exact month in which Abdirahman Mohamed Farole first expressed his intention to negotiate with Djibouti?"
+    ],
+    "sample_index": 91
+  },
+  {
+    "question_id": 3023405,
+    "generated_question": "Who was the last person to appeal for China before Government Official (Japan)?",
+    "reference_questions": [
+      "After Angela Merkel, which country was the first to make an appeal to China?"
+    ],
+    "sample_index": 92
+  },
+  {
+    "question_id": 3020326,
+    "generated_question": "Before 2005-03-31, who wanted to work with Cambodia?",
+    "reference_questions": [
+      "Which country wanted to cooperate with Cambodia before 31 March 2005?"
+    ],
+    "sample_index": 93
+  },
+  {
+    "question_id": 3032678,
+    "generated_question": "Before Wen Jiabao, who was the last to express an intention to cooperate with Thailand?",
+    "reference_questions": [
+      "Before Thailand, who was the last to offer cooperation to Wen Jiabao?"
+    ],
+    "sample_index": 94
+  },
+  {
+    "question_id": 3009738,
+    "generated_question": "After Daily Monitor, who was the first to give a denouncement to the citizens of China?",
+    "reference_questions": [
+      "Which country was the first to be accused by China after the women of China?"
+    ],
+    "sample_index": 95
+  },
+  {
+    "question_id": 3022676,
+    "generated_question": "In which year did Iraq host a visit from Kuwait?",
+    "reference_questions": [
+      "In what year did Iraq last criticise Kuwait?"
+    ],
+    "sample_index": 96
+  },
+  {
+    "question_id": 3012948,
+    "generated_question": "Before the National Congress of African Union, who was the last to be criticised by the UN Security Council?",
+    "reference_questions": [
+      "Who was criticised by the UN Security Council on the same month of Cambodia?"
+    ],
+    "sample_index": 97
+  },
+  {
+    "question_id": 3009027,
+    "generated_question": "In 2008-04-12, who would wish to visit China?",
+    "reference_questions": [
+      "Who expressed the intention to meet with China on 12 April 2008?"
+    ],
+    "sample_index": 98
+  },
+  {
+    "question_id": 3049635,
+    "generated_question": "In which month did Adrian Cioroianu praise China?",
+    "reference_questions": [
+      "What month did Adrian Cioroianu praise China?"
+    ],
+    "sample_index": 99
+  },
+  {
+    "question_id": 3045812,
+    "generated_question": "Before the Vuk Jeremić, which country last expressed its intention to meet with Malaysia?",
+    "reference_questions": [
+      "In the same month as Vuk Jeremić, who wanted to negotiate with Malaysia?"
+    ],
+    "sample_index": 100
+  },
+  {
+    "question_id": 3041296,
+    "generated_question": "Who did China rejected after 2015-05?",
+    "reference_questions": [
+      "After 2015-05, which country did China reject?"
+    ],
+    "sample_index": 101
+  },
+  {
+    "question_id": 3042520,
+    "generated_question": "In which year did Barack Obama last express his intention to meet with China?",
+    "reference_questions": [
+      "Which year did China last blame the Congress of United States?"
+    ],
+    "sample_index": 102
+  },
+  {
+    "question_id": 3003873,
+    "generated_question": "When did China last make optimistic comments about Iraq?",
+    "reference_questions": [
+      "When did China make optimistic remarks about Italy's foreign policy?"
+    ],
+    "sample_index": 103
+  },
+  {
+    "question_id": 3029843,
+    "generated_question": "After Comoros, which country hosted International Monetary Fund's visit from International Monetary Fund first?",
+    "reference_questions": [
+      "Which country receive the visit from International Monetary Fund first after Comoros did?"
+    ],
+    "sample_index": 104
+  },
+  {
+    "question_id": 3004229,
+    "generated_question": "After Cambodia, which country hosted Envoy (United States)'s visit from Envoy (United States) first?",
+    "reference_questions": [
+      "After Cambodia, which country received the visit from the Envoy of United States first?"
+    ],
+    "sample_index": 105
+  },
+  {
+    "question_id": 3055850,
+    "generated_question": "On 30 April 2007, which organization praised China?",
+    "reference_questions": [
+      "Who honoured China on 30 April 2007?"
+    ],
+    "sample_index": 106
+  },
+  {
+    "question_id": 3053431,
+    "generated_question": "On 21 June 2005, who wanted to meet with China?",
+    "reference_questions": [
+      "On 21 June 2005, who expressed the intention to negotiate with China?"
+    ],
+    "sample_index": 107
+  },
+  {
+    "question_id": 3026022,
+    "generated_question": "Who visited Iraq on 10 November 2005?",
+    "reference_questions": [
+      "Who paid a visit to Iraq on 10 November 2005?"
+    ],
+    "sample_index": 108
+  },
+  {
+    "question_id": 3051214,
+    "generated_question": "In which month did Malaysia express intent to engage in diplomatic cooperation such as policy support with China?",
+    "reference_questions": [
+      "In which month did the citizens of Saudi Arabia want to participate in diplomatic cooperation with Malaysia?"
+    ],
+    "sample_index": 109
+  },
+  {
+    "question_id": 3018534,
+    "generated_question": "In which year did China make pessimistic remarks about Vincent C. Siew?",
+    "reference_questions": [
+      "In which year did Vincent C. Siew make optimistic remarks about China?"
+    ],
+    "sample_index": 110
+  },
+  {
+    "question_id": 3049338,
+    "generated_question": "Could you tell me the exact month when China formally signed an agreement with Ashraf Ghani Ahmadzai for the first time?",
+    "reference_questions": [
+      "When did Ashraf Ghani Ahmadzai last sign formal agreements with China?"
+    ],
+    "sample_index": 111
+  },
+  {
+    "question_id": 3038383,
+    "generated_question": "Who accusedd China on 8 May 2006?",
+    "reference_questions": [
+      "Who denounced China on 8 May 2006?"
+    ],
+    "sample_index": 112
+  },
+  {
+    "question_id": 3039438,
+    "generated_question": "Which country was the first to seek diplomatic cooperation with Malaysia?",
+    "reference_questions": [
+      "Which was the last country to seek diplomatic cooperation with Malaysia?"
+    ],
+    "sample_index": 113
+  },
+  {
+    "question_id": 3034210,
+    "generated_question": "Before China, who was the last to negotiate with the Citizen (North Korea)?",
+    "reference_questions": [
+      "Before China, which country wished to negotiate with the citizens of North Korea last?"
+    ],
+    "sample_index": 114
+  },
+  {
+    "question_id": 3052791,
+    "generated_question": "On 28 August 2009, which country signed a formal agreement with Glaxosmithkline?",
+    "reference_questions": [
+      "Which country signed formal agreements with Glaxosmithkline in August 2009?"
+    ],
+    "sample_index": 115
+  },
+  {
+    "question_id": 3009319,
+    "generated_question": "In what year did Sengoku Yoshito last appeal to China?",
+    "reference_questions": [
+      "In what year did Sengoku Yoshito last appeal to China?"
+    ],
+    "sample_index": 116
+  },
+  {
+    "question_id": 3035904,
+    "generated_question": "Before the Head of Government (Sri Lanka), which country last expressed its intention to meet with Cambodia?",
+    "reference_questions": [
+      "Who would want to negotiate with Cambodia last before the head of government of Sri Lanka did?"
+    ],
+    "sample_index": 117
+  },
+  {
+    "question_id": 3049256,
+    "generated_question": "When did Ali Abdullah Saleh first praise Kuwait?",
+    "reference_questions": [
+      "When did Ali Abdullah Saleh first praise Kuwait?"
+    ],
+    "sample_index": 118
+  },
+  {
+    "question_id": 3047956,
+    "generated_question": "Before the Burundi, which country last expressed its intention to meet with Djibouti?",
+    "reference_questions": [
+      "Before Burundi, who wanted to negotiate with Djibouti last?"
+    ],
+    "sample_index": 119
+  },
+  {
+    "question_id": 3052395,
+    "generated_question": "Who was the last country with which Kuwait wanted to cooperate?",
+    "reference_questions": [
+      "Which country was the last to want to cooperate with Kuwait in 2007?"
+    ],
+    "sample_index": 120
+  },
+  {
+    "question_id": 3016065,
+    "generated_question": "Who was the last to visit Kuwait before Middle East?",
+    "reference_questions": [
+      "Before Kuwait, which country hosted the last visit from the Middle East?"
+    ],
+    "sample_index": 121
+  },
+  {
+    "question_id": 3045135,
+    "generated_question": "After 2014-05-07, with whom did Ethiopia express an interest in cooperation?",
+    "reference_questions": [
+      "After 7 May 2014, which country wanted to cooperate with Ethiopia?"
+    ],
+    "sample_index": 122
+  },
+  {
+    "question_id": 3040498,
+    "generated_question": "After the Villager (Thailand), who was the first to suffer from the conventional military forces of Thailand?",
+    "reference_questions": [
+      "After the villager of Thailand, which was the first country against which Thailand used conventional military force?"
+    ],
+    "sample_index": 123
+  },
+  {
+    "question_id": 3014892,
+    "generated_question": "When did China first threatened the Government (Germany)?",
+    "reference_questions": [
+      "In which month did China threaten Angela Merkel for the first time?"
+    ],
+    "sample_index": 124
+  },
+  {
+    "question_id": 3032498,
+    "generated_question": "Who praised Oman before Oct, the year 2010?",
+    "reference_questions": [
+      "Before Sep 2010, who praised Oman?"
+    ],
+    "sample_index": 125
+  },
+  {
+    "question_id": 3044554,
+    "generated_question": "Who did the Government Official of Men (Malaysia) request for last before Malaysia?",
+    "reference_questions": [
+      "Before Malaysia, who made the last request to the men of Malaysia?"
+    ],
+    "sample_index": 126
+  },
+  {
+    "question_id": 3036495,
+    "generated_question": "When did Julia Gillard visit Iraq for the first time?",
+    "reference_questions": [
+      "In which year did Christine Lagarde last visit Iraq?"
+    ],
+    "sample_index": 127
+  },
+  {
+    "question_id": 3046149,
+    "generated_question": "Who visited Malaysia on 11 March 2014?",
+    "reference_questions": [
+      "Which country paid a visit to Malaysia on 11 March 2014?"
+    ],
+    "sample_index": 128
+  },
+  {
+    "question_id": 3043624,
+    "generated_question": "In which month did Saud bin Faisal bin Abdul-Aziz last visit China?",
+    "reference_questions": [
+      "In which month did Saud bin Faisal bin Abdul-Aziz visit China for the first time?"
+    ],
+    "sample_index": 129
+  },
+  {
+    "question_id": 3038118,
+    "generated_question": "On 20 December 2014, who threateneded China?",
+    "reference_questions": [
+      "Who is China threatening in December 2014?"
+    ],
+    "sample_index": 130
+  },
+  {
+    "question_id": 3036544,
+    "generated_question": "Who acted againsted the citizens of Thailand with small arms and light weapons on 30 May 2005?",
+    "reference_questions": [
+      "Who used small arms and light weapons against Thailand on 30 May 2005?"
+    ],
+    "sample_index": 131
+  },
+  {
+    "question_id": 3005310,
+    "generated_question": "Who did China accuse before 2005-08-15?",
+    "reference_questions": [
+      "Before 15 August 2005, which country did China accuse?"
+    ],
+    "sample_index": 132
+  },
+  {
+    "question_id": 3051882,
+    "generated_question": "Before Haider Al-Abadi, who was the last to investigate Iraq?",
+    "reference_questions": [
+      "Who was the first to investigate Iraq after Haider Al-Abadi?"
+    ],
+    "sample_index": 133
+  },
+  {
+    "question_id": 3011790,
+    "generated_question": "When did the Royal Administration of Saudi Arabia first telephone Iraq?",
+    "reference_questions": [
+      "When was the last time the Royal Administration of Saudi Arabia had a telephone conversation with Iraq?"
+    ],
+    "sample_index": 134
+  },
+  {
+    "question_id": 3050121,
+    "generated_question": "When did USS Nimitz visit Malaysia for the first time?",
+    "reference_questions": [
+      "When did the USS Nimitz first visit Malaysia?"
+    ],
+    "sample_index": 135
+  },
+  {
+    "question_id": 3046904,
+    "generated_question": "In what year did China first express her intention to meet with Japan?",
+    "reference_questions": [
+      "In what year did Sri Lanka's United National Party first express its intention to negotiate with China?"
+    ],
+    "sample_index": 136
+  },
+  {
+    "question_id": 3034981,
+    "generated_question": "Who negotiated with Cambodia on 01 September 2011?",
+    "reference_questions": [
+      "Which country held negotiations with Cambodia in September 2011?"
+    ],
+    "sample_index": 137
+  },
+  {
+    "question_id": 3048676,
+    "generated_question": "Before Malaysia, who formally signed an agreement with Moro Islamic Liberation Front?",
+    "reference_questions": [
+      "Who formally signed an agreement with the Moro Islamic Liberation Front before Malaysia?"
+    ],
+    "sample_index": 138
+  },
+  {
+    "question_id": 3043046,
+    "generated_question": "When did the Association of Southeast Asian Nations make its first appeal to Thailand?",
+    "reference_questions": [
+      "When did the Association of Southeast Asian Nations ask Thailand for the first time?"
+    ],
+    "sample_index": 139
+  },
+  {
+    "question_id": 3033003,
+    "generated_question": "In what year did Qatar first formally sign an agreement with Cambodia?",
+    "reference_questions": [
+      "In what year did Cambodia sign formal agreements with the government of Qatar?"
+    ],
+    "sample_index": 140
+  },
+  {
+    "question_id": 3029461,
+    "generated_question": "In which month did Michael Andrew Gove last visit China?",
+    "reference_questions": [
+      "In what month did Michael Andrew Gove last visit China?"
+    ],
+    "sample_index": 141
+  },
+  {
+    "question_id": 3041019,
+    "generated_question": "With whom did the Supreme Council of Iraq last negotiate before the Barack Obama?",
+    "reference_questions": [
+      "With which country did Iraq first express its intention to meet in 2012?"
+    ],
+    "sample_index": 142
+  },
+  {
+    "question_id": 3048645,
+    "generated_question": "When did China make his first appeal to Citizen (International)?",
+    "reference_questions": [
+      "Could you tell me the exact month when Julie Bishop first asked China?"
+    ],
+    "sample_index": 143
+  },
+  {
+    "question_id": 3054977,
+    "generated_question": "Who made an appeal to China on 28 July 2006?",
+    "reference_questions": [
+      "Who made an appeal to China on 28 July 2006?"
+    ],
+    "sample_index": 144
+  },
+  {
+    "question_id": 3035416,
+    "generated_question": "In 2012-10-26, who would wish to visit Ethiopia?",
+    "reference_questions": [
+      "Who wanted to negotiate with Ethiopia on 26 October 2012?"
+    ],
+    "sample_index": 145
+  },
+  {
+    "question_id": 3024649,
+    "generated_question": "In which year did Swaziland first negotiate with South Africa?",
+    "reference_questions": [
+      "In which year did South Africa last express an intention to meet with Swaziland?"
+    ],
+    "sample_index": 146
+  },
+  {
+    "question_id": 3005105,
+    "generated_question": "Before Malaysia, with whom did Shaukat Aziz last express the intention to engage in diplomatic cooperation?",
+    "reference_questions": [
+      "Before Malaysia, with which country did Shaukat Aziz announce his intention to engage in diplomatic cooperation?"
+    ],
+    "sample_index": 147
+  },
+  {
+    "question_id": 3004199,
+    "generated_question": "What was the last month of Liu Yandong's appeal to China?",
+    "reference_questions": [
+      "When did Liu Yandong last appeal to China?"
+    ],
+    "sample_index": 148
+  },
+  {
+    "question_id": 3003484,
+    "generated_question": "After China, who was the first to make negative remarks about Cristina Fernández de Kirchner?",
+    "reference_questions": [
+      "After China, who did Cristina Fernández de Kirchner make negative remarks about?"
+    ],
+    "sample_index": 149
+  },
+  {
+    "question_id": 3025619,
+    "generated_question": "Who visited Thailand in 2007?",
+    "reference_questions": [
+      "Who visited Thailand in January 2007?"
+    ],
+    "sample_index": 150
+  },
+  {
+    "question_id": 3012811,
+    "generated_question": "In 2009-01-26, who would wish to visit Malaysia?",
+    "reference_questions": [
+      "On 26 January 2009, who expressed the intention to negotiate with Malaysia?"
+    ],
+    "sample_index": 151
+  },
+  {
+    "question_id": 3045586,
+    "generated_question": "In which month did Thailand last provide humanitarian aid to the citizens of Thailand?",
+    "reference_questions": [
+      "In which month did Thailand provide humanitarian aid to the villagers of Thailand?"
+    ],
+    "sample_index": 152
+  },
+  {
+    "question_id": 3053568,
+    "generated_question": "Who was the last to visit Oman before Kuwait?",
+    "reference_questions": [
+      "Who was the first to visit Oman after Barack Obama?"
+    ],
+    "sample_index": 153
+  },
+  {
+    "question_id": 3007967,
+    "generated_question": "On 7 October 2014, which country signed a formal agreement with Thailand?",
+    "reference_questions": [
+      "Which country formally signed an agreement with Thailand on 7 October 2014?"
+    ],
+    "sample_index": 154
+  },
+  {
+    "question_id": 3002319,
+    "generated_question": "When did China sign an agreement with Yoshihiko Noda?",
+    "reference_questions": [
+      "When did China sign an agreement with Yoshihiko Noda?"
+    ],
+    "sample_index": 155
+  },
+  {
+    "question_id": 3033737,
+    "generated_question": "Who last threateneded Iraq before Barack Obama?",
+    "reference_questions": [
+      "In 2015, which country last threatened Iraq?"
+    ],
+    "sample_index": 156
+  },
+  {
+    "question_id": 3054888,
+    "generated_question": "Before George Yeo, with whom did Cambodia formally sign an agreement?",
+    "reference_questions": [
+      "Who did Cambodia sign an agreement with in the same month as George Yeo?"
+    ],
+    "sample_index": 157
+  },
+  {
+    "question_id": 3001886,
+    "generated_question": "After 2014-12, which country would like to cooperate with Malaysia?",
+    "reference_questions": [
+      "Which country offered cooperation to Malaysia after 2014-12?"
+    ],
+    "sample_index": 158
+  },
+  {
+    "question_id": 3004340,
+    "generated_question": "After the Tsai Ing-wen, who was the first to denounce China?",
+    "reference_questions": [
+      "After China, whom did Tsai Ing-wen denounce first?"
+    ],
+    "sample_index": 159
+  },
+  {
+    "question_id": 3014237,
+    "generated_question": "When was the last time Envoy (United States) visited Ethiopia?",
+    "reference_questions": [
+      "When was the last time the United States envoy visited Ethiopia?"
+    ],
+    "sample_index": 160
+  },
+  {
+    "question_id": 3020076,
+    "generated_question": "Who made the last appeal to Other Authorities / Officials (Egypt) before Ethiopia?",
+    "reference_questions": [
+      "Who requested the other authorities and officials of Egypt on the same year of Ethiopia?"
+    ],
+    "sample_index": 161
+  },
+  {
+    "question_id": 3036826,
+    "generated_question": "Who wanted to meet with Iraq on October 18, 2012?",
+    "reference_questions": [
+      "Who expressed the intention to negotiate with Iraq in October 2012?"
+    ],
+    "sample_index": 162
+  },
+  {
+    "question_id": 3010186,
+    "generated_question": "When did Karl-Theodor zu Guttenberg last wish to engage in diplomatic cooperation with China?",
+    "reference_questions": [
+      "When did Libya's airline express its intention to negotiate with China?"
+    ],
+    "sample_index": 163
+  },
+  {
+    "question_id": 3023729,
+    "generated_question": "On 9 June 2006, who wanted to meet with China?",
+    "reference_questions": [
+      "On 9 June 2006, who announced their intention to negotiate with China?"
+    ],
+    "sample_index": 164
+  },
+  {
+    "question_id": 3047199,
+    "generated_question": "Before Thailand, with whom did China sign the last agreement?",
+    "reference_questions": [
+      "Who was the first to sign formal agreements with China after Yoshihiko Noda?"
+    ],
+    "sample_index": 165
+  },
+  {
+    "question_id": 3009794,
+    "generated_question": "In which month did China receive the visit from Donald Rumsfeld?",
+    "reference_questions": [
+      "In which month did the Ministry of Chechnya visit China?"
+    ],
+    "sample_index": 166
+  },
+  {
+    "question_id": 3031352,
+    "generated_question": "After Government (Qatar), who was the first to sign an agreement with Cambodia?",
+    "reference_questions": [
+      "After the government of Qatar, with which country did Cambodia first sign formal agreements?"
+    ],
+    "sample_index": 167
+  },
+  {
+    "question_id": 3050405,
+    "generated_question": "Who visited China on 15 April 2011?",
+    "reference_questions": [
+      "Who paid a visit to China on 15 April 2011?"
+    ],
+    "sample_index": 168
+  },
+  {
+    "question_id": 3002502,
+    "generated_question": "In what year did Head of Government (Gambia) visit Thailand?",
+    "reference_questions": [
+      "When did Thailand receive the visit from the head of government of Gambia?"
+    ],
+    "sample_index": 169
+  },
+  {
+    "question_id": 3053322,
+    "generated_question": "In which year did Inquirer have the first telephone conversation with Loren Legarda?",
+    "reference_questions": [
+      "In which year did the Inquirer telephone the staff of the Philippines?"
+    ],
+    "sample_index": 170
+  },
+  {
+    "question_id": 3029335,
+    "generated_question": "Who praised Iraq on 2009-02-01?",
+    "reference_questions": [
+      "In February 2009, who denounced Iraq?"
+    ],
+    "sample_index": 171
+  },
+  {
+    "question_id": 3007722,
+    "generated_question": "Who was the last to visit China before Claire McCaskill?",
+    "reference_questions": [
+      "Who was the last person to visit China before Claire McCaskill?"
+    ],
+    "sample_index": 172
+  },
+  {
+    "question_id": 3017350,
+    "generated_question": "Who criticised China on 15 May 2005?",
+    "reference_questions": [
+      "Which country criticised China on 15 May 2005?"
+    ],
+    "sample_index": 173
+  },
+  {
+    "question_id": 3020977,
+    "generated_question": "Who was the first to visit China after Patrick Herminie?",
+    "reference_questions": [
+      "Who was the first to visit China after Patrick Herminie?"
+    ],
+    "sample_index": 174
+  },
+  {
+    "question_id": 3030279,
+    "generated_question": "In which year did Cambodia last appeal to High Commission for Refugees?",
+    "reference_questions": [
+      "In what year did Cambodia last make a request to the UN High Commission for Refugees?"
+    ],
+    "sample_index": 175
+  },
+  {
+    "question_id": 3000273,
+    "generated_question": "Who engaged in armed conflict with Thailand on 31 December 2013?",
+    "reference_questions": [
+      "Who used small arms and light weapons to attack Thailand on 31 December 2013?"
+    ],
+    "sample_index": 176
+  },
+  {
+    "question_id": 3052821,
+    "generated_question": "Before Hannah Tetteh, which was the last country to sign an agreement with Ethiopia?",
+    "reference_questions": [
+      "Before Hannah Tetteh, with which country did Ethiopia last sign formal agreements?"
+    ],
+    "sample_index": 177
+  },
+  {
+    "question_id": 3016794,
+    "generated_question": "Who asked for Oman after 2008?",
+    "reference_questions": [
+      "Who requested Oman after 2008?"
+    ],
+    "sample_index": 178
+  },
+  {
+    "question_id": 3003914,
+    "generated_question": "Who was the first to express intent to engage in diplomatic cooperation with China on 28 May 2013?",
+    "reference_questions": [
+      "Who wanted to establish diplomatic cooperation with China on 28 May 2013?"
+    ],
+    "sample_index": 179
+  },
+  {
+    "question_id": 3048063,
+    "generated_question": "Before Iraq, who was the last to speak optimistically about Abdel Fattah Al-Sisi?",
+    "reference_questions": [
+      "To whom did Abdel Fattah Al-Sisi make optimistic remarks after Iraq?"
+    ],
+    "sample_index": 180
+  },
+  {
+    "question_id": 3049884,
+    "generated_question": "On 1 August 2009, which country signed a formal agreement with China?",
+    "reference_questions": [
+      "On 1 August 2009, which country signed an agreement with China?"
+    ],
+    "sample_index": 181
+  },
+  {
+    "question_id": 3043495,
+    "generated_question": "After Comoros, which country first received the visit from African Union?",
+    "reference_questions": [
+      "Which country received the visit from Comoros first?"
+    ],
+    "sample_index": 182
+  },
+  {
+    "question_id": 3002071,
+    "generated_question": "After 2008-05-13, to whom did Malaysia return people?",
+    "reference_questions": [
+      "To which country did Malaysia return people after 13 May 2008?"
+    ],
+    "sample_index": 183
+  },
+  {
+    "question_id": 3012643,
+    "generated_question": "In which year did Special Rapporteurs of the United Nations express his intention to meet with Djibouti?",
+    "reference_questions": [
+      "In what year did Dick Durbin express an intention to meet with Djibouti?"
+    ],
+    "sample_index": 184
+  },
+  {
+    "question_id": 3033330,
+    "generated_question": "When did Chaiwat Sinsuwong visit Cambodia for the first time?",
+    "reference_questions": [
+      "In which year did Chaiwat Sinsuwong last visit Cambodia?"
+    ],
+    "sample_index": 185
+  },
+  {
+    "question_id": 3029411,
+    "generated_question": "Who was the first to negotiate with High Ranking Military Personnel (India) after China?",
+    "reference_questions": [
+      "After the High Ranking Military Personnel of India, who would wish to negotiate with China first?"
+    ],
+    "sample_index": 186
+  },
+  {
+    "question_id": 3002721,
+    "generated_question": "When did Lee Myung Bak last request China?",
+    "reference_questions": [
+      "When did the ruling party of South Korea first make a request to China?"
+    ],
+    "sample_index": 187
+  },
+  {
+    "question_id": 3031066,
+    "generated_question": "In which month did Iraq express his intention to cooperate with Kuwait?",
+    "reference_questions": [
+      "In what month did Kuwait last express interest in cooperating with Iraq?"
+    ],
+    "sample_index": 188
+  },
+  {
+    "question_id": 3026551,
+    "generated_question": "When did Daniel Scioli first express his intention to meet with Government (Germany)?",
+    "reference_questions": [
+      "When did Daniel Scioli last express an intention to negotiate with China?"
+    ],
+    "sample_index": 189
+  },
+  {
+    "question_id": 3054992,
+    "generated_question": "Who did Ethiopia want to negotiate with before 2005-03-29?",
+    "reference_questions": [
+      "Before 29 March 2005, who wanted to negotiate with Ethiopia?"
+    ],
+    "sample_index": 190
+  },
+  {
+    "question_id": 3012282,
+    "generated_question": "Who was the last to make optimistic comment Citizen (Nigeria) before China?",
+    "reference_questions": [
+      "Who did the citizens of Nigeria make optimistic comments about in the same month of China?"
+    ],
+    "sample_index": 191
+  },
+  {
+    "question_id": 3017879,
+    "generated_question": "Who was the last person to appeal for Thailand before Citizen (Thailand)?",
+    "reference_questions": [
+      "After the military ruler of Myanmar, who was the first to make a request to Thailand?"
+    ],
+    "sample_index": 192
+  },
+  {
+    "question_id": 3038408,
+    "generated_question": "In which year did Thailand appeal for de-escalation of military engagement to Cambodia?",
+    "reference_questions": [
+      "In what year did Cambodia appeal to the citizens of Thailand?"
+    ],
+    "sample_index": 193
+  },
+  {
+    "question_id": 3030374,
+    "generated_question": "In which month did China last express intent to engage in diplomatic cooperation with Iran?",
+    "reference_questions": [
+      "In which month did China first wish to engage in diplomatic cooperation with the citizens of North Korea?"
+    ],
+    "sample_index": 194
+  },
+  {
+    "question_id": 3021253,
+    "generated_question": "On 11 March 2007, which country wanted to cooperate with Thailand?",
+    "reference_questions": [
+      "On 11 March 2007, which country wanted to cooperate with Thailand?"
+    ],
+    "sample_index": 195
+  },
+  {
+    "question_id": 3016903,
+    "generated_question": "Who visited Ethiopia last before Abu Bakr Abdullah al-Qirbi?",
+    "reference_questions": [
+      "Before Abu Bakr Abdullah al-Qirbi, which country last received Ethiopia's visit from Ethiopia?"
+    ],
+    "sample_index": 196
+  },
+  {
+    "question_id": 3012340,
+    "generated_question": "Before 2015-02-18, which country received the visit from Cristina Fernández de Kirchner?",
+    "reference_questions": [
+      "Who was praised by Burundi before 18 February 2015?"
+    ],
+    "sample_index": 197
+  },
+  {
+    "question_id": 3000561,
+    "generated_question": "Who did the European Central Bank appeal to last, before Citizen (United Kingdom)?",
+    "reference_questions": [
+      "After China, who did the European Central Bank ask to become its first member?"
+    ],
+    "sample_index": 198
+  },
+  {
+    "question_id": 3000448,
+    "generated_question": "Who negotiated with Envoy (United States) after Thailand?",
+    "reference_questions": [
+      "Who was engaged in negotiation by the Envoy of United States after Thailand?"
+    ],
+    "sample_index": 199
+  },
+  {
+    "question_id": 3009021,
+    "generated_question": "Which country was the first to seek diplomatic cooperation with Thailand?",
+    "reference_questions": [
+      "With which country did Thailand first seek diplomatic cooperation in 2011?"
+    ],
+    "sample_index": 200
+  },
+  {
+    "question_id": 3009668,
+    "generated_question": "Who visited China on 2015-12-08?",
+    "reference_questions": [
+      "Who visited China on 8 December 2015?"
+    ],
+    "sample_index": 201
+  },
+  {
+    "question_id": 3049587,
+    "generated_question": "Who did Oman want to cooperate with before 2007-04-30?",
+    "reference_questions": [
+      "With which country did Oman announce its intention to engage in diplomatic cooperation before 30 April 2007?"
+    ],
+    "sample_index": 202
+  },
+  {
+    "question_id": 3042989,
+    "generated_question": "Which country rejected Cambodia after 2011-02-09?",
+    "reference_questions": [
+      "Cambodia was rejected by whom after 9 February 2011?"
+    ],
+    "sample_index": 203
+  },
+  {
+    "question_id": 3045599,
+    "generated_question": "In which year did Swaziland first negotiate with South Africa?",
+    "reference_questions": [
+      "In what year did Swaziland first express its intention to meet with South Africa?"
+    ],
+    "sample_index": 204
+  },
+  {
+    "question_id": 3017393,
+    "generated_question": "In which year did Thailand host the visit of Malaysia?",
+    "reference_questions": [
+      "In which year did Thailand host the visit of international governmental organisations?"
+    ],
+    "sample_index": 205
+  },
+  {
+    "question_id": 3051780,
+    "generated_question": "Who negotiated with China on the same day as Xu Caihou?",
+    "reference_questions": [
+      "In the same month, which country investigated China for Xu Caihou?"
+    ],
+    "sample_index": 206
+  },
+  {
+    "question_id": 3012764,
+    "generated_question": "Who was the last to visit Iraq before Barack Obama?",
+    "reference_questions": [
+      "After Ryutaro Hashimoto, who was the first to visit Iraq?"
+    ],
+    "sample_index": 207
+  },
+  {
+    "question_id": 3006653,
+    "generated_question": "Who was the first to make negative remarks about China after Cambodia?",
+    "reference_questions": [
+      "After China, which country was the first to be denounced by Cambodia?"
+    ],
+    "sample_index": 208
+  },
+  {
+    "question_id": 3055846,
+    "generated_question": "Who would wish to visit Iraq last in 2005?",
+    "reference_questions": [
+      "Who visited Iraq on the same day as Cuba's top military officials?"
+    ],
+    "sample_index": 209
+  },
+  {
+    "question_id": 3054446,
+    "generated_question": "Which country was the first to visit Thailand after Chen Wu?",
+    "reference_questions": [
+      "Who was the first to visit Thailand after Chen Wu?"
+    ],
+    "sample_index": 210
+  },
+  {
+    "question_id": 3034556,
+    "generated_question": "Before September 2005, who made a statement to Benedict XVI?",
+    "reference_questions": [
+      "Before September 2005, which country did Malaysia make pessimistic remarks about?"
+    ],
+    "sample_index": 211
+  },
+  {
+    "question_id": 3012864,
+    "generated_question": "Which country receive the Presidential Family of United States's visit from the Presidential Family of United States last before Kuwait did?",
+    "reference_questions": [
+      "Which country last receive the visit from the Presidential Family of United States before Kuwait did?"
+    ],
+    "sample_index": 212
+  },
+  {
+    "question_id": 3031880,
+    "generated_question": "On 16 February 2011, who made a pessimistic comment about China?",
+    "reference_questions": [
+      "Who made pessimistic remarks about China in February 2011?"
+    ],
+    "sample_index": 213
+  },
+  {
+    "question_id": 3046427,
+    "generated_question": "When did Sheikh Ahmed Abdullah last express his intention to meet with Malaysia?",
+    "reference_questions": [
+      "When did Sheikh Ahmed Abdullah first express his intention to negotiate with Malaysia?"
+    ],
+    "sample_index": 214
+  },
+  {
+    "question_id": 3030137,
+    "generated_question": "In what month did China last accuse Japan?",
+    "reference_questions": [
+      "In which month did the citizens of Venezuela first accuse China?"
+    ],
+    "sample_index": 215
+  },
+  {
+    "question_id": 3010425,
+    "generated_question": "In which year did Bank (China) deploy military force against China?",
+    "reference_questions": [
+      "In which year did the Bank of China use conventional military force against China?"
+    ],
+    "sample_index": 216
+  },
+  {
+    "question_id": 3001674,
+    "generated_question": "When did Malaysia last appeal to China?",
+    "reference_questions": [
+      "In which month did Malaysia make a request to Keng Yaik?"
+    ],
+    "sample_index": 217
+  },
+  {
+    "question_id": 3028722,
+    "generated_question": "In which year did China last praise UN Security Council?",
+    "reference_questions": [
+      "In which year did Jusuf Kalla first praise China?"
+    ],
+    "sample_index": 218
+  },
+  {
+    "question_id": 3050023,
+    "generated_question": "Who was the first country with whom Cape Verde expressed an intention to engage in diplomatic cooperation after China?",
+    "reference_questions": [
+      "After the Foreign Ministry of Cape Verde, with which country did China first want to establish diplomatic cooperation?"
+    ],
+    "sample_index": 219
+  },
+  {
+    "question_id": 3039453,
+    "generated_question": "In which month did Malaysia last express its intention to engage in diplomatic cooperation with China?",
+    "reference_questions": [
+      "In which month did the citizens of Saudi Arabia last wish to establish diplomatic cooperation with Malaysia?"
+    ],
+    "sample_index": 220
+  },
+  {
+    "question_id": 3020192,
+    "generated_question": "Who was the last country to want to engage in diplomatic cooperation with China before Police (Hong Kong)?",
+    "reference_questions": [
+      "After Alexis Tsipras, who was the first to express the intention to participate in diplomatic cooperation with China?"
+    ],
+    "sample_index": 221
+  },
+  {
+    "question_id": 3019294,
+    "generated_question": "With whom did Cambodia want to cooperate after 2015-06?",
+    "reference_questions": [
+      "After 2015-06, which country did Cambodia express cooperation to?"
+    ],
+    "sample_index": 222
+  },
+  {
+    "question_id": 3055510,
+    "generated_question": "In what year did Liu Yandong last appeal to China?",
+    "reference_questions": [
+      "In which year did Liu Yandong make his first appeal to China?"
+    ],
+    "sample_index": 223
+  },
+  {
+    "question_id": 3042288,
+    "generated_question": "Which country did Bill Richardson want to meet in the same month as China?",
+    "reference_questions": [
+      "After Bill Richardson, which country first expressed its intention to meet with China?"
+    ],
+    "sample_index": 224
+  },
+  {
+    "question_id": 3026223,
+    "generated_question": "Before Thailand, which country was the last to provide humanitarian aid to Malaysia?",
+    "reference_questions": [
+      "Who gave humanitarian aid to Malaysia before Thailand?"
+    ],
+    "sample_index": 225
+  },
+  {
+    "question_id": 3053605,
+    "generated_question": "In which month did Thailand receive the visit from Alhaji Lai Mohammed?",
+    "reference_questions": [
+      "Could you tell me the exact month when Alhaji Lai Mohammed visited Thailand?"
+    ],
+    "sample_index": 226
+  },
+  {
+    "question_id": 3002152,
+    "generated_question": "Who last praised John Baird before Angela Merkel?",
+    "reference_questions": [
+      "After Thailand, who was the first to host the visit of John Baird?"
+    ],
+    "sample_index": 227
+  },
+  {
+    "question_id": 3024867,
+    "generated_question": "With whom did Cambodia last negotiate before Thailand?",
+    "reference_questions": [
+      "Which was the last country to express an intention to meet with Cambodia in 2008?"
+    ],
+    "sample_index": 228
+  },
+  {
+    "question_id": 3030822,
+    "generated_question": "Which country did Oman first want to cooperate with?",
+    "reference_questions": [
+      "With which country did Oman first express its intention to cooperate?"
+    ],
+    "sample_index": 229
+  },
+  {
+    "question_id": 3039149,
+    "generated_question": "Before Cambodia, which country received the visit from Yang Hyong Sop last?",
+    "reference_questions": [
+      "Before Cambodia, which country received the visit from Yang Hyong Sop last?"
+    ],
+    "sample_index": 230
+  },
+  {
+    "question_id": 3024842,
+    "generated_question": "On 11 April 2005, which country signed a formal agreement with Ethiopia?",
+    "reference_questions": [
+      "Which country was the last to formally sign an agreement with Ethiopia?"
+    ],
+    "sample_index": 231
+  },
+  {
+    "question_id": 3055357,
+    "generated_question": "Who was the last to condemn Business (Iran) before Iran?",
+    "reference_questions": [
+      "Before Oman, to whom did the Business of Iran last make optimistic remarks?"
+    ],
+    "sample_index": 232
+  },
+  {
+    "question_id": 3030230,
+    "generated_question": "In which year did the leader of China first express his intention to meet Sali Berisha?",
+    "reference_questions": [
+      "In which year did Sali Berisha first express his intention to meet with China?"
+    ],
+    "sample_index": 233
+  },
+  {
+    "question_id": 3044700,
+    "generated_question": "On 21 November 2015, which country praised China?",
+    "reference_questions": [
+      "Who praised China on 21 November 2015?"
+    ],
+    "sample_index": 234
+  },
+  {
+    "question_id": 3029523,
+    "generated_question": "When did the Mainland Affairs Council make a statement to China?",
+    "reference_questions": [
+      "When did China make negative remarks about the women of China?"
+    ],
+    "sample_index": 235
+  },
+  {
+    "question_id": 3026538,
+    "generated_question": "In which year did the Citizen (Africa) first make an appeal to China?",
+    "reference_questions": [
+      "In what year did the citizens of Africa last make a request to China?"
+    ],
+    "sample_index": 236
+  },
+  {
+    "question_id": 3049887,
+    "generated_question": "In what month did Mehmet Simsek visit the Kuwait?",
+    "reference_questions": [
+      "In which month did the Foreign Minister of Austria visit Kuwait?"
+    ],
+    "sample_index": 237
+  },
+  {
+    "question_id": 3016351,
+    "generated_question": "When did China host a visit from Admiral (Iran)?",
+    "reference_questions": [
+      "At what time did China receive the visit from the Admiral of Iran?"
+    ],
+    "sample_index": 238
+  },
+  {
+    "question_id": 3042732,
+    "generated_question": "In which year did Lawyer/Attorney (Malaysia) make a statement to Malaysia?",
+    "reference_questions": [
+      "Which year did the Lawyer/Attorney of Malaysia last blame Malaysia?"
+    ],
+    "sample_index": 239
+  },
+  {
+    "question_id": 3051733,
+    "generated_question": "When did China first rejected UN Security Council?",
+    "reference_questions": [
+      "At what time did the Air Force of Taiwan reject China?"
+    ],
+    "sample_index": 240
+  },
+  {
+    "question_id": 3017868,
+    "generated_question": "Who visited Iraq on 7 March 2008?",
+    "reference_questions": [
+      "Who visited Iraq on 7 March 2008?"
+    ],
+    "sample_index": 241
+  },
+  {
+    "question_id": 3046184,
+    "generated_question": "Who visited China on 14 November 2005?",
+    "reference_questions": [
+      "Who visited China on 14 November 2005?"
+    ],
+    "sample_index": 242
+  },
+  {
+    "question_id": 3033355,
+    "generated_question": "On 10 March 2015, who made an appeal to Thailand?",
+    "reference_questions": [
+      "Who made a request to Thailand on 10 March 2015?"
+    ],
+    "sample_index": 243
+  },
+  {
+    "question_id": 3021173,
+    "generated_question": "Who would wish to visit China on the same day of Maxime Verhagen?",
+    "reference_questions": [
+      "Who visited China on 16 May 2007?"
+    ],
+    "sample_index": 244
+  },
+  {
+    "question_id": 3004175,
+    "generated_question": "Who was the first to condemn South Korea after China?",
+    "reference_questions": [
+      "Who did China criticise the foreign minister of South Korea in the same month?"
+    ],
+    "sample_index": 245
+  },
+  {
+    "question_id": 3015864,
+    "generated_question": "After the activist of Citizen (Thailand), who did the citizens of Thailand criticise first?",
+    "reference_questions": [
+      "Which country did Thailand last speak optimistically about in 2005?"
+    ],
+    "sample_index": 246
+  },
+  {
+    "question_id": 3032246,
+    "generated_question": "Which country was the first to visit Ethiopia after Sedki Sobhi?",
+    "reference_questions": [
+      "Which country first hosted the visit of Sedki Sobhi after Ethiopia?"
+    ],
+    "sample_index": 247
+  },
+  {
+    "question_id": 3006646,
+    "generated_question": "Who did Japan want to cooperate with before 2005-06?",
+    "reference_questions": [
+      "Before 2005-06, with which country did Kuwait express cooperation?"
+    ],
+    "sample_index": 248
+  },
+  {
+    "question_id": 3026470,
+    "generated_question": "After the year 2015-04, with whom did Ethiopia express an intention to engage in diplomatic cooperation?",
+    "reference_questions": [
+      "After April 2015, with which country did Ethiopia express the intention to participate in diplomatic cooperation?"
+    ],
+    "sample_index": 249
+  }
+]

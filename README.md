@@ -10,12 +10,13 @@
 
 [![Project Page](https://img.shields.io/badge/Project_Page-ChronoSynth-ea6a20?style=for-the-badge)](https://fungloeng.github.io/ChronoSynth/)
 [![Artifact](https://img.shields.io/badge/Artifact-Paper_Aligned-26343e?style=for-the-badge)](PAPER_TRACEABILITY.md)
+[![Supplementary Experiments](https://img.shields.io/badge/Supplementary_Experiments-Available-7c3aed?style=for-the-badge)](supplementary_experiments/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab?style=for-the-badge&logo=python&logoColor=white)](requirements.txt)
 [![Data](https://img.shields.io/badge/Data-Not_Included-6b7280?style=for-the-badge)](DATASETS.md)
 
 Official implementation and paper-aligned supplementary artifact.
 
-[**Project page**](https://fungloeng.github.io/ChronoSynth/) · [**Reproduce experiments**](REPRODUCIBILITY.md) · [**Prepare datasets**](DATASETS.md) · [**Trace paper results**](PAPER_TRACEABILITY.md)
+[**Project page**](https://fungloeng.github.io/ChronoSynth/) · [**Reproduce experiments**](REPRODUCIBILITY.md) · [**Prepare datasets**](DATASETS.md) · [**Trace paper results**](PAPER_TRACEABILITY.md) · [**Supplementary experiments**](supplementary_experiments/)
 
 </div>
 
@@ -58,6 +59,38 @@ Full-test ChronoSynth results reported in the final manuscript:
 | MultiTQ | GPT-4o-mini | 0.3038 | 0.5231 | 2.6135 |
 
 On MultiTQ, ChronoSynth improves BLEU-4 by up to **53.3%** and CIDEr by up to **66.0%** over the strongest prompting-only baseline. Exact table provenance, ablations, grouped analyses, temporal-faithfulness audits, and efficiency results are recorded in [`paper_results/`](paper_results/) and [`PAPER_TRACEABILITY.md`](PAPER_TRACEABILITY.md).
+
+## Supplementary Experiment Results
+
+The supplementary experiments add a matched, reference-free semantic audit and a fair retrieval-resource comparison. New generations use GPT-4o-mini; TIS Recovery and Answer Recovery are model-assisted evaluations with GPT-4.1-mini. TIS Recovery receives only the generated question; Answer Recovery receives only the local graph and generated question. They are neither human evaluation nor executable query evaluation.
+
+### Matched fair retrieval comparison
+
+All methods below use the same matched IDs per dataset (CRONQUESTIONS: 972; MultiTQ: 1,000). Vanilla-RAG receives the same training-question pool and generator but no Temporal Intent State, temporal compatibility filter, typed-placeholder adaptation, or ChronoSynth validation.
+
+| Dataset | Method | BLEU-4 | CIDEr | TIS-EM | Answer F1 | Leakage ↓ |
+|:--|:--|--:|--:|--:|--:|--:|
+| CRONQUESTIONS | Full | **0.3016** | **2.8148** | 1.5% | **90.1%** | **0.2%** |
+| CRONQUESTIONS | No-memory | 0.1924 | 1.7073 | **9.5%** | 60.3% | 26.2% |
+| CRONQUESTIONS | Vanilla-RAG | 0.1777 | 1.6827 | 4.9% | 66.1% | 4.7% |
+| CRONQUESTIONS | Relation-only | 0.2858 | 2.6878 | 1.1% | 86.5% | 1.4% |
+| MultiTQ | Full | **0.3078** | **2.7639** | 11.1% | **74.0%** | 3.6% |
+| MultiTQ | No-memory | 0.1432 | 1.3816 | **20.0%** | 66.7% | **3.5%** |
+| MultiTQ | Vanilla-RAG | 0.2044 | 1.9952 | 5.2% | 66.4% | 6.7% |
+| MultiTQ | Relation-only | 0.2475 | 2.2014 | 13.8% | 66.1% | 4.0% |
+
+The audit exposes a measurable trade-off: Full improves matched lexical quality and Answer Recovery relative to generic retrieval, while No-memory has higher strict TIS-EM. Relation-only is competitive with Full on selected CRONQUESTIONS metrics and is therefore reported rather than omitted.
+
+### Constraint-sensitive Answer Recovery
+
+The constraint-sensitive subset contains examples with multiple relation-compatible candidates/events, multiple timestamps, or ordering/comparison constraints that can change the selected answer (CRONQUESTIONS: 276; MultiTQ: 675).
+
+| Dataset | Full | No-memory | Vanilla-RAG | Relation-only |
+|:--|--:|--:|--:|--:|
+| CRONQUESTIONS Answer F1 | **93.5%** | 64.0% | 60.4% | 82.6% |
+| MultiTQ Answer F1 | **69.1%** | 61.3% | 65.4% | 59.4% |
+
+The complete raw generations, parsed evaluations, exact sample IDs, paired statistics, component ablations, and diagnostics are available in [`supplementary_experiments/`](supplementary_experiments/).
 
 ## Getting Started
 
@@ -137,6 +170,7 @@ ChronoSynth/
 ├── experiments/                       # Paper experiment and analysis scripts
 ├── scripts/                           # Static KGQG data preparation
 ├── paper_results/                     # Frozen aggregate manuscript results
+├── supplementary_experiments/          # Supplementary raw outputs and matched summaries
 ├── docs/                              # GitHub Pages project site
 ├── run_full_chrono.py                 # Temporal benchmark runner
 ├── run_full_chrono_kgqg.py            # Static KGQG sanity-check runner

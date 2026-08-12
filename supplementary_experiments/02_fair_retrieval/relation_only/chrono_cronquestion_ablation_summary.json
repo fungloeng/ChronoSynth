@@ -1,0 +1,16 @@
+{
+  "dataset": "CRONQUESTION",
+  "model": "gpt-4o-mini",
+  "variants": [
+    {
+      "variant": "relation_only",
+      "output_path": "result/supplementary_core_20260812/03_fair_retrieval/relation_cronquestion/chrono_cronquestion_relation_only.json",
+      "BLEU-4": 0.2871994704071865,
+      "ROUGE-L": 0.49111393567139944,
+      "CIDEr": 2.6898883023473292,
+      "Distinct-1": 0.21084981293425975,
+      "Distinct-2": 0.40651281048308235,
+      "num_samples": 1000
+    }
+  ]
+}

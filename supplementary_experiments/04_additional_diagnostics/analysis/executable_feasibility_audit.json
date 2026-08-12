@@ -1,0 +1,50 @@
+{
+  "CRONQUESTION": {
+    "num_examples": 19122,
+    "top_level_fields": [
+      "annotation",
+      "answer_text",
+      "answer_type",
+      "answers",
+      "entities",
+      "paraphrases",
+      "question",
+      "question_id",
+      "relations",
+      "subgraph",
+      "template",
+      "times",
+      "type"
+    ],
+    "program_or_query_fields": [],
+    "examples_with_local_subgraph": 19122,
+    "examples_with_target_answers": 19122
+  },
+  "MULTITQ": {
+    "num_examples": 36318,
+    "top_level_fields": [
+      "answer_text",
+      "answer_type",
+      "answers",
+      "entities",
+      "paraphrases",
+      "qlabel",
+      "qtype",
+      "question",
+      "question_id",
+      "relations",
+      "subgraph",
+      "time_level",
+      "times",
+      "type"
+    ],
+    "program_or_query_fields": [],
+    "examples_with_local_subgraph": 36318,
+    "examples_with_target_answers": 36318
+  },
+  "verdict": {
+    "status": "not_reliably_executable",
+    "reason": "Both test sets provide target answers and local evidence subgraphs, but no gold logical form or executable query. Converting an unconstrained generated question back into a query would require a new semantic parser whose accuracy is not validated in this repository. Its execution score would therefore confound question preservation with parser errors.",
+    "safe_evidence_used_instead": "Report decomposed operator, answer-slot, comparator/reference, leakage, and overall faithfulness judgments, with matched-ID paired confidence intervals."
+  }
+}

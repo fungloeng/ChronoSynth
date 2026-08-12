@@ -1,0 +1,56 @@
+{
+  "dataset": "MULTITQ",
+  "model": "gpt-4o-mini",
+  "variants": [
+    {
+      "variant": "no_rule_index",
+      "output_path": "result/supplementary_20260811/field_ablation_multitq_1000/chrono_multitq_no_rule_index.json",
+      "BLEU-4": 0.26770167534920336,
+      "ROUGE-L": 0.4900127883725206,
+      "CIDEr": 2.3187574353732345,
+      "Distinct-1": 0.11829411234334145,
+      "Distinct-2": 0.32048359924685366,
+      "num_samples": 1000
+    },
+    {
+      "variant": "no_field_index",
+      "output_path": "result/supplementary_20260811/field_ablation_multitq_1000/chrono_multitq_no_field_index.json",
+      "BLEU-4": 0.293436057251403,
+      "ROUGE-L": 0.5126637763141318,
+      "CIDEr": 2.6591225496399438,
+      "Distinct-1": 0.11086316165312862,
+      "Distinct-2": 0.31941585808095657,
+      "num_samples": 1000
+    },
+    {
+      "variant": "no_shape_index",
+      "output_path": "result/supplementary_20260811/field_ablation_multitq_1000/chrono_multitq_no_shape_index.json",
+      "BLEU-4": 0.29252753698610984,
+      "ROUGE-L": 0.5128613278551273,
+      "CIDEr": 2.6359351764684034,
+      "Distinct-1": 0.10969707832944972,
+      "Distinct-2": 0.31659775546367397,
+      "num_samples": 1000
+    },
+    {
+      "variant": "no_type_granularity",
+      "output_path": "result/supplementary_20260811/field_ablation_multitq_1000/chrono_multitq_no_type_granularity.json",
+      "BLEU-4": 0.2836473577070393,
+      "ROUGE-L": 0.506175528722692,
+      "CIDEr": 2.537013029456006,
+      "Distinct-1": 0.11494459958562292,
+      "Distinct-2": 0.3226413226413226,
+      "num_samples": 1000
+    },
+    {
+      "variant": "no_drafts",
+      "output_path": "result/supplementary_20260811/field_ablation_multitq_1000/chrono_multitq_no_drafts.json",
+      "BLEU-4": 0.31640388548310555,
+      "ROUGE-L": 0.5390589749346805,
+      "CIDEr": 2.826130615874782,
+      "Distinct-1": 0.1148227253310551,
+      "Distinct-2": 0.31461933675852405,
+      "num_samples": 1000
+    }
+  ]
+}

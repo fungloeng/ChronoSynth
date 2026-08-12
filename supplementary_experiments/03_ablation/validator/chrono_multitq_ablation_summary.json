@@ -1,0 +1,36 @@
+{
+  "dataset": "MULTITQ",
+  "model": "gpt-4o-mini",
+  "variants": [
+    {
+      "variant": "no_temporal_rule",
+      "output_path": "result/supplementary_core_20260812/05_validator_ablation/multitq/chrono_multitq_no_temporal_rule.json",
+      "BLEU-4": 0.2849813114018358,
+      "ROUGE-L": 0.5087141140982222,
+      "CIDEr": 2.515915723169697,
+      "Distinct-1": 0.18077039733090688,
+      "Distinct-2": 0.46046046046046046,
+      "num_samples": 300
+    },
+    {
+      "variant": "no_leakage_check",
+      "output_path": "result/supplementary_core_20260812/05_validator_ablation/multitq/chrono_multitq_no_leakage_check.json",
+      "BLEU-4": 0.29295939963389983,
+      "ROUGE-L": 0.5106178053602599,
+      "CIDEr": 2.538067529205055,
+      "Distinct-1": 0.18374233128834355,
+      "Distinct-2": 0.47128378378378377,
+      "num_samples": 300
+    },
+    {
+      "variant": "no_draft_filtering",
+      "output_path": "result/supplementary_core_20260812/05_validator_ablation/multitq/chrono_multitq_no_draft_filtering.json",
+      "BLEU-4": 0.28597388834273935,
+      "ROUGE-L": 0.4986278550632009,
+      "CIDEr": 2.4544352439962323,
+      "Distinct-1": 0.1789060139014808,
+      "Distinct-2": 0.4632768361581921,
+      "num_samples": 300
+    }
+  ]
+}

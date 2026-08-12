@@ -1,0 +1,56 @@
+{
+  "dataset": "CRONQUESTION",
+  "model": "gpt-4o-mini",
+  "variants": [
+    {
+      "variant": "no_rule_index",
+      "output_path": "result/supplementary_20260811/field_ablation_cronquestion_1000/chrono_cronquestion_no_rule_index.json",
+      "BLEU-4": 0.30033144243421234,
+      "ROUGE-L": 0.5081174916852074,
+      "CIDEr": 2.8214026803825183,
+      "Distinct-1": 0.20816733067729085,
+      "Distinct-2": 0.4021306252489048,
+      "num_samples": 1000
+    },
+    {
+      "variant": "no_field_index",
+      "output_path": "result/supplementary_20260811/field_ablation_cronquestion_1000/chrono_cronquestion_no_field_index.json",
+      "BLEU-4": 0.3052354644496709,
+      "ROUGE-L": 0.5080991801780389,
+      "CIDEr": 2.8451825605981687,
+      "Distinct-1": 0.2071559633027523,
+      "Distinct-2": 0.40434343434343434,
+      "num_samples": 1000
+    },
+    {
+      "variant": "no_shape_index",
+      "output_path": "result/supplementary_20260811/field_ablation_cronquestion_1000/chrono_cronquestion_no_shape_index.json",
+      "BLEU-4": 0.29700270529931233,
+      "ROUGE-L": 0.5005592360403012,
+      "CIDEr": 2.7591539766150612,
+      "Distinct-1": 0.20820274021670995,
+      "Distinct-2": 0.40326546670600966,
+      "num_samples": 1000
+    },
+    {
+      "variant": "no_type_granularity",
+      "output_path": "result/supplementary_20260811/field_ablation_cronquestion_1000/chrono_cronquestion_no_type_granularity.json",
+      "BLEU-4": 0.30532775665468925,
+      "ROUGE-L": 0.5126014516283927,
+      "CIDEr": 2.8726715990945757,
+      "Distinct-1": 0.20731817770129518,
+      "Distinct-2": 0.40055771337516183,
+      "num_samples": 1000
+    },
+    {
+      "variant": "no_drafts",
+      "output_path": "result/supplementary_20260811/field_ablation_cronquestion_1000/chrono_cronquestion_no_drafts.json",
+      "BLEU-4": 0.27653742814153104,
+      "ROUGE-L": 0.5021798849850301,
+      "CIDEr": 2.6332015268166935,
+      "Distinct-1": 0.193682860349527,
+      "Distinct-2": 0.39489280111556563,
+      "num_samples": 1000
+    }
+  ]
+}

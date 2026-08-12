@@ -41,6 +41,7 @@
           <a class="button primary" href="https://github.com/fungloeng/ChronoSynth">Code</a>
           <a class="button" href="https://github.com/fungloeng/ChronoSynth/blob/main/REPRODUCIBILITY.md">Reproducibility</a>
           <a class="button" href="https://github.com/fungloeng/ChronoSynth/blob/main/PAPER_TRACEABILITY.md">Results</a>
+          <a class="button" href="https://github.com/fungloeng/ChronoSynth/tree/main/supplementary_experiments">Supplementary Experiments</a>
         </div>
       </div>
     </section>
@@ -132,6 +133,48 @@
         </div>
 
         <div class="result-stack">
+          <article class="result-showcase supplementary-table-card">
+            <div class="result-copy">
+              <div class="result-label">Supplementary experiments</div>
+              <h3>Matched retrieval and semantic evaluation</h3>
+              <p>All rows use the same matched IDs within each dataset (CRONQUESTIONS: 972; MultiTQ: 1,000). TIS Recovery and Answer Recovery are model-assisted evaluations with GPT-4.1-mini, not human or executable-query evaluation.</p>
+              <div class="table-wrap">
+                <table>
+                  <thead><tr><th>Dataset</th><th>Method</th><th>B4</th><th>CIDEr</th><th>TIS-EM</th><th>Answer F1</th><th>Leakage</th></tr></thead>
+                  <tbody>
+                    <tr><td>CRONQ.</td><td>Full</td><td><b>0.3016</b></td><td><b>2.8148</b></td><td>1.5%</td><td><b>90.1%</b></td><td><b>0.2%</b></td></tr>
+                    <tr><td>CRONQ.</td><td>No-memory</td><td>0.1924</td><td>1.7073</td><td><b>9.5%</b></td><td>60.3%</td><td>26.2%</td></tr>
+                    <tr><td>CRONQ.</td><td>Vanilla-RAG</td><td>0.1777</td><td>1.6827</td><td>4.9%</td><td>66.1%</td><td>4.7%</td></tr>
+                    <tr><td>CRONQ.</td><td>Relation-only</td><td>0.2858</td><td>2.6878</td><td>1.1%</td><td>86.5%</td><td>1.4%</td></tr>
+                    <tr><td>MultiTQ</td><td>Full</td><td><b>0.3078</b></td><td><b>2.7639</b></td><td>11.1%</td><td><b>74.0%</b></td><td>3.6%</td></tr>
+                    <tr><td>MultiTQ</td><td>No-memory</td><td>0.1432</td><td>1.3816</td><td><b>20.0%</b></td><td>66.7%</td><td><b>3.5%</b></td></tr>
+                    <tr><td>MultiTQ</td><td>Vanilla-RAG</td><td>0.2044</td><td>1.9952</td><td>5.2%</td><td>66.4%</td><td>6.7%</td></tr>
+                    <tr><td>MultiTQ</td><td>Relation-only</td><td>0.2475</td><td>2.2014</td><td>13.8%</td><td>66.1%</td><td>4.0%</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <p class="table-note">Full improves matched lexical quality and Answer Recovery over generic retrieval, while No-memory has higher strict TIS-EM. Relation-only remains competitive on selected CRONQUESTIONS metrics.</p>
+            </div>
+          </article>
+
+          <article class="result-showcase reverse supplementary-table-card">
+            <div class="result-copy">
+              <div class="result-label">Constraint-sensitive subset</div>
+              <h3>Answer recovery where temporal constraints can distinguish candidates</h3>
+              <p>The subset requires multiple plausible relation-compatible candidates/events, timestamps, or ordering/comparison constraints (CRONQUESTIONS: 276; MultiTQ: 675).</p>
+              <div class="table-wrap compact-table">
+                <table>
+                  <thead><tr><th>Dataset</th><th>Full</th><th>No-memory</th><th>Vanilla-RAG</th><th>Relation-only</th></tr></thead>
+                  <tbody>
+                    <tr><td>CRONQUESTIONS Answer F1</td><td><b>93.5%</b></td><td>64.0%</td><td>60.4%</td><td>82.6%</td></tr>
+                    <tr><td>MultiTQ Answer F1</td><td><b>69.1%</b></td><td>61.3%</td><td>65.4%</td><td>59.4%</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <p class="table-note">Full remains higher than the three retrieval/no-memory comparisons on this offline graph-structural subset. See the released artifacts for definitions, per-example outputs, and paired statistics.</p>
+            </div>
+          </article>
+
           <article class="result-showcase">
             <div class="result-copy">
               <div class="result-label">RQ2</div>
@@ -266,6 +309,7 @@
           <a href="https://github.com/fungloeng/ChronoSynth/blob/main/README.md"><strong>Repository</strong><span>Project overview and code layout.</span></a>
           <a href="https://github.com/fungloeng/ChronoSynth/blob/main/DATASETS.md"><strong>Datasets</strong><span>Expected paths and dataset preparation notes.</span></a>
           <a href="https://github.com/fungloeng/ChronoSynth/blob/main/paper_results/paper_values.json"><strong>Results File</strong><span>Frozen aggregate values used for the reported figures and tables.</span></a>
+          <a href="https://github.com/fungloeng/ChronoSynth/tree/main/supplementary_experiments"><strong>Supplementary Experiments</strong><span>Released generations, semantic evaluations, matched-ID files, and summaries.</span></a>
         </div>
       </div>
     </section>

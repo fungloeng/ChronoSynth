@@ -1,0 +1,15 @@
+dataset,variant,comparison,metric,n,delta,ci_low,ci_high,wins,losses,ties,sign_p
+CRONQUESTION,no_typed_placeholders,Variant - Full (matched),operator_correct,490,0.004081632653061225,-0.012244897959183673,0.02040816326530612,9,7,474,0.803619384765625
+CRONQUESTION,no_typed_placeholders,Variant - Full (matched),slot_correct,490,0.01020408163265306,-0.00816326530612245,0.02857142857142857,14,9,467,0.4048728942871094
+CRONQUESTION,no_typed_placeholders,Variant - Full (matched),reference_correct,490,-0.004081632653061225,-0.01020408163265306,0.0,0,2,488,0.5
+CRONQUESTION,no_typed_placeholders,Variant - Full (matched),tis_exact_match,490,0.0020408163265306124,-0.006122448979591836,0.01020408163265306,3,2,485,1.0
+CRONQUESTION,no_typed_placeholders,Variant - Full (matched),answer_exact_match,490,0.0020408163265306124,-0.012244897959183673,0.0163265306122449,7,6,477,1.0
+CRONQUESTION,no_typed_placeholders,Variant - Full (matched),answer_f1,490,0.0020408163265306124,-0.012244897959183673,0.0163265306122449,7,6,477,1.0
+CRONQUESTION,no_typed_placeholders,Variant - Full (matched),unsupported,490,0.0020408163265306124,-0.006122448979591836,0.01020408163265306,3,2,485,1.0
+MULTITQ,no_typed_placeholders,Variant - Full (matched),operator_correct,500,0.002,-0.026,0.028,24,23,453,1.0
+MULTITQ,no_typed_placeholders,Variant - Full (matched),slot_correct,500,0.016,-0.012,0.044,30,22,448,0.3317497633694906
+MULTITQ,no_typed_placeholders,Variant - Full (matched),reference_correct,500,-0.01,-0.024,0.004,4,9,487,0.266845703125
+MULTITQ,no_typed_placeholders,Variant - Full (matched),tis_exact_match,500,0.002,-0.016,0.02,11,10,479,1.0
+MULTITQ,no_typed_placeholders,Variant - Full (matched),answer_exact_match,500,0.004,-0.022,0.03,24,22,454,0.8829959121223965
+MULTITQ,no_typed_placeholders,Variant - Full (matched),answer_f1,500,0.01394920634920635,-0.011365079365079366,0.039771428571428576,35,29,436,0.5323087760278421
+MULTITQ,no_typed_placeholders,Variant - Full (matched),unsupported,500,-0.006,-0.03,0.018,18,21,461,0.7492586247608415

@@ -1,0 +1,1602 @@
+[
+  {
+    "question_id": 25189,
+    "generated_question": "What was the team Jan Bobrovský played in 2004?",
+    "reference_questions": [
+      "What was the last award Jan Bobrovský got?"
+    ],
+    "sample_index": 0
+  },
+  {
+    "question_id": 23240,
+    "generated_question": "What's the name of the team Stan Smith played in 1987?",
+    "reference_questions": [
+      "What was the award that was awarded to Stan Smith for the first time ever"
+    ],
+    "sample_index": 1
+  },
+  {
+    "question_id": 26173,
+    "generated_question": "What was the team Teddy Chan played in 2010?",
+    "reference_questions": [
+      "Which was the last award that 陳德森 received"
+    ],
+    "sample_index": 2
+  },
+  {
+    "question_id": 20876,
+    "generated_question": "What was the team Ernst Gombrich played in 1975?",
+    "reference_questions": [
+      "What award was given to Enrst Hans Gombrich in 1975"
+    ],
+    "sample_index": 3
+  },
+  {
+    "question_id": 27558,
+    "generated_question": "What was the team Rebecca Saunders played in 1996?",
+    "reference_questions": [
+      "Which was the first award that Rebecca Saunders received"
+    ],
+    "sample_index": 4
+  },
+  {
+    "question_id": 25587,
+    "generated_question": "What was the initial prize Sándor Radnóti received before the Attila József Prize in 1995?",
+    "reference_questions": [
+      "The award that was awarded to Sándor Radnóti for the first time in their life"
+    ],
+    "sample_index": 5
+  },
+  {
+    "question_id": 26819,
+    "generated_question": "What was the name of the award Francis Crick received in 1987?",
+    "reference_questions": [
+      "Which was awarded to Francis Crick in 1987"
+    ],
+    "sample_index": 6
+  },
+  {
+    "question_id": 26307,
+    "generated_question": "What was the name of the award that Jean-Louis Trintignant received in 2012?",
+    "reference_questions": [
+      "What award did Jean-Louis Trintignant receive in 2012"
+    ],
+    "sample_index": 7
+  },
+  {
+    "question_id": 24037,
+    "generated_question": "What's the last year István Kovács's been Attila József Prize?",
+    "reference_questions": [
+      "István Kovács got Attila József Prize in what year"
+    ],
+    "sample_index": 8
+  },
+  {
+    "question_id": 22540,
+    "generated_question": "What was the name of the award Louis Franchet d'Espèrey received in 1918?",
+    "reference_questions": [
+      "Which was the last award that Louis-Félix-Marie-François Franchet d'Esperey received"
+    ],
+    "sample_index": 9
+  },
+  {
+    "question_id": 22663,
+    "generated_question": "Who was the last to receive Romain Rolland before Grand prix de littérature de l'Académie française?",
+    "reference_questions": [
+      "Name the award that Romain Rolland first received"
+    ],
+    "sample_index": 10
+  },
+  {
+    "question_id": 19733,
+    "generated_question": "What was the initial team Thomas Kling received the Peter-Huchel-Preis before the Düsseldorf literary award?",
+    "reference_questions": [
+      "Which was the first award that Thomas Kling received"
+    ],
+    "sample_index": 11
+  },
+  {
+    "question_id": 22384,
+    "generated_question": "What was the team Mathias Hofter played in 1984-1985?",
+    "reference_questions": [
+      "What was the first award Mathias Rene Hofter ever won?"
+    ],
+    "sample_index": 12
+  },
+  {
+    "question_id": 20984,
+    "generated_question": "What was the award Denzel Washington received in 2002?",
+    "reference_questions": [
+      "In 2002, the award won by Denzel Washington"
+    ],
+    "sample_index": 13
+  },
+  {
+    "question_id": 20683,
+    "generated_question": "What was the last year when Dancer in the Dark was European Film Award: Audience Award for Best Director?",
+    "reference_questions": [
+      "European Film Award: Audience Award for Best Director was awarded to Dancer in the Dark during the year"
+    ],
+    "sample_index": 14
+  },
+  {
+    "question_id": 25240,
+    "generated_question": "What was the team Karl Larenz played in 1942?",
+    "reference_questions": [
+      "Which was the last award that Karl Larenz received"
+    ],
+    "sample_index": 15
+  },
+  {
+    "question_id": 27256,
+    "generated_question": "Who was the last person to receive the Neuronal Plasticity Prize after Marcus E. Raichle?",
+    "reference_questions": [
+      "Which award did Marcus E. Raichle win last"
+    ],
+    "sample_index": 16
+  },
+  {
+    "question_id": 24310,
+    "generated_question": "What was the award Arthur Leonard Schawlow received in 1970?",
+    "reference_questions": [
+      "What is awarded to Arthur Schawlow in 1970"
+    ],
+    "sample_index": 17
+  },
+  {
+    "question_id": 25445,
+    "generated_question": "What was the name of the award received by William Eagle Clarke in 1903?",
+    "reference_questions": [
+      "Which is the award William Eagle Clarke received in 1903"
+    ],
+    "sample_index": 18
+  },
+  {
+    "question_id": 26404,
+    "generated_question": "Who was the last to receive András Sütő before the Herder Prize in 1979?",
+    "reference_questions": [
+      "What's the first award András Sütő got?"
+    ],
+    "sample_index": 19
+  },
+  {
+    "question_id": 19124,
+    "generated_question": "What was the name of the award Carlos Kleiber received in 1998?",
+    "reference_questions": [
+      "Which is the award Carlos Kleiber received in 1998"
+    ],
+    "sample_index": 20
+  },
+  {
+    "question_id": 19974,
+    "generated_question": "What was the award that Sylvia Chang received in 1981?",
+    "reference_questions": [
+      "What was awarded to Sylvia Chang in 1981"
+    ],
+    "sample_index": 21
+  },
+  {
+    "question_id": 19077,
+    "generated_question": "What's the last year Jüri Järvet's been Medal \"For Valiant Labour in the Great Patriotic War 1941–1945\"?",
+    "reference_questions": [
+      "What year did Jüri Järvet receive the Medal \"For Valiant Labour in the Great Patriotic War 1941–1945\""
+    ],
+    "sample_index": 22
+  },
+  {
+    "question_id": 27777,
+    "generated_question": "Who was the last person to marry Ejler Bille?",
+    "reference_questions": [
+      "What was Ejler Christian Torbensen Bille's last award?"
+    ],
+    "sample_index": 23
+  },
+  {
+    "question_id": 24892,
+    "generated_question": "What was the team Lotfi Aliasker Zadeh played in 1995?",
+    "reference_questions": [
+      "What was awarded to Lotfali Askar Zadeh during 1995"
+    ],
+    "sample_index": 24
+  },
+  {
+    "question_id": 24099,
+    "generated_question": "At what time did Paul Lauterbur hold the position X-ray badge for the first time?",
+    "reference_questions": [
+      "X-ray badge was awarded to Paul Lauterbur in which year"
+    ],
+    "sample_index": 25
+  },
+  {
+    "question_id": 22345,
+    "generated_question": "What was the team Reine Brynolfsson played in 2007?",
+    "reference_questions": [
+      "What was awarded to Reine Brynolfsson during 2007"
+    ],
+    "sample_index": 26
+  },
+  {
+    "question_id": 25099,
+    "generated_question": "What was the team Jürgen Jost played in 1993?",
+    "reference_questions": [
+      "Which award did Jürgen Jost receive in 1993"
+    ],
+    "sample_index": 27
+  },
+  {
+    "question_id": 22678,
+    "generated_question": "What was the team Fay Ajzenberg-Selove played in 2007?",
+    "reference_questions": [
+      "The last award Fay Ajzenberg-Selove got was what"
+    ],
+    "sample_index": 28
+  },
+  {
+    "question_id": 23086,
+    "generated_question": "What is the last year when Olga Ladyzhenskaya was Lomonosov Gold Medal?",
+    "reference_questions": [
+      "When did Olga Ladyzhenskaya receive Lomonosov Gold Medal"
+    ],
+    "sample_index": 29
+  },
+  {
+    "question_id": 28010,
+    "generated_question": "What is the first time Josep Perarnau i Espelt held the position of Narcís Monturiol Prize?",
+    "reference_questions": [
+      "When did Josep Perarnau i Espelt receive Narcís Monturiol Prize"
+    ],
+    "sample_index": 30
+  },
+  {
+    "question_id": 22190,
+    "generated_question": "What was the team Igor Viktorovich Makarov played in 2002?",
+    "reference_questions": [
+      "What was the award that was awarded to Igor Viktorovich Makarov for the first time ever"
+    ],
+    "sample_index": 31
+  },
+  {
+    "question_id": 28331,
+    "generated_question": "What was the name of the award Julián Marías received in 1978?",
+    "reference_questions": [
+      "Julian Marias received which award in 1978"
+    ],
+    "sample_index": 32
+  },
+  {
+    "question_id": 27546,
+    "generated_question": "What was the name of the prize that Martin Allgöwer received in 1987?",
+    "reference_questions": [
+      "What is the first award that Martin Allgoewer received"
+    ],
+    "sample_index": 33
+  },
+  {
+    "question_id": 26652,
+    "generated_question": "What was the initial prize Peter Wapnewski received before the Ernst Reuter Medal in 2003?",
+    "reference_questions": [
+      "Title of the award first award received by Peter Wapnewski"
+    ],
+    "sample_index": 34
+  },
+  {
+    "question_id": 20407,
+    "generated_question": "Who was the last person to receive Hero of Socialist Labour after Vardan Ajemian received People's Artist of the USSR in 1965?",
+    "reference_questions": [
+      "Which award did Vardan Ajemian win last"
+    ],
+    "sample_index": 35
+  },
+  {
+    "question_id": 21362,
+    "generated_question": "What was the name of the award received by Robley D. Evans in 1990?",
+    "reference_questions": [
+      "Which was the latest award that Robley Dunglison Evans received"
+    ],
+    "sample_index": 36
+  },
+  {
+    "question_id": 26227,
+    "generated_question": "What was the last year when Marlan Scully was Quantum Electronics Award?",
+    "reference_questions": [
+      "Quantum Electronics Award was awarded to Marlan Orvil Scully during the year"
+    ],
+    "sample_index": 37
+  },
+  {
+    "question_id": 25214,
+    "generated_question": "What's the last year Johann Olav Koss was Peer Gynt Literary Award?",
+    "reference_questions": [
+      "When did Johann Olav Koss receive Peer Gynt Prize"
+    ],
+    "sample_index": 38
+  },
+  {
+    "question_id": 27262,
+    "generated_question": "What was the last year when Diahann Carroll was Black Filmmakers Hall of Fame?",
+    "reference_questions": [
+      "What year was Diahann Carroll given the Black Filmmakers Hall of Fame"
+    ],
+    "sample_index": 39
+  },
+  {
+    "question_id": 25378,
+    "generated_question": "What was the initial award Randy Pausch received before 2008?",
+    "reference_questions": [
+      "What was the first prize Randy F. Pausch won?"
+    ],
+    "sample_index": 40
+  },
+  {
+    "question_id": 21449,
+    "generated_question": "What was the name of the award that Richard Easterlin received in 2009?",
+    "reference_questions": [
+      "In 2009 which award did Richard A. Easterlin win"
+    ],
+    "sample_index": 41
+  },
+  {
+    "question_id": 28517,
+    "generated_question": "At what time David Blackwell held the John von Neumann Theory Prize position for the first time?",
+    "reference_questions": [
+      "David Blackwell received John von Neumann Theory Prize in what year"
+    ],
+    "sample_index": 42
+  },
+  {
+    "question_id": 20006,
+    "generated_question": "What was the initial award Jan Josef Liefers received before the Bavarian TV Awards in 2000?",
+    "reference_questions": [
+      "What was the first award Jan Josef Liefers ever won?"
+    ],
+    "sample_index": 43
+  },
+  {
+    "question_id": 21014,
+    "generated_question": "Who was the last person to marry Kenny Rogers?",
+    "reference_questions": [
+      "Last award Kenneth Ray Rogers got was what"
+    ],
+    "sample_index": 44
+  },
+  {
+    "question_id": 23758,
+    "generated_question": "What was the last year when Marcel Reich-Ranicki was Goethe Prize?",
+    "reference_questions": [
+      "When did Marcel Reich receive Goethe Prize"
+    ],
+    "sample_index": 45
+  },
+  {
+    "question_id": 19352,
+    "generated_question": "Who was the last person to receive a prize before Denys Wilkinson received the Royal Medal in 1980?",
+    "reference_questions": [
+      "Which was the latest award that Denys Haigh Wilkinson received"
+    ],
+    "sample_index": 46
+  },
+  {
+    "question_id": 23411,
+    "generated_question": "The team Walter Altmann received the Travel Scholarship of the German Archaeological Institute in 1903-1904 was?",
+    "reference_questions": [
+      "What award did Walter Altmann win last"
+    ],
+    "sample_index": 47
+  },
+  {
+    "question_id": 27860,
+    "generated_question": "At what time did Philip Reeve hold the position Carnegie Medal for the first time?",
+    "reference_questions": [
+      "Carnegie Medal was awarded to Philip Reeve during the year"
+    ],
+    "sample_index": 48
+  },
+  {
+    "question_id": 18988,
+    "generated_question": "Who was the last person to receive an award after Koji Nakanishi received the King Faisal International Prize in Science in 2003?",
+    "reference_questions": [
+      "What was Koji Nakanishi's last award?"
+    ],
+    "sample_index": 49
+  },
+  {
+    "question_id": 20563,
+    "generated_question": "What was the team Bernhard Vogel played in 1997?",
+    "reference_questions": [
+      "Which was awarded to Bernhard Vogel in 1997"
+    ],
+    "sample_index": 50
+  },
+  {
+    "question_id": 24092,
+    "generated_question": "The name of the award Jean Leclant received in 2000 was?",
+    "reference_questions": [
+      "Which was the award Jean Leclant got in 2000"
+    ],
+    "sample_index": 51
+  },
+  {
+    "question_id": 25393,
+    "generated_question": "What was the last year when Friedrich Kluge was Bavarian Maximilian Order for Science and Art?",
+    "reference_questions": [
+      "What year did Friedrich Kluge get the Bavarian Maximilian Order for Science and Art?"
+    ],
+    "sample_index": 52
+  },
+  {
+    "question_id": 26024,
+    "generated_question": "What was the team Blas Roca Calderio played in 1983?",
+    "reference_questions": [
+      "Which was the award that Blas Roca Calderio received in 1983"
+    ],
+    "sample_index": 53
+  },
+  {
+    "question_id": 21538,
+    "generated_question": "At what time did Theodor Wieland hold the position Fresenius Prize for the first time?",
+    "reference_questions": [
+      "Theodor Wieland received Fresenius Prize in what year"
+    ],
+    "sample_index": 54
+  },
+  {
+    "question_id": 19829,
+    "generated_question": "What is the last year when Lena Nyman was Litteris et Artibus?",
+    "reference_questions": [
+      "What year did Lena Nyman get Litteris et Artibus"
+    ],
+    "sample_index": 55
+  },
+  {
+    "question_id": 27511,
+    "generated_question": "Who was the last person to receive a significant award after Javier Bardem's Satellite Award for Best Supporting Actor – Motion Picture in 2012?",
+    "reference_questions": [
+      "What was Javier Angel Encinas Bardem's last award?"
+    ],
+    "sample_index": 56
+  },
+  {
+    "question_id": 24022,
+    "generated_question": "What was the name of the honor George Murray received in 1906?",
+    "reference_questions": [
+      "Which was the award George Murray received in 1906"
+    ],
+    "sample_index": 57
+  },
+  {
+    "question_id": 19157,
+    "generated_question": "What was the initial team Raj Chetty played in before receiving the John Bates Clark Medal in 2013?",
+    "reference_questions": [
+      "Name the award that Raj Chetty first received"
+    ],
+    "sample_index": 58
+  },
+  {
+    "question_id": 24283,
+    "generated_question": "What is the last year when Lodewijk Thomson was Knight of the Military Order of William, 4th class?",
+    "reference_questions": [
+      "Knight of the Military Order of William, 4th class was awarded to Lodewijk Thomson in which year"
+    ],
+    "sample_index": 59
+  },
+  {
+    "question_id": 19876,
+    "generated_question": "What was the last year when Ella T. Grasso was National Women's Hall of Fame?",
+    "reference_questions": [
+      "What year did Ella T. Grasso receive the National Women's Hall of Fame"
+    ],
+    "sample_index": 60
+  },
+  {
+    "question_id": 28128,
+    "generated_question": "What was the initial team David Foster played in?",
+    "reference_questions": [
+      "So, what was the last award David W. Foster got?"
+    ],
+    "sample_index": 61
+  },
+  {
+    "question_id": 22525,
+    "generated_question": "What was the name of the award Víctor García de la Concha received in 2015?",
+    "reference_questions": [
+      "In 2015 which award did Victor Garcia de la Concha win"
+    ],
+    "sample_index": 62
+  },
+  {
+    "question_id": 25657,
+    "generated_question": "What's the name of the first team Michael Young received the Major League Baseball All-Star in 2005?",
+    "reference_questions": [
+      "What was the award that was awarded to Michael Young for the first time in their lifetime?"
+    ],
+    "sample_index": 63
+  },
+  {
+    "question_id": 21160,
+    "generated_question": "What was the team Gerhard M. Sessler played in 2010?",
+    "reference_questions": [
+      "Which is the award Gerhard M. Sessler received in 2010"
+    ],
+    "sample_index": 64
+  },
+  {
+    "question_id": 20013,
+    "generated_question": "What was the team Thérèse Tietjens played in 1871?",
+    "reference_questions": [
+      "What was awarded to Thérèse Tietjens during 1871"
+    ],
+    "sample_index": 65
+  },
+  {
+    "question_id": 23702,
+    "generated_question": "Who was the last to receive Odile Eisenstein's CNRS silver medal before honorary doctorate at the Laval University in 2012?",
+    "reference_questions": [
+      "Which was the first award that Odile Eisenstein received"
+    ],
+    "sample_index": 66
+  },
+  {
+    "question_id": 22769,
+    "generated_question": "At what time did Georg Ludwig von Maurer hold the position Bavarian Maximilian Order for Science and Art for the first time?",
+    "reference_questions": [
+      "What year did Georg Ludwig von Maurer get the Bavarian Maximilian Order for Science and Art?"
+    ],
+    "sample_index": 67
+  },
+  {
+    "question_id": 23912,
+    "generated_question": "What was the last year when Georges Millot was Ordre des arts et des lettres?",
+    "reference_questions": [
+      "Which year did Georges Millot receive Ordre des arts et des lettres"
+    ],
+    "sample_index": 68
+  },
+  {
+    "question_id": 24441,
+    "generated_question": "What was the last year when Édouard Adolphe Casimir Joseph Mortier was Marshal of the Empire?",
+    "reference_questions": [
+      "Marshal of the Empire was awarded to Edouard A. C. J. Mortier in which year"
+    ],
+    "sample_index": 69
+  },
+  {
+    "question_id": 19109,
+    "generated_question": "The team Costas Soukoulis played with in 2014?",
+    "reference_questions": [
+      "In 2014 which award did Soukoulis C. win"
+    ],
+    "sample_index": 70
+  },
+  {
+    "question_id": 20270,
+    "generated_question": "At what time did Glenn Seaborg hold the position Enrico Fermi Award for the first time?",
+    "reference_questions": [
+      "Which year Glenn Seaborg got Enrico Fermi Award"
+    ],
+    "sample_index": 71
+  },
+  {
+    "question_id": 23705,
+    "generated_question": "What was the team The Rolling Stones received in 2013?",
+    "reference_questions": [
+      "What award was awarded to Rolling Stones in 2013"
+    ],
+    "sample_index": 72
+  },
+  {
+    "question_id": 28058,
+    "generated_question": "What was the last year when Adolfo Suárez was honorary doctor of the University of Madrid Complutense?",
+    "reference_questions": [
+      "honorary doctor of the University of Madrid Complutense was awarded to Adolfo Suarez in which year"
+    ],
+    "sample_index": 73
+  },
+  {
+    "question_id": 25732,
+    "generated_question": "What was the initial team Alexander Alexandrovich Pushkin played in before 1871?",
+    "reference_questions": [
+      "What was the award that was awarded to Alexander Alexandrovich Pushkin for the first time in their lifetime?"
+    ],
+    "sample_index": 74
+  },
+  {
+    "question_id": 27873,
+    "generated_question": "Who was the last to receive the Multatuli Award before the Ark Prize of the Free Word?",
+    "reference_questions": [
+      "What was the award that was awarded to Stefan Hertmans for the first time in his life"
+    ],
+    "sample_index": 75
+  },
+  {
+    "question_id": 22883,
+    "generated_question": "What was the team Hans-Georg Beck played in 1988?",
+    "reference_questions": [
+      "Which is the award Hans-Georg Beck received in 1988"
+    ],
+    "sample_index": 76
+  },
+  {
+    "question_id": 18942,
+    "generated_question": "What was the last year when Linus Torvalds was Computer Pioneer Award?",
+    "reference_questions": [
+      "What year did Linus Torvalds get Computer Pioneer Award"
+    ],
+    "sample_index": 77
+  },
+  {
+    "question_id": 24457,
+    "generated_question": "What was the team Aleksandr Aleksandrov played in 1951?",
+    "reference_questions": [
+      "In 1951, the award won by Aleksandr Aleksandrov"
+    ],
+    "sample_index": 78
+  },
+  {
+    "question_id": 27940,
+    "generated_question": "Who was the last person to receive a prize after Robert Frost's Bollingen Prize in 1962?",
+    "reference_questions": [
+      "Which was the last prize Robert Lee Frost got"
+    ],
+    "sample_index": 79
+  },
+  {
+    "question_id": 21070,
+    "generated_question": "What was the last year when Andreas von Baumgartner was Bavarian Maximilian Order for Science and Art?",
+    "reference_questions": [
+      "What year did Andreas von Baumgartner get Bavarian Maximilian Order for Science and Art?"
+    ],
+    "sample_index": 80
+  },
+  {
+    "question_id": 22880,
+    "generated_question": "What was the initial award Hans Chemin-Petit received before the Ernst Reuter Medal in 1977?",
+    "reference_questions": [
+      "What was the first prize Hans Chemin-Petit won?"
+    ],
+    "sample_index": 81
+  },
+  {
+    "question_id": 20020,
+    "generated_question": "What is the last year when Francis Darwin was Darwin Medal?",
+    "reference_questions": [
+      "When did Francis Darwin receive Darwin Medal"
+    ],
+    "sample_index": 82
+  },
+  {
+    "question_id": 26151,
+    "generated_question": "What was the last year when Frank Peter Zimmermann was Musikpreis der Stadt Duisburg?",
+    "reference_questions": [
+      "What year did Frank Peter Zimmermann get Musikpreis der Stadt Duisburg?"
+    ],
+    "sample_index": 83
+  },
+  {
+    "question_id": 21042,
+    "generated_question": "What was the team Eternity and a Day played in 1998?",
+    "reference_questions": [
+      "Which was the last award that Eternity and a Day received"
+    ],
+    "sample_index": 84
+  },
+  {
+    "question_id": 18995,
+    "generated_question": "What was the team Asterix & Obelix: Mission Cleopatra played in 2003?",
+    "reference_questions": [
+      "What award was given to Astérix et Obélix : Mission Cléopâtre in 2003"
+    ],
+    "sample_index": 85
+  },
+  {
+    "question_id": 24465,
+    "generated_question": "What was the initial team Philip Cohen played in?",
+    "reference_questions": [
+      "What was the prize that was awarded to Sir Philip Cohen for the first time in their life"
+    ],
+    "sample_index": 86
+  },
+  {
+    "question_id": 21516,
+    "generated_question": "What was the team Allen Hoskins played in 1975?",
+    "reference_questions": [
+      "What is the first award that Allen Hoskins received"
+    ],
+    "sample_index": 87
+  },
+  {
+    "question_id": 23062,
+    "generated_question": "Who was the last to receive the Albert Lasker Award for Basic Medical Research before André Frédéric Cournand received the Nobel Prize in Physiology or Medicine in 1956?",
+    "reference_questions": [
+      "What was the award that was awarded to André Frédéric Cournand for the first time ever"
+    ],
+    "sample_index": 88
+  },
+  {
+    "question_id": 24783,
+    "generated_question": "When's the last year when Karl Richard Lepsius received the Bavarian Maximilian Order for Science and Art?",
+    "reference_questions": [
+      "Which year did Karl Richard Lepsius receive Bavarian Maximilian Order for Science and Art"
+    ],
+    "sample_index": 89
+  },
+  {
+    "question_id": 25602,
+    "generated_question": "What was the team Salah Stétié played in 2008?",
+    "reference_questions": [
+      "Which was awarded to Ṣalāḥ Satītīyah in 2008"
+    ],
+    "sample_index": 90
+  },
+  {
+    "question_id": 23861,
+    "generated_question": "What was the team Theo Rasing played in 2008?",
+    "reference_questions": [
+      "Which award did Theodorus Henricus Maria Rasing receive in 2008"
+    ],
+    "sample_index": 91
+  },
+  {
+    "question_id": 21703,
+    "generated_question": "What was the award Hugh Thomas received in 2014?",
+    "reference_questions": [
+      "Which award did Hugh Thomas win last"
+    ],
+    "sample_index": 92
+  },
+  {
+    "question_id": 21234,
+    "generated_question": "What was the last year when Carol Lynley was Theatre World Award?",
+    "reference_questions": [
+      "Which year Carol Lynley got Theatre World Award"
+    ],
+    "sample_index": 93
+  },
+  {
+    "question_id": 19178,
+    "generated_question": "What was the name of the award Eminem received in 2002?",
+    "reference_questions": [
+      "Which was the award Double M received in 2002"
+    ],
+    "sample_index": 94
+  },
+  {
+    "question_id": 22759,
+    "generated_question": "Who was the last person to marry Åke Lindman?",
+    "reference_questions": [
+      "Which was a last award Åke Leonard Lindman got"
+    ],
+    "sample_index": 95
+  },
+  {
+    "question_id": 27303,
+    "generated_question": "Michael Sarnthein received which award in 2009?",
+    "reference_questions": [
+      "Which was the award M. Sarnthein received in 2009"
+    ],
+    "sample_index": 96
+  },
+  {
+    "question_id": 26084,
+    "generated_question": "What was the team Gustav Leonhardt played in 2003?",
+    "reference_questions": [
+      "Which is the award Gustav Maria Leonhardt received in 2003"
+    ],
+    "sample_index": 97
+  },
+  {
+    "question_id": 23620,
+    "generated_question": "What was the team Fritz Todt played in 1939?",
+    "reference_questions": [
+      "What award did Fritz Todt receive in 1939"
+    ],
+    "sample_index": 98
+  },
+  {
+    "question_id": 20687,
+    "generated_question": "What was the team Eugenio Montale played in 1975?",
+    "reference_questions": [
+      "What award was given to Eugenio Montale in 1975"
+    ],
+    "sample_index": 99
+  },
+  {
+    "question_id": 26008,
+    "generated_question": "What was the team Karl Wilhelm Verhoeff played in 1933?",
+    "reference_questions": [
+      "Which was the award Verhoeff received in 1933"
+    ],
+    "sample_index": 100
+  },
+  {
+    "question_id": 18964,
+    "generated_question": "Who was the last person to receive a medal after Fritz Laves?",
+    "reference_questions": [
+      "The last award Fritz Laves got was what"
+    ],
+    "sample_index": 101
+  },
+  {
+    "question_id": 20301,
+    "generated_question": "What was the last year when Carlo Azeglio Ciampi was Knight Grand Cross of the Order of the Bath?",
+    "reference_questions": [
+      "Which year did Carlo Azeglio Ciampi receive GCB"
+    ],
+    "sample_index": 102
+  },
+  {
+    "question_id": 28257,
+    "generated_question": "What was the team Ryan Kesler played in 2011?",
+    "reference_questions": [
+      "The final award Ryan Kesler received was what"
+    ],
+    "sample_index": 103
+  },
+  {
+    "question_id": 18967,
+    "generated_question": "What was the team Georges Millot played in 1981?",
+    "reference_questions": [
+      "What award was awarded to Georges Millot in 1981"
+    ],
+    "sample_index": 104
+  },
+  {
+    "question_id": 23828,
+    "generated_question": "What was the team Aghasi Ayvazyan played in 1982?",
+    "reference_questions": [
+      "What is awarded to Agasi Ayvazyan in 1982"
+    ],
+    "sample_index": 105
+  },
+  {
+    "question_id": 27492,
+    "generated_question": "Who was the last person to receive an award after Konstantin Wecker's Bavarian Cabaret Award in 2013?",
+    "reference_questions": [
+      "Which award did Konstantin Wecker win last"
+    ],
+    "sample_index": 106
+  },
+  {
+    "question_id": 24503,
+    "generated_question": "What is the last year when Gerhard Ertl was Gottfried Wilhelm Leibniz Prize?",
+    "reference_questions": [
+      "What year did Gerhard Ludwig Ertl get Gottfried Wilhelm Leibniz Prize?"
+    ],
+    "sample_index": 107
+  },
+  {
+    "question_id": 22597,
+    "generated_question": "What was the name of the award that Lerone Bennett, Jr. received in 1982?",
+    "reference_questions": [
+      "Which was the award Lerone Bennett, Jr. received in 1982"
+    ],
+    "sample_index": 108
+  },
+  {
+    "question_id": 19707,
+    "generated_question": "At what time did Martinus J. G. Veltman hold the position ICTP Dirac Medal for the first time?",
+    "reference_questions": [
+      "When did M.J.G. Veltman receive ICTP Dirac Medal"
+    ],
+    "sample_index": 109
+  },
+  {
+    "question_id": 26183,
+    "generated_question": "At what time did Eino Linnala hold the position Professor as a title for the first time?",
+    "reference_questions": [
+      "What year did Eino Linnala get Professor as a title"
+    ],
+    "sample_index": 110
+  },
+  {
+    "question_id": 21532,
+    "generated_question": "Who was the last person to receive the Schiller Memorial Prize after Tankred Dorst?",
+    "reference_questions": [
+      "What award did Tankred Dorst win last"
+    ],
+    "sample_index": 111
+  },
+  {
+    "question_id": 27449,
+    "generated_question": "What was the team Poul Anderson played in 1998?",
+    "reference_questions": [
+      "What award was given to Michael Karageorge in 1998"
+    ],
+    "sample_index": 112
+  },
+  {
+    "question_id": 23553,
+    "generated_question": "The team William Eagle Clarke played with in 1922?",
+    "reference_questions": [
+      "Which award did William Clarke receive in 1922"
+    ],
+    "sample_index": 113
+  },
+  {
+    "question_id": 28390,
+    "generated_question": "What was the team Henry Way Kendall played in 1989?",
+    "reference_questions": [
+      "Which is the award Henry W. Kendall received in 1989"
+    ],
+    "sample_index": 114
+  },
+  {
+    "question_id": 20959,
+    "generated_question": "What was the team Valtr Komárek played in 2016?",
+    "reference_questions": [
+      "Which was a last award Valtr Komárek got"
+    ],
+    "sample_index": 115
+  },
+  {
+    "question_id": 22028,
+    "generated_question": "What was the initial award received by Adunis before the Goethe Medal in 2001?",
+    "reference_questions": [
+      "What was the prize that was awarded to Ali Ahmad Said Asbar for the first time in their life"
+    ],
+    "sample_index": 116
+  },
+  {
+    "question_id": 26471,
+    "generated_question": "What's the name of the first team Shinobu Ōtake played for?",
+    "reference_questions": [
+      "Which was the first award that Shinobu Otake received"
+    ],
+    "sample_index": 117
+  },
+  {
+    "question_id": 23536,
+    "generated_question": "What was the last year when Betty White was Disney Legends?",
+    "reference_questions": [
+      "Disney Legends was awarded to Betty White in which year"
+    ],
+    "sample_index": 118
+  },
+  {
+    "question_id": 27480,
+    "generated_question": "Who was the last person to receive an award after Wolfgang Rihm received the Bavarian Maximilian Order for Science and Art in 2014?",
+    "reference_questions": [
+      "Which was the last prize Wolfgang Rihm got"
+    ],
+    "sample_index": 119
+  },
+  {
+    "question_id": 27818,
+    "generated_question": "What is the last year when Victor Glushkov was Computer Pioneer Award?",
+    "reference_questions": [
+      "Victor Glushkov got Computer Pioneer Award in what year"
+    ],
+    "sample_index": 120
+  },
+  {
+    "question_id": 27113,
+    "generated_question": "Who was the last to receive Rudolf Kassner before the Austrian Decoration for Science and Art in 1955?",
+    "reference_questions": [
+      "Title of the award first award received by Rudolf Kessner"
+    ],
+    "sample_index": 121
+  },
+  {
+    "question_id": 27802,
+    "generated_question": "Who was the last person to receive the Computer Pioneer Award before Lynn Conway became a Computer History Museum fellow in 2014?",
+    "reference_questions": [
+      "The final award Lynn Ann Conway received was what"
+    ],
+    "sample_index": 122
+  },
+  {
+    "question_id": 26943,
+    "generated_question": "What is the last year when Lucy Shapiro was WICB Senior Award?",
+    "reference_questions": [
+      "Which year Lucy Shapiro got WICB Senior Award"
+    ],
+    "sample_index": 123
+  },
+  {
+    "question_id": 27935,
+    "generated_question": "What is the last year when The Road was Tähtivaeltaja Award?",
+    "reference_questions": [
+      "When did The Road receive Tähtivaeltaja Award"
+    ],
+    "sample_index": 124
+  },
+  {
+    "question_id": 20930,
+    "generated_question": "What was the award Pare Lorentz received in 1972?",
+    "reference_questions": [
+      "What award was given to Leonard Lorentz in 1972"
+    ],
+    "sample_index": 125
+  },
+  {
+    "question_id": 19964,
+    "generated_question": "What was the team Jon Barwise received in 2000?",
+    "reference_questions": [
+      "What award did Kenneth Jon Barwise win last"
+    ],
+    "sample_index": 126
+  },
+  {
+    "question_id": 28216,
+    "generated_question": "What was the last year when Jay Laurence Lush was National Medal of Science?",
+    "reference_questions": [
+      "Jay Laurence Lush received National Medal of Science in what year"
+    ],
+    "sample_index": 127
+  },
+  {
+    "question_id": 25667,
+    "generated_question": "What was the team Doris Schade played in 1999?",
+    "reference_questions": [
+      "What is awarded to Doris Schade in 1999"
+    ],
+    "sample_index": 128
+  },
+  {
+    "question_id": 20299,
+    "generated_question": "What was the team Vita Sackville-West played in 1955?",
+    "reference_questions": [
+      "And what was the first award Victoria Sackville-West ever won?"
+    ],
+    "sample_index": 129
+  },
+  {
+    "question_id": 23457,
+    "generated_question": "What was the team Sully Prudhomme played in 1901?",
+    "reference_questions": [
+      "The last prize Sully Prudhomme got was what"
+    ],
+    "sample_index": 130
+  },
+  {
+    "question_id": 19958,
+    "generated_question": "What was the last year when C. R. Hagen received the Sakurai Prize?",
+    "reference_questions": [
+      "Sakurai Prize has been awarded to Carl Richard Hagen in which year"
+    ],
+    "sample_index": 131
+  },
+  {
+    "question_id": 21761,
+    "generated_question": "What was the name of the award that John Bell received in 1860?",
+    "reference_questions": [
+      "In 1860 which award did Sir John Bell win"
+    ],
+    "sample_index": 132
+  },
+  {
+    "question_id": 24187,
+    "generated_question": "What was the team Heiner Müller played in 1979?",
+    "reference_questions": [
+      "Which award did Heiner Mueller receive in 1979"
+    ],
+    "sample_index": 133
+  },
+  {
+    "question_id": 19522,
+    "generated_question": "What was the team Glenn Seaborg played in 1966?",
+    "reference_questions": [
+      "In 1966 which award did Glenn Theodore Seaborg win"
+    ],
+    "sample_index": 134
+  },
+  {
+    "question_id": 25649,
+    "generated_question": "What was the last year when Joanne Woodward was National Board of Review Award for Best Actress?",
+    "reference_questions": [
+      "What year did Joanne Woodward get the National Board of Review Award for Best Actress?"
+    ],
+    "sample_index": 135
+  },
+  {
+    "question_id": 21856,
+    "generated_question": "What was the team Marlee Matlin played in 1987?",
+    "reference_questions": [
+      "What award was awarded to Marlee Matlin in 1987"
+    ],
+    "sample_index": 136
+  },
+  {
+    "question_id": 19209,
+    "generated_question": "What was the last year when Herbert Gleiter was Von Hippel Award?",
+    "reference_questions": [
+      "Herbert Gleiter received Von Hippel Award in what year"
+    ],
+    "sample_index": 137
+  },
+  {
+    "question_id": 26049,
+    "generated_question": "What was the team Erwin Kräutler played in 2010?",
+    "reference_questions": [
+      "Which was the award that Erwin Kräutler received in 2010"
+    ],
+    "sample_index": 138
+  },
+  {
+    "question_id": 21121,
+    "generated_question": "Who was the last person to receive an honor after Jacques Languirand received the Officer of the Order of Canada in 2003?",
+    "reference_questions": [
+      "The last award Jacques Languirand got was what"
+    ],
+    "sample_index": 139
+  },
+  {
+    "question_id": 18920,
+    "generated_question": "Who was the last person John Turton Randall received the John Price Wetherill Medal from after receiving the Hughes Medal in 1946?",
+    "reference_questions": [
+      "The last award John Turton Randall got was what"
+    ],
+    "sample_index": 140
+  },
+  {
+    "question_id": 22873,
+    "generated_question": "What was the initial team Patricia Schroeder played in before 1985?",
+    "reference_questions": [
+      "Name the award Patricia Schroeder first received"
+    ],
+    "sample_index": 141
+  },
+  {
+    "question_id": 22408,
+    "generated_question": "What was the initial team Marthe Vogt played in before she received the Feldberg Foundation in 1969?",
+    "reference_questions": [
+      "And what was the first award Marthe Louise Vogt ever won?"
+    ],
+    "sample_index": 142
+  },
+  {
+    "question_id": 22762,
+    "generated_question": "What was the Cannes Film Festival Award for Best Actress that Joanne Woodward received in 1973?",
+    "reference_questions": [
+      "Which award did Joanne Woodward receive in 1973"
+    ],
+    "sample_index": 143
+  },
+  {
+    "question_id": 21033,
+    "generated_question": "At what time did Brigitte Lin hold the position Golden Horse Award for Best Leading Actress for the first time?",
+    "reference_questions": [
+      "What year did Lin Ching-Hsia get Golden Horse Award for Best Leading Actress?"
+    ],
+    "sample_index": 144
+  },
+  {
+    "question_id": 24984,
+    "generated_question": "What was the team Lea Salonga played in 2011?",
+    "reference_questions": [
+      "Which was the award Lea Salonga got in 2011"
+    ],
+    "sample_index": 145
+  },
+  {
+    "question_id": 22383,
+    "generated_question": "What was the team Mathias Hofter played in 1984-1985?",
+    "reference_questions": [
+      "In 1985 which award did Mathias Rene Hofter win"
+    ],
+    "sample_index": 146
+  },
+  {
+    "question_id": 22916,
+    "generated_question": "What was the team Sebastiano Vassalli played in 1990?",
+    "reference_questions": [
+      "What award was given to Sebastiano Vassalli in 1990"
+    ],
+    "sample_index": 147
+  },
+  {
+    "question_id": 21598,
+    "generated_question": "What was the name of the award that Arantxa Sánchez Vicario received in 1995?",
+    "reference_questions": [
+      "Which was awarded to Arantxa Sánchez Vicario in 1995"
+    ],
+    "sample_index": 148
+  },
+  {
+    "question_id": 24801,
+    "generated_question": "What was the team Volker Schimpff played in 2008?",
+    "reference_questions": [
+      "What was the final award Volker Schimpff received?"
+    ],
+    "sample_index": 149
+  },
+  {
+    "question_id": 26352,
+    "generated_question": "Who was the last person to receive an honorary doctorate of the University of Valladolid after Carlos Zurita, Duke of Soria?",
+    "reference_questions": [
+      "Which was the last award Carlos Zurita, Duke of Soria got"
+    ],
+    "sample_index": 150
+  },
+  {
+    "question_id": 26714,
+    "generated_question": "What was the last year when Feng Youlan was Prix Stanislas Julien?",
+    "reference_questions": [
+      "Prix Stanislas Julien was awarded to Fung Yu-lan in which year"
+    ],
+    "sample_index": 151
+  },
+  {
+    "question_id": 26454,
+    "generated_question": "What was the name of the trophy Clint Smith received in 1944?",
+    "reference_questions": [
+      "Which was awarded to Clinton James \"Snuffy\" Smith in 1944"
+    ],
+    "sample_index": 152
+  },
+  {
+    "question_id": 21298,
+    "generated_question": "What's the last year Pál Bolberitz's been Honorary citizen of Budapest?",
+    "reference_questions": [
+      "Honorary citizen of Budapest has been awarded to Pál Bolberitz in which year"
+    ],
+    "sample_index": 153
+  },
+  {
+    "question_id": 28206,
+    "generated_question": "What was the name of the award received by William Ruthven in 1918?",
+    "reference_questions": [
+      "In 1918 which award did William Ruthven win"
+    ],
+    "sample_index": 154
+  },
+  {
+    "question_id": 21430,
+    "generated_question": "What is the name of the first award received by Pyotr Koshevoy before Order of Kutuzov, 2nd class in 1943?",
+    "reference_questions": [
+      "What's the first award Pyotr Koshevoy got?"
+    ],
+    "sample_index": 155
+  },
+  {
+    "question_id": 24328,
+    "generated_question": "Who was the last person to receive the John Burroughs Medal after William Beebe?",
+    "reference_questions": [
+      "So, what was the last award Charles William Beebe got?"
+    ],
+    "sample_index": 156
+  },
+  {
+    "question_id": 25013,
+    "generated_question": "What was the team Takeshi Kitano played in 2013?",
+    "reference_questions": [
+      "Which was the award Takeshi Kitano received in 2013"
+    ],
+    "sample_index": 157
+  },
+  {
+    "question_id": 28139,
+    "generated_question": "What was the team Lucy Shapiro played in 2011?",
+    "reference_questions": [
+      "What award was awarded to Lucille Shapiro in 2011"
+    ],
+    "sample_index": 158
+  },
+  {
+    "question_id": 19835,
+    "generated_question": "The team Alexander Demandt played with in 1964-1965?",
+    "reference_questions": [
+      "Which was the last award that Alexander Demandt received"
+    ],
+    "sample_index": 159
+  },
+  {
+    "question_id": 21485,
+    "generated_question": "What's the name of the award John Maynard Smith received in 1991?",
+    "reference_questions": [
+      "Which was the award that Maynard-Smith received in 1991"
+    ],
+    "sample_index": 160
+  },
+  {
+    "question_id": 22253,
+    "generated_question": "What was the last year when Aleksandr Solzhenitsyn was Nobel Prize in Literature?",
+    "reference_questions": [
+      "What year did Aleksandr Isayevich Solzhenitsyn get Nobel Prize in Literature?"
+    ],
+    "sample_index": 161
+  },
+  {
+    "question_id": 21749,
+    "generated_question": "The team Harold Russell played with in 1946?",
+    "reference_questions": [
+      "In 1946, the award won by Harold John Russell"
+    ],
+    "sample_index": 162
+  },
+  {
+    "question_id": 23515,
+    "generated_question": "What was the name of the prize David Ignatow received in 1977?",
+    "reference_questions": [
+      "In 1977, the award won by David Ignatow"
+    ],
+    "sample_index": 163
+  },
+  {
+    "question_id": 25660,
+    "generated_question": "What was the team If.... played in 1969?",
+    "reference_questions": [
+      "What was the award that was awarded to If.... for the first time ever"
+    ],
+    "sample_index": 164
+  },
+  {
+    "question_id": 19873,
+    "generated_question": "What was the name of the trophy that Carlos Ruiz Herrero received in 1975?",
+    "reference_questions": [
+      "Which was awarded to Carlos Ruiz Herrero in 1975"
+    ],
+    "sample_index": 165
+  },
+  {
+    "question_id": 25176,
+    "generated_question": "What was the team Thomas Diehl played in 1999?",
+    "reference_questions": [
+      "In 1999, the award won by Thomas Diehl"
+    ],
+    "sample_index": 166
+  },
+  {
+    "question_id": 26310,
+    "generated_question": "What was the last year when Ana Maria Machado was Ordem do Mérito Cultural?",
+    "reference_questions": [
+      "Which year did Ana Maria Machado receive Ordem do Mérito Cultural"
+    ],
+    "sample_index": 167
+  },
+  {
+    "question_id": 23710,
+    "generated_question": "What was the initial award Moniek Toebosch received before Arti et Amicitiae in 2009?",
+    "reference_questions": [
+      "Name the first prize received by Moniek Toebosch"
+    ],
+    "sample_index": 168
+  },
+  {
+    "question_id": 23189,
+    "generated_question": "What was the award Anne Hébert received in 1988?",
+    "reference_questions": [
+      "What award did Anne Hebert receive in 1988"
+    ],
+    "sample_index": 169
+  },
+  {
+    "question_id": 25817,
+    "generated_question": "What was the team Lovely & Amazing played in 2002?",
+    "reference_questions": [
+      "The last award Lovely & Amazing ever received is what"
+    ],
+    "sample_index": 170
+  },
+  {
+    "question_id": 27811,
+    "generated_question": "Which year did Alexander Prokhorov first become the State Prize of the Russian Federation?",
+    "reference_questions": [
+      "What year was Aleksandr Prokhorov given the State Prize of the Russian Federation"
+    ],
+    "sample_index": 171
+  },
+  {
+    "question_id": 25348,
+    "generated_question": "Who was the last to receive Ben Shneiderman before ACM Fellow in 1997?",
+    "reference_questions": [
+      "Which was the first award that Ben Shneiderman received"
+    ],
+    "sample_index": 172
+  },
+  {
+    "question_id": 22475,
+    "generated_question": "What was the team Ravi Shankar was playing in 1999?",
+    "reference_questions": [
+      "In 1999, the award won by Robindro Shaunkor Chowdhury"
+    ],
+    "sample_index": 173
+  },
+  {
+    "question_id": 28453,
+    "generated_question": "What was the last year when C. V. Boys was Rumford Medal?",
+    "reference_questions": [
+      "When did C. V. Boys receive Rumford Medal"
+    ],
+    "sample_index": 174
+  },
+  {
+    "question_id": 20409,
+    "generated_question": "When's the last year when Richard C. Tolman was Josiah Willard Gibbs Lectureship?",
+    "reference_questions": [
+      "What year did Richard C. Tolman get Josiah Willard Gibbs Lectureship?"
+    ],
+    "sample_index": 175
+  },
+  {
+    "question_id": 22488,
+    "generated_question": "What was the name of the honor Víctor García de la Concha received in 2016?",
+    "reference_questions": [
+      "What is awarded to Víctor García de la Concha in 2016"
+    ],
+    "sample_index": 176
+  },
+  {
+    "question_id": 21972,
+    "generated_question": "What was the team Cameron Mitchell played in 1949?",
+    "reference_questions": [
+      "What award was given to Cameron Mitchell in 1949"
+    ],
+    "sample_index": 177
+  },
+  {
+    "question_id": 24805,
+    "generated_question": "What was the team Leo Bokeriya played in 2002?",
+    "reference_questions": [
+      "Which award did Leo Bokeria win last"
+    ],
+    "sample_index": 178
+  },
+  {
+    "question_id": 26823,
+    "generated_question": "What was the team Lee Hartwell played in 2001?",
+    "reference_questions": [
+      "What is awarded to Lee Hartwell in 2001"
+    ],
+    "sample_index": 179
+  },
+  {
+    "question_id": 21556,
+    "generated_question": "Josep Lluís Sert's last received award was?",
+    "reference_questions": [
+      "Which was a last award Josep Lluis Sert López got"
+    ],
+    "sample_index": 180
+  },
+  {
+    "question_id": 19998,
+    "generated_question": "What was the team Horace W. Babcock played in 1957?",
+    "reference_questions": [
+      "What was given to Horace W. Babcock in 1957"
+    ],
+    "sample_index": 181
+  },
+  {
+    "question_id": 20829,
+    "generated_question": "What is the last year when Annie Jump Cannon was National Women's Hall of Fame?",
+    "reference_questions": [
+      "National Women's Hall of Fame was awarded to AJ Cannon during the year"
+    ],
+    "sample_index": 182
+  },
+  {
+    "question_id": 27522,
+    "generated_question": "What was the team Edward C. Stone played in 1980?",
+    "reference_questions": [
+      "Which was the award Edward C. Stone received in 1980"
+    ],
+    "sample_index": 183
+  },
+  {
+    "question_id": 23021,
+    "generated_question": "When did Michael Löwy receive the CNRS silver medal for the first time?",
+    "reference_questions": [
+      "Which year did Michael Lowy receive CNRS silver medal"
+    ],
+    "sample_index": 184
+  },
+  {
+    "question_id": 25292,
+    "generated_question": "What was the name of the prize Jean Baubérot received in 2000?",
+    "reference_questions": [
+      "Which was the award that Jean Bauberot received in 2000"
+    ],
+    "sample_index": 185
+  },
+  {
+    "question_id": 21929,
+    "generated_question": "What was the initial prize that Peter Edwards received before the Liversidge Award in 1990?",
+    "reference_questions": [
+      "What's the first award Peter Philip Edwards got?"
+    ],
+    "sample_index": 186
+  },
+  {
+    "question_id": 22446,
+    "generated_question": "What was the team Serge Dalens received the prix Renaissance des lettres in 1976?",
+    "reference_questions": [
+      "Name the first prize received by Serge Dalens"
+    ],
+    "sample_index": 187
+  },
+  {
+    "question_id": 26777,
+    "generated_question": "What was the team Kirtley F. Mather played in 1965?",
+    "reference_questions": [
+      "Which was the award Kirtley F. Mather received in 1965"
+    ],
+    "sample_index": 188
+  },
+  {
+    "question_id": 24833,
+    "generated_question": "What was the name of the award received by Guy Williams in 2011?",
+    "reference_questions": [
+      "What award was awarded to Guy Williams in 2011"
+    ],
+    "sample_index": 189
+  },
+  {
+    "question_id": 25338,
+    "generated_question": "What was the last year when Rupprecht Geiger was Bavarian Maximilian Order for Science and Art?",
+    "reference_questions": [
+      "What year did Rupprecht Geiger get the Bavarian Maximilian Order for Science and Art?"
+    ],
+    "sample_index": 190
+  },
+  {
+    "question_id": 22911,
+    "generated_question": "At what time did Satyajit Ray hold the position Dadasaheb Phalke Award for the first time?",
+    "reference_questions": [
+      "Dadasaheb Phalke Award was awarded to Manik Da in which year"
+    ],
+    "sample_index": 191
+  },
+  {
+    "question_id": 25409,
+    "generated_question": "What was the team Herta Müller played in 2009?",
+    "reference_questions": [
+      "Which was the award Herta Mueller received in 2009"
+    ],
+    "sample_index": 192
+  },
+  {
+    "question_id": 21316,
+    "generated_question": "What was the initial team Otto Ludwig Lange played in before receiving the Balzan Prize in 1988?",
+    "reference_questions": [
+      "What was the prize that was awarded to Otto Ludwig Lange for the first time in their life"
+    ],
+    "sample_index": 193
+  },
+  {
+    "question_id": 19145,
+    "generated_question": "What was the team Ole Henrik Moe played in 1995?",
+    "reference_questions": [
+      "What was the award that had been awarded to Ole Henrik Moe for the first time in their life?"
+    ],
+    "sample_index": 194
+  },
+  {
+    "question_id": 21234,
+    "generated_question": "What was the last year when Carol Lynley was Theatre World Award?",
+    "reference_questions": [
+      "Theatre World Award was awarded to Carol Lynley during the year"
+    ],
+    "sample_index": 195
+  },
+  {
+    "question_id": 24635,
+    "generated_question": "What was the last year when Matthias Sammer was Ballon d’Or?",
+    "reference_questions": [
+      "Which year Matthias Sammer got Ballon d'Or"
+    ],
+    "sample_index": 196
+  },
+  {
+    "question_id": 19049,
+    "generated_question": "What was the last year when Gottfried Schramm was Reuchlin Award?",
+    "reference_questions": [
+      "Gottfried Schramm got Reuchlin-Preis in what year"
+    ],
+    "sample_index": 197
+  },
+  {
+    "question_id": 27736,
+    "generated_question": "What year did Klaus Biemann receive the Benjamin Franklin Medal?",
+    "reference_questions": [
+      "Benjamin Franklin Medal was awarded to Klaus Biemann during the year"
+    ],
+    "sample_index": 198
+  },
+  {
+    "question_id": 21904,
+    "generated_question": "What was the name of the award Lars Saabye Christensen received in 1988?",
+    "reference_questions": [
+      "What was given to Lars Saabye Christensen in 1988"
+    ],
+    "sample_index": 199
+  }
+]

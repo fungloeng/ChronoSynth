@@ -1,0 +1,2 @@
+n,answerable,answer_exact_match,answer_precision,answer_recall,answer_f1,wrong_slot,unsupported
+1000,0.868,0.675,0.7766666666666666,0.7267,0.7395,0.0,0.137

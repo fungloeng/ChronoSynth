@@ -1,0 +1,16 @@
+{
+  "dataset": "MULTITQ",
+  "model": "gpt-4o-mini",
+  "variants": [
+    {
+      "variant": "strict_compatibility",
+      "output_path": "result/supplementary_20260811/strict_multitq_demo1000/chrono_multitq_strict_compatibility.json",
+      "BLEU-4": 0.30456184323401436,
+      "ROUGE-L": 0.5272377708293544,
+      "CIDEr": 2.739398045695233,
+      "Distinct-1": 0.11083191241137934,
+      "Distinct-2": 0.3190377600315489,
+      "num_samples": 1000
+    }
+  ]
+}

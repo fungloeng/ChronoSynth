@@ -1,0 +1,16 @@
+{
+  "dataset": "CRONQUESTION",
+  "model": "gpt-4o-mini",
+  "variants": [
+    {
+      "variant": "no_typed_placeholders",
+      "output_path": "result/supplementary_core_20260812/04_typed_placeholder/cronquestion/chrono_cronquestion_no_typed_placeholders.json",
+      "BLEU-4": 0.3156191343139457,
+      "ROUGE-L": 0.526443971934243,
+      "CIDEr": 2.8466661288785717,
+      "Distinct-1": 0.2390148830616584,
+      "Distinct-2": 0.4415028226591396,
+      "num_samples": 507
+    }
+  ]
+}

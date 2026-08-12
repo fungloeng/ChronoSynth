@@ -1,0 +1,2002 @@
+[
+  {
+    "question_id": 2455,
+    "generated_question": "Which team was Richard Shaw playing for between 1995 and 2006?",
+    "reference_questions": [
+      "What team was Richard Shaw playing in 2003"
+    ],
+    "sample_index": 0
+  },
+  {
+    "question_id": 22190,
+    "generated_question": "Which was the award that Igor Viktorovich Makarov received in 2002?",
+    "reference_questions": [
+      "What was the award that was awarded to Igor Viktorovich Makarov for the first time ever"
+    ],
+    "sample_index": 1
+  },
+  {
+    "question_id": 23870,
+    "generated_question": "Which was the last award Nelson Mandela got after 2006?",
+    "reference_questions": [
+      "The last prize Madiba got was what"
+    ],
+    "sample_index": 2
+  },
+  {
+    "question_id": 27619,
+    "generated_question": "Which was the last award Denzel Washington received after the Tony Award for Best Actor in a Play?",
+    "reference_questions": [
+      "Which was the last prize Denzel Washington got"
+    ],
+    "sample_index": 3
+  },
+  {
+    "question_id": 21532,
+    "generated_question": "Which was the last award that Tankred Dorst received after the Samuel-Bogumil-Linde prize?",
+    "reference_questions": [
+      "What award did Tankred Dorst win last"
+    ],
+    "sample_index": 4
+  },
+  {
+    "question_id": 6495,
+    "generated_question": "When did Junior Stanislas play his last game for Burnley F.C.?",
+    "reference_questions": [
+      "When Felix Junior Stanislas played the last game"
+    ],
+    "sample_index": 5
+  },
+  {
+    "question_id": 27213,
+    "generated_question": "Which was the award that René Maheu received in 1973?",
+    "reference_questions": [
+      "Which was the award René Maheu received in 1973"
+    ],
+    "sample_index": 6
+  },
+  {
+    "question_id": 16313,
+    "generated_question": "At what time did Peter Mills hold the position Member of the 45th Parliament of the United Kingdom for the first time?",
+    "reference_questions": [
+      "At what time Peter Mills held Member of the 45th Parliament of the United Kingdom for the first time"
+    ],
+    "sample_index": 7
+  },
+  {
+    "question_id": 2686,
+    "generated_question": "When was the last time Fernando Torres played for A.C. Milan?",
+    "reference_questions": [
+      "When did Fernando José Torres Sanz play his last game"
+    ],
+    "sample_index": 8
+  },
+  {
+    "question_id": 14171,
+    "generated_question": "Who became the president of Colombia after Rafael Núñez?",
+    "reference_questions": [
+      "Who became president of Colombia after Rafael Núñez"
+    ],
+    "sample_index": 9
+  },
+  {
+    "question_id": 8531,
+    "generated_question": "What was the team José Sand played in 2004-2005?",
+    "reference_questions": [
+      "The team José Sand played with in 2004"
+    ],
+    "sample_index": 10
+  },
+  {
+    "question_id": 22793,
+    "generated_question": "Which was the last award Paul Greengard received after 1993?",
+    "reference_questions": [
+      "Which is the last award Paul Greengard got"
+    ],
+    "sample_index": 11
+  },
+  {
+    "question_id": 7582,
+    "generated_question": "Heinrich Schönfeld was playing for which team in 1923-1925?",
+    "reference_questions": [
+      "Which team was Heinrich Schönfeld part of in 1923"
+    ],
+    "sample_index": 12
+  },
+  {
+    "question_id": 23536,
+    "generated_question": "When was the Disney Legends awarded to Betty White?",
+    "reference_questions": [
+      "Disney Legends was awarded to Betty White in which year"
+    ],
+    "sample_index": 13
+  },
+  {
+    "question_id": 27142,
+    "generated_question": "In 2001, which award did Xavier Tilliette receive?",
+    "reference_questions": [
+      "Which award did Xavier Tilliette receive in 2001"
+    ],
+    "sample_index": 14
+  },
+  {
+    "question_id": 13974,
+    "generated_question": "What year did the last Minister President of Prussia come to power?",
+    "reference_questions": [
+      "Which year did the last Minister President of Prussia come to power"
+    ],
+    "sample_index": 15
+  },
+  {
+    "question_id": 23086,
+    "generated_question": "In which year did Olga Ladyzhenskaya receive the Lomonosov Gold Medal?",
+    "reference_questions": [
+      "When did Olga Ladyzhenskaya receive Lomonosov Gold Medal"
+    ],
+    "sample_index": 16
+  },
+  {
+    "question_id": 3430,
+    "generated_question": "Which other team did José Rodrigues Neto play before Brazil national football team [1972-1978]?",
+    "reference_questions": [
+      "What other team did Jose Rodrigues Neto play in after Seleção Brasileira de Futebol"
+    ],
+    "sample_index": 17
+  },
+  {
+    "question_id": 10354,
+    "generated_question": "Who held the position of Member of the Swiss Federal Council during 1848-1861?",
+    "reference_questions": [
+      "Who held the position of Member of the Swiss Federal Council after 15th-century"
+    ],
+    "sample_index": 18
+  },
+  {
+    "question_id": 16452,
+    "generated_question": "When was the first year François Delapierre became municipal councillor?",
+    "reference_questions": [
+      "At what time François Delapierre held member of the municipal council for the first time"
+    ],
+    "sample_index": 19
+  },
+  {
+    "question_id": 8937,
+    "generated_question": "Before the Thirty Years' War, who held the position of emperor of Japan?",
+    "reference_questions": [
+      "emperor of Japan has been held by whom after The 30 years war"
+    ],
+    "sample_index": 20
+  },
+  {
+    "question_id": 3599,
+    "generated_question": "What was the team Simone Dallamano played for during the years 2001 to 2013?",
+    "reference_questions": [
+      "What team Simone Dallamano played in 2011"
+    ],
+    "sample_index": 21
+  },
+  {
+    "question_id": 10010,
+    "generated_question": "Who held the position of Prime Minister of Bulgaria before 1971?",
+    "reference_questions": [
+      "When Joseph Luns was Secretary General of NATO, who was Prime Minister of Bulgaria"
+    ],
+    "sample_index": 22
+  },
+  {
+    "question_id": 1647,
+    "generated_question": "Mauro Gatti was playing for which team between 1966 and 1973?",
+    "reference_questions": [
+      "What team was Mauro Gatti playing in 1972"
+    ],
+    "sample_index": 23
+  },
+  {
+    "question_id": 21014,
+    "generated_question": "Which was the last award Kenny Rogers received after 1985?",
+    "reference_questions": [
+      "Last award Kenneth Ray Rogers got was what"
+    ],
+    "sample_index": 24
+  },
+  {
+    "question_id": 4478,
+    "generated_question": "Geoff Fox was playing for which team between 1955 and 1957?",
+    "reference_questions": [
+      "Geoff Fox played for which team, 1955"
+    ],
+    "sample_index": 25
+  },
+  {
+    "question_id": 11319,
+    "generated_question": "Who became the President of the Society for Classical Studies after John Marincola?",
+    "reference_questions": [
+      "What person was the latest President of the Society for Classical Studies"
+    ],
+    "sample_index": 26
+  },
+  {
+    "question_id": 2244,
+    "generated_question": "When was the last time Paolo Mazzeni played for Vicenza Calcio?",
+    "reference_questions": [
+      "When's the last play of Paolo Mazzeni"
+    ],
+    "sample_index": 27
+  },
+  {
+    "question_id": 29487,
+    "generated_question": "Who was Masayasu Nomura working for last after 1963?",
+    "reference_questions": [
+      "Who did Masayasu Nomura employ last"
+    ],
+    "sample_index": 28
+  },
+  {
+    "question_id": 20301,
+    "generated_question": "In which year did Carlo Azeglio Ciampi receive the Knight Grand Cross of the Order of the Bath?",
+    "reference_questions": [
+      "Which year did Carlo Azeglio Ciampi receive GCB"
+    ],
+    "sample_index": 29
+  },
+  {
+    "question_id": 17567,
+    "generated_question": "When was the first time Volker Hucklenbroich became a Member of the Abgeordnetenhaus of Berlin?",
+    "reference_questions": [
+      "What is the first time Volker Hucklenbroich had a position as Member of the Abgeordnetenhaus of Berlin"
+    ],
+    "sample_index": 30
+  },
+  {
+    "question_id": 11302,
+    "generated_question": "Who held the position of United States Ambassador to the United Kingdom after Elliot Richardson in 1976?",
+    "reference_questions": [
+      "Who last held the position of Ambassador of the United States to the Court of St James's"
+    ],
+    "sample_index": 31
+  },
+  {
+    "question_id": 29755,
+    "generated_question": "Where did Carl David Tolmé Runge work before University of Göttingen [1904-1925]?",
+    "reference_questions": [
+      "Where did Carl David Tolmé Runge work before working for Georg-August-Universität Göttingen"
+    ],
+    "sample_index": 32
+  },
+  {
+    "question_id": 23240,
+    "generated_question": "Which was the award that Stan Smith received in 1987?",
+    "reference_questions": [
+      "What was the award that was awarded to Stan Smith for the first time ever"
+    ],
+    "sample_index": 33
+  },
+  {
+    "question_id": 9211,
+    "generated_question": "Who was the first to hold the position of Minister of the Government of Catalonia before Pompeu Fabra?",
+    "reference_questions": [
+      "Who was the first to hold the position of Minister of the Government of Catalonia"
+    ],
+    "sample_index": 34
+  },
+  {
+    "question_id": 15045,
+    "generated_question": "When was it George Brown first became a member of the California State Assembly?",
+    "reference_questions": [
+      "Which year George Brown, Jr. first became member of the California State Assembly"
+    ],
+    "sample_index": 35
+  },
+  {
+    "question_id": 2666,
+    "generated_question": "When did Kenny Dalglish play his last game for Liverpool F.C.?",
+    "reference_questions": [
+      "When Sir Kenny Dalglish was playing his final game"
+    ],
+    "sample_index": 36
+  },
+  {
+    "question_id": 17818,
+    "generated_question": "Who was the burgomaster before Andreas von Schoeler [1991-1995]?",
+    "reference_questions": [
+      "Who was the first person to hold a Mayor position"
+    ],
+    "sample_index": 37
+  },
+  {
+    "question_id": 28331,
+    "generated_question": "Which was the award that Julián Marías received in 1978?",
+    "reference_questions": [
+      "Julian Marias received which award in 1978"
+    ],
+    "sample_index": 38
+  },
+  {
+    "question_id": 15589,
+    "generated_question": "What year did James Dunn first become a Member of the 47th Parliament of the United Kingdom?",
+    "reference_questions": [
+      "What is the first time James Dunn had a position as Member of the 47th Parliament of the United Kingdom"
+    ],
+    "sample_index": 39
+  },
+  {
+    "question_id": 6527,
+    "generated_question": "When was it that Gilmar Rinaldi played their first game for the Brazil national football team?",
+    "reference_questions": [
+      "When was Gilmar Rinaldi playing their first game?"
+    ],
+    "sample_index": 40
+  },
+  {
+    "question_id": 1345,
+    "generated_question": "Which team was Marco Piovanelli playing for in 1993?",
+    "reference_questions": [
+      "Marco Piovanelli belonged to which team in 1992"
+    ],
+    "sample_index": 41
+  },
+  {
+    "question_id": 22413,
+    "generated_question": "In which year did Josef Tal receive the Berliner Kunstpreis?",
+    "reference_questions": [
+      "Which year Josef Tal got Berliner Kunstpreis"
+    ],
+    "sample_index": 42
+  },
+  {
+    "question_id": 7664,
+    "generated_question": "Djalma Santos was playing for which team from 1952 to 1968?",
+    "reference_questions": [
+      "Djalma Santos supported which team in 1954"
+    ],
+    "sample_index": 43
+  },
+  {
+    "question_id": 28608,
+    "generated_question": "Who was the last person Liliane Bettencourt had ever been married to?",
+    "reference_questions": [
+      "Who married Liliane Bettencourt in 1998"
+    ],
+    "sample_index": 44
+  },
+  {
+    "question_id": 28620,
+    "generated_question": "When did the first marriage of Virginia Christine start?",
+    "reference_questions": [
+      "When Virginia Christine first married"
+    ],
+    "sample_index": 45
+  },
+  {
+    "question_id": 13900,
+    "generated_question": "Who became the member of the Islamic consultedative Assembly after Hassan Rouhani [1984-2000]?",
+    "reference_questions": [
+      "What politician was the last member of the Islamic Consultative Assembly"
+    ],
+    "sample_index": 46
+  },
+  {
+    "question_id": 28622,
+    "generated_question": "Who was Virginia Christine's partner in 1940?",
+    "reference_questions": [
+      "I mean, the person that Virginia Christine last married was who"
+    ],
+    "sample_index": 47
+  },
+  {
+    "question_id": 25490,
+    "generated_question": "What year did Edward Teller receive the National Medal of Science?",
+    "reference_questions": [
+      "Edward Teller received National Medal of Science in what year"
+    ],
+    "sample_index": 48
+  },
+  {
+    "question_id": 12361,
+    "generated_question": "At what time did Hans-Peter Tschudi become a Member of the Swiss Federal Council for the first time?",
+    "reference_questions": [
+      "Which is the first time Hans-Peter Tschudi held the Member of the Swiss Federal Council position"
+    ],
+    "sample_index": 49
+  },
+  {
+    "question_id": 18372,
+    "generated_question": "At what time did David S. Walker hold the position of Governor of Florida for the first time?",
+    "reference_questions": [
+      "Which is the first time David S. Walker held the Florida Governor position"
+    ],
+    "sample_index": 50
+  },
+  {
+    "question_id": 27363,
+    "generated_question": "Which was the award that Martha P. Haynes received in 1989?",
+    "reference_questions": [
+      "Which award did Martha P. Haynes receive in 1989"
+    ],
+    "sample_index": 51
+  },
+  {
+    "question_id": 20493,
+    "generated_question": "Which was the last award Edvard Beneš received?",
+    "reference_questions": [
+      "The last award Edvard Beneš ever received is what"
+    ],
+    "sample_index": 52
+  },
+  {
+    "question_id": 16122,
+    "generated_question": "What year did the last Minister of the Interior come to power?",
+    "reference_questions": [
+      "Last French Minister of the Interior came to power that year"
+    ],
+    "sample_index": 53
+  },
+  {
+    "question_id": 5764,
+    "generated_question": "Which team did Paul Parker play for before his time with the England national under-21 football team from 1984 to 1986?",
+    "reference_questions": [
+      "Paul Parker's first team"
+    ],
+    "sample_index": 54
+  },
+  {
+    "question_id": 14571,
+    "generated_question": "Who was the Secretary of State for Foreign and Commonwealth Affairs before George Nugent-Temple-Grenville, 1st Marquess of Buckingham?",
+    "reference_questions": [
+      "Who was the first person to hold the post of Secretary of State for Foreign Affairs"
+    ],
+    "sample_index": 55
+  },
+  {
+    "question_id": 4494,
+    "generated_question": "The team Sean Haslegrave played with between 1983 and 1987?",
+    "reference_questions": [
+      "The name of the team Sean Haslegrave played in 1987"
+    ],
+    "sample_index": 56
+  },
+  {
+    "question_id": 25915,
+    "generated_question": "What is awarded to Pierre Pilote in 1964?",
+    "reference_questions": [
+      "What award did Pierre Pilote receive during 1964?"
+    ],
+    "sample_index": 57
+  },
+  {
+    "question_id": 25272,
+    "generated_question": "When did Natalia Ginzburg receive the Strega Prize?",
+    "reference_questions": [
+      "Which year did Natalia Levi receive Strega Prize"
+    ],
+    "sample_index": 58
+  },
+  {
+    "question_id": 13680,
+    "generated_question": "Who held the position of delegate after the 2012 Summer Olympics?",
+    "reference_questions": [
+      "Before London 2012, who held delegate's position"
+    ],
+    "sample_index": 59
+  },
+  {
+    "question_id": 4459,
+    "generated_question": "When was the first time Haris Škoro was playing for Torino Football Club?",
+    "reference_questions": [
+      "The first time Haris Škoro was playing in Torino Football Club"
+    ],
+    "sample_index": 60
+  },
+  {
+    "question_id": 18967,
+    "generated_question": "Which award did Georges Millot receive in 1981?",
+    "reference_questions": [
+      "What award was awarded to Georges Millot in 1981"
+    ],
+    "sample_index": 61
+  },
+  {
+    "question_id": 26979,
+    "generated_question": "Which was the award that Nicolaas Bloembergen received in 1978?",
+    "reference_questions": [
+      "What award was awarded to Nicolaas Bloembergen in 1978"
+    ],
+    "sample_index": 62
+  },
+  {
+    "question_id": 11929,
+    "generated_question": "Who was the Chancellor of the University of Adelaide before Samuel Way during the years 1883-1916?",
+    "reference_questions": [
+      "Who was first to hold Chancellor of the University of Adelaide's position"
+    ],
+    "sample_index": 63
+  },
+  {
+    "question_id": 9581,
+    "generated_question": "Who was member of the Senate of Chile after Nazi Germany?",
+    "reference_questions": [
+      "What person held the status of Chilean senator in Greater German Reich"
+    ],
+    "sample_index": 64
+  },
+  {
+    "question_id": 29093,
+    "generated_question": "Who was the partner of Roger Perry in 2008?",
+    "reference_questions": [
+      "Who was the last person to marry Roger Perry"
+    ],
+    "sample_index": 65
+  },
+  {
+    "question_id": 8814,
+    "generated_question": "What year did Vicente Álvarez Areces become a Member of the Senate of Spain?",
+    "reference_questions": [
+      "Last Senator came to power when"
+    ],
+    "sample_index": 66
+  },
+  {
+    "question_id": 11106,
+    "generated_question": "Who was the ambassador of the United Kingdom to the United States before Sir Augustus Foster, 1st Baronet?",
+    "reference_questions": [
+      "Who was the first person to hold British ambassador to the United States"
+    ],
+    "sample_index": 67
+  },
+  {
+    "question_id": 14529,
+    "generated_question": "Who was Cardinal Secretary of State before World War II?",
+    "reference_questions": [
+      "What person had been Secretary of State of His Holiness The Pope before Second World War"
+    ],
+    "sample_index": 68
+  },
+  {
+    "question_id": 19630,
+    "generated_question": "Which was the award that John Argyris received in 1981?",
+    "reference_questions": [
+      "Which award did Ioannis Argyris receive in 1981"
+    ],
+    "sample_index": 69
+  },
+  {
+    "question_id": 23525,
+    "generated_question": "When did Robert de Bonnières receive the prix Archon-Despérouses?",
+    "reference_questions": [
+      "What year did Robert de Bonnieres get Archon-Despérouses Prize"
+    ],
+    "sample_index": 70
+  },
+  {
+    "question_id": 23750,
+    "generated_question": "In which year did Lutz Seiler receive the Marie Luise Kaschnitz Prize?",
+    "reference_questions": [
+      "Which year did Lutz Seiler receive Marie Luise Kaschnitz Prize"
+    ],
+    "sample_index": 71
+  },
+  {
+    "question_id": 3082,
+    "generated_question": "When's the first time Daniele Amerini played for Modena F.C.?",
+    "reference_questions": [
+      "Which year Daniele Amerini played his first game in Modena F.C. 2018"
+    ],
+    "sample_index": 72
+  },
+  {
+    "question_id": 21348,
+    "generated_question": "When did Halley Feiffer receive the Theatre World Award?",
+    "reference_questions": [
+      "Which year Halley Feiffer got Theatre World Award"
+    ],
+    "sample_index": 73
+  },
+  {
+    "question_id": 25394,
+    "generated_question": "Which was the award that Friedrich Kluge received in 1913?",
+    "reference_questions": [
+      "What was awarded to Friedrich Kluge in 1913"
+    ],
+    "sample_index": 74
+  },
+  {
+    "question_id": 17903,
+    "generated_question": "When did Thomas Swain last become Member of the 47th Parliament of the United Kingdom?",
+    "reference_questions": [
+      "Which year Thomas Henry Swain first became Member of the 47th Parliament of the United Kingdom"
+    ],
+    "sample_index": 75
+  },
+  {
+    "question_id": 25214,
+    "generated_question": "When did Johann Olav Koss receive the Peer Gynt Literary Award?",
+    "reference_questions": [
+      "When did Johann Olav Koss receive Peer Gynt Prize"
+    ],
+    "sample_index": 76
+  },
+  {
+    "question_id": 8578,
+    "generated_question": "Which team did Jan Kirchhoff play for in 2016-2017?",
+    "reference_questions": [
+      "Jan Kirchhoff played for which team in 2016"
+    ],
+    "sample_index": 77
+  },
+  {
+    "question_id": 19522,
+    "generated_question": "Which was the award that Glenn Seaborg received in 1966?",
+    "reference_questions": [
+      "In 1966 which award did Glenn Theodore Seaborg win"
+    ],
+    "sample_index": 78
+  },
+  {
+    "question_id": 10028,
+    "generated_question": "What year did the last Sociétaire of the Comédie-Française, Dominique Constanza, serve until?",
+    "reference_questions": [
+      "What year has the last Sociétaire of the Comédie-Française come to power"
+    ],
+    "sample_index": 79
+  },
+  {
+    "question_id": 1913,
+    "generated_question": "When was it that Denny Mundee played their first game?",
+    "reference_questions": [
+      "What was the year Denny Mundee was playing his first game?"
+    ],
+    "sample_index": 80
+  },
+  {
+    "question_id": 23453,
+    "generated_question": "What award did Elke Lütjen-Drecoll receive in 2003?",
+    "reference_questions": [
+      "So, what was the last award Elke Lütjen-Drecoll got?"
+    ],
+    "sample_index": 81
+  },
+  {
+    "question_id": 22030,
+    "generated_question": "Which year did John Clute receive the Pilgrim Award?",
+    "reference_questions": [
+      "Which year John Frederick Clute got Pilgrim Award"
+    ],
+    "sample_index": 82
+  },
+  {
+    "question_id": 835,
+    "generated_question": "When was the first time Alessio Bandieri played in Modena F.C.?",
+    "reference_questions": [
+      "When was Alessio Bandieri playing their first game?"
+    ],
+    "sample_index": 83
+  },
+  {
+    "question_id": 11280,
+    "generated_question": "When was it José María de Areilza, Count of Motrico, first became a member of the Cortes franquistas?",
+    "reference_questions": [
+      "When did José María de Areilza, Count of Motrico last become member of the Cortes franquistas?"
+    ],
+    "sample_index": 84
+  },
+  {
+    "question_id": 9070,
+    "generated_question": "Who became the ambassador of the United Kingdom to Denmark after Henry Williams-Wynn?",
+    "reference_questions": [
+      "Who became the ambassador of the United Kingdom to Denmark after Henry Watkin Williams-Wynn"
+    ],
+    "sample_index": 85
+  },
+  {
+    "question_id": 2129,
+    "generated_question": "When was the first time Paulo Innocenti was playing for the Italy national football team?",
+    "reference_questions": [
+      "When Paulo Innocenti played in Squadra Azzurza"
+    ],
+    "sample_index": 86
+  },
+  {
+    "question_id": 9456,
+    "generated_question": "Who held the position of ambassador of the United Kingdom to the Two Sicilies before the 1956 Winter Olympics?",
+    "reference_questions": [
+      "Who was the ambassador of the United Kingdom to the Two Sicilies before Cortina d'Ampezzo 1956"
+    ],
+    "sample_index": 87
+  },
+  {
+    "question_id": 18995,
+    "generated_question": "Which was the award that Asterix & Obelix: Mission Cleopatra received in 2003?",
+    "reference_questions": [
+      "What award was given to Astérix et Obélix : Mission Cléopâtre in 2003"
+    ],
+    "sample_index": 88
+  },
+  {
+    "question_id": 18075,
+    "generated_question": "Who was the Cardinal Secretary of State in 2006?",
+    "reference_questions": [
+      "The Cardinal Secretary of State of 1992 was who"
+    ],
+    "sample_index": 89
+  },
+  {
+    "question_id": 26714,
+    "generated_question": "In which year did Feng Youlan receive the Prix Stanislas Julien?",
+    "reference_questions": [
+      "Prix Stanislas Julien was awarded to Fung Yu-lan in which year"
+    ],
+    "sample_index": 90
+  },
+  {
+    "question_id": 7922,
+    "generated_question": "When was it that James Gillespie played their first game for Sunderland A.F.C.?",
+    "reference_questions": [
+      "When was James Gillespie's first game"
+    ],
+    "sample_index": 91
+  },
+  {
+    "question_id": 802,
+    "generated_question": "When was the first time Syarhey Shtanyuk was playing in FC Dinamo Moscow?",
+    "reference_questions": [
+      "Syarhey Shtanyuk was playing their first game in FC Dinamo Moscow during the year"
+    ],
+    "sample_index": 92
+  },
+  {
+    "question_id": 25961,
+    "generated_question": "When did John Scott Keltie receive the Cullum Geographical Medal?",
+    "reference_questions": [
+      "Which year did John Keltie receive Cullum Geographical Medal"
+    ],
+    "sample_index": 93
+  },
+  {
+    "question_id": 26267,
+    "generated_question": "Which was the award that Charles Dutoit received in 1995?",
+    "reference_questions": [
+      "In 1995, the award won by Charles Dutoit"
+    ],
+    "sample_index": 94
+  },
+  {
+    "question_id": 22453,
+    "generated_question": "Which award did Agnes Martin receive in 2005?",
+    "reference_questions": [
+      "Agnes Martin received which award in 2005"
+    ],
+    "sample_index": 95
+  },
+  {
+    "question_id": 9799,
+    "generated_question": "At what time did Oliver Wolcott hold the position Governor of Connecticut for the first time?",
+    "reference_questions": [
+      "Which is the first time Oliver Wolcott, Jr. held the Connecticut Governor position"
+    ],
+    "sample_index": 96
+  },
+  {
+    "question_id": 26157,
+    "generated_question": "Which was the last award that Ferenc Fejtő received?",
+    "reference_questions": [
+      "So, what was the last award Ferenc Fejtő got?"
+    ],
+    "sample_index": 97
+  },
+  {
+    "question_id": 11889,
+    "generated_question": "Who was the Monarch of the Netherlands before Eurovision Song Contest 2005?",
+    "reference_questions": [
+      "Before Eurovision Song Contest 2005 who held Monarch of the Netherlands"
+    ],
+    "sample_index": 98
+  },
+  {
+    "question_id": 23397,
+    "generated_question": "What year did Richard Rogers receive the Praemium Imperiale?",
+    "reference_questions": [
+      "Which year Richard George Rogers got Praemium Imperiale"
+    ],
+    "sample_index": 99
+  },
+  {
+    "question_id": 548,
+    "generated_question": "What was the team Gordon Hodgson played for between 1925 and 1936?",
+    "reference_questions": [
+      "What team Gordon Hodgson played at 1935"
+    ],
+    "sample_index": 100
+  },
+  {
+    "question_id": 4285,
+    "generated_question": "When was it that Luigi Simoni played their first game for S.S.C. Napoli?",
+    "reference_questions": [
+      "When was it that Luigi Simoni played their first game"
+    ],
+    "sample_index": 101
+  },
+  {
+    "question_id": 10660,
+    "generated_question": "Who held the position of Governor-General of Australia after Michael Jeffery?",
+    "reference_questions": [
+      "What person was the last Governor-General of the Commonwealth of Australia"
+    ],
+    "sample_index": 102
+  },
+  {
+    "question_id": 7552,
+    "generated_question": "When was the last time Andy Harris played for Southend United F.C.?",
+    "reference_questions": [
+      "When was the last time Andy Harris played for SUFC"
+    ],
+    "sample_index": 103
+  },
+  {
+    "question_id": 21098,
+    "generated_question": "Which was the award that Joanna Pettet received in 1965?",
+    "reference_questions": [
+      "Which award was last won by Joanna Pettet"
+    ],
+    "sample_index": 104
+  },
+  {
+    "question_id": 21224,
+    "generated_question": "Which was the last award that Miquel Batllori i Munné received?",
+    "reference_questions": [
+      "Which was the last award Miquel Batllori i Munné got"
+    ],
+    "sample_index": 105
+  },
+  {
+    "question_id": 24565,
+    "generated_question": "When did Fabio Cannavaro receive the Ballon d’Or?",
+    "reference_questions": [
+      "Ballon d’Or was awarded to Fabio Cannavaro during the year"
+    ],
+    "sample_index": 106
+  },
+  {
+    "question_id": 16064,
+    "generated_question": "What was the last year when Anthony Berry was Member of the 47th Parliament of the United Kingdom?",
+    "reference_questions": [
+      "What is the last year that Anthony Berry was Member of the 47th Parliament of the United Kingdom"
+    ],
+    "sample_index": 107
+  },
+  {
+    "question_id": 7368,
+    "generated_question": "When was the first time Neil Howarth was playing in Burnley F.C.?",
+    "reference_questions": [
+      "Which year Neil Howarth played their first game"
+    ],
+    "sample_index": 108
+  },
+  {
+    "question_id": 20066,
+    "generated_question": "Which was the award that John Stone Stone received in 1923?",
+    "reference_questions": [
+      "What was given to John Stone Stone in 1923"
+    ],
+    "sample_index": 109
+  },
+  {
+    "question_id": 24363,
+    "generated_question": "What was the last award Andrei Linde received after the Breakthrough Prize in Fundamental Physics in 2012?",
+    "reference_questions": [
+      "So, what was the last award Andrei Linde got?"
+    ],
+    "sample_index": 110
+  },
+  {
+    "question_id": 18566,
+    "generated_question": "When was the first year that Charles Ammon, 1st Baron Ammon became Member of the 37th Parliament of the United Kingdom?",
+    "reference_questions": [
+      "At what time Charles Ammon, 1st Baron Ammon held Member of the 37th Parliament of the United Kingdom for the first time"
+    ],
+    "sample_index": 111
+  },
+  {
+    "question_id": 8880,
+    "generated_question": "When was the first time that Liam Fox was the Member of the 53rd Parliament of the United Kingdom?",
+    "reference_questions": [
+      "What is the first time Liam Fox held Member of the 53rd Parliament of the United Kingdom"
+    ],
+    "sample_index": 112
+  },
+  {
+    "question_id": 19124,
+    "generated_question": "Which was the award that Carlos Kleiber received in 1998?",
+    "reference_questions": [
+      "Which is the award Carlos Kleiber received in 1998"
+    ],
+    "sample_index": 113
+  },
+  {
+    "question_id": 4059,
+    "generated_question": "When was the first time Brian Gilmour played for Lincoln City F.C.?",
+    "reference_questions": [
+      "When did Brian Gilmour play their first game for Lincoln City"
+    ],
+    "sample_index": 114
+  },
+  {
+    "question_id": 25013,
+    "generated_question": "Which award did Takeshi Kitano receive in 2013?",
+    "reference_questions": [
+      "Which was the award Takeshi Kitano received in 2013"
+    ],
+    "sample_index": 115
+  },
+  {
+    "question_id": 23113,
+    "generated_question": "When did Elizabeth Blackburn receive the WICB Senior Award?",
+    "reference_questions": [
+      "When did E. Blackburn receive WICB Senior Award"
+    ],
+    "sample_index": 116
+  },
+  {
+    "question_id": 13337,
+    "generated_question": "Who held the position of Mayor of Prague from 1970 to 1981?",
+    "reference_questions": [
+      "Who was Mayor of Prague when Renee Short was in the position of Member of the 46th Parliament of the United Kingdom"
+    ],
+    "sample_index": 117
+  },
+  {
+    "question_id": 15808,
+    "generated_question": "What is the last year when Andy Biggs was Member of the Arizona House of Representatives?",
+    "reference_questions": [
+      "What's the last year Andy Biggs's been Member of the Arizona House of Representatives?"
+    ],
+    "sample_index": 118
+  },
+  {
+    "question_id": 18964,
+    "generated_question": "Which was the last award Fritz Laves received?",
+    "reference_questions": [
+      "The last award Fritz Laves got was what"
+    ],
+    "sample_index": 119
+  },
+  {
+    "question_id": 28139,
+    "generated_question": "Which was the award that Lucy Shapiro received in 2011?",
+    "reference_questions": [
+      "What award was awarded to Lucille Shapiro in 2011"
+    ],
+    "sample_index": 120
+  },
+  {
+    "question_id": 12535,
+    "generated_question": "What's the first time Edward Heath became Member of the 47th Parliament of the United Kingdom?",
+    "reference_questions": [
+      "What time was Edward Heath holding the Member of the 47th Parliament of the United Kingdom position for first time"
+    ],
+    "sample_index": 121
+  },
+  {
+    "question_id": 16712,
+    "generated_question": "Who was the Mayor of Prague before the 1956 Winter Olympics?",
+    "reference_questions": [
+      "Which person held the position of Mayor of Prague during 1956 Winter Olympics"
+    ],
+    "sample_index": 122
+  },
+  {
+    "question_id": 1123,
+    "generated_question": "When was the last year Roberto Bettega played for Italy national football team?",
+    "reference_questions": [
+      "Roberto Bettega was playing his last play when"
+    ],
+    "sample_index": 123
+  },
+  {
+    "question_id": 7446,
+    "generated_question": "What was the team Aleksandr Bubnov played for during 1974-1982?",
+    "reference_questions": [
+      "Aleksandr Bubnov played with which team in 1974"
+    ],
+    "sample_index": 124
+  },
+  {
+    "question_id": 12488,
+    "generated_question": "When was the last year Francis Maude was Member of the 53rd Parliament of the United Kingdom?",
+    "reference_questions": [
+      "What's the latest year that Francis Anthony Aylmer Maude, Baron Maude of Horsham was Member of the 53rd Parliament of the United Kingdom?"
+    ],
+    "sample_index": 125
+  },
+  {
+    "question_id": 6041,
+    "generated_question": "Which team was Billy Marshall playing for from 1953 to 1962?",
+    "reference_questions": [
+      "Which team was Billy Marshall playing in in 1957"
+    ],
+    "sample_index": 126
+  },
+  {
+    "question_id": 14525,
+    "generated_question": "At what time did Angelo Sodano hold the position Cardinal Secretary of State for the first time?",
+    "reference_questions": [
+      "When Angelo Sodano held the Secretary of State of His Holiness The Pope position for the first time"
+    ],
+    "sample_index": 127
+  },
+  {
+    "question_id": 25793,
+    "generated_question": "What was the award that had been awarded to Gevorg Armenyan before the People's Artist of the Armenian SSR in 1985?",
+    "reference_questions": [
+      "Which was the first award that Gevorg Armenyan received"
+    ],
+    "sample_index": 128
+  },
+  {
+    "question_id": 9181,
+    "generated_question": "Who was Member of the Senate of Spain before World War II?",
+    "reference_questions": [
+      "Which person was Senator before the Second World War"
+    ],
+    "sample_index": 129
+  },
+  {
+    "question_id": 22078,
+    "generated_question": "Which was the award that Grahame Clark received in 1990?",
+    "reference_questions": [
+      "In 1990, the award won by John Grahame Douglas Clark"
+    ],
+    "sample_index": 130
+  },
+  {
+    "question_id": 11004,
+    "generated_question": "Who held the position of archbishop of Paris before the Eurovision Song Contest 2005?",
+    "reference_questions": [
+      "Before Eurovision Song Contest 2005 who held archbishop of Paris"
+    ],
+    "sample_index": 131
+  },
+  {
+    "question_id": 29062,
+    "generated_question": "Who was Muhammad's partner during the years 595 to 619?",
+    "reference_questions": [
+      "Who was the partner of Mahomet in 610"
+    ],
+    "sample_index": 132
+  },
+  {
+    "question_id": 21783,
+    "generated_question": "What was the award that had been awarded to Joanna Russ for the first time in her life before 1983?",
+    "reference_questions": [
+      "What is the first award that Joanna Russ received"
+    ],
+    "sample_index": 133
+  },
+  {
+    "question_id": 13032,
+    "generated_question": "When was the first time Fausto Gullo became Minister of Justice?",
+    "reference_questions": [
+      "What year did the first Minister of Justice come into power"
+    ],
+    "sample_index": 134
+  },
+  {
+    "question_id": 19385,
+    "generated_question": "In which year did Antonio Fontan receive the doctor honoris causa?",
+    "reference_questions": [
+      "When did Antonio Fontan receive doctor h.c."
+    ],
+    "sample_index": 135
+  },
+  {
+    "question_id": 17238,
+    "generated_question": "What year was the first time Francisco Frutos became a Member of the Catalan Parliament?",
+    "reference_questions": [
+      "When was it Paco Frutos first became the Member of the Catalan Parliament"
+    ],
+    "sample_index": 136
+  },
+  {
+    "question_id": 11502,
+    "generated_question": "What year was the first time Jim Sensenbrenner became delegate?",
+    "reference_questions": [
+      "Which is the first time Jim Sensenbrenner held the delegate position"
+    ],
+    "sample_index": 137
+  },
+  {
+    "question_id": 7313,
+    "generated_question": "What team did Danny Blanchflower play for between 1949 and 1951?",
+    "reference_questions": [
+      "The team Danny Blanchflower played with in 1951"
+    ],
+    "sample_index": 138
+  },
+  {
+    "question_id": 26049,
+    "generated_question": "Which was the award that Erwin Kräutler received in 2010?",
+    "reference_questions": [
+      "Which was the award that Erwin Kräutler received in 2010"
+    ],
+    "sample_index": 139
+  },
+  {
+    "question_id": 22408,
+    "generated_question": "What was the award that had been awarded to Marthe Vogt for the first time in their life before 1969?",
+    "reference_questions": [
+      "And what was the first award Marthe Louise Vogt ever won?"
+    ],
+    "sample_index": 140
+  },
+  {
+    "question_id": 9863,
+    "generated_question": "At what time did Samuel Viant become a Member of the 37th Parliament of the United Kingdom for the first time?",
+    "reference_questions": [
+      "First time Samuel Viant was Member of the 37th Parliament of the United Kingdom was when"
+    ],
+    "sample_index": 141
+  },
+  {
+    "question_id": 6441,
+    "generated_question": "What was the first team Alec Lindsay played for before joining Liverpool F.C. in 1969?",
+    "reference_questions": [
+      "What's the name of the first team Alec Lindsay played on"
+    ],
+    "sample_index": 142
+  },
+  {
+    "question_id": 11844,
+    "generated_question": "At what time did Bernhard Schneider hold the position of assistant judge for the first time?",
+    "reference_questions": [
+      "Which year did Bernhard Schneider first become the assistant judge"
+    ],
+    "sample_index": 143
+  },
+  {
+    "question_id": 6741,
+    "generated_question": "Dean Mooney was playing for which team from 1974 to 1976?",
+    "reference_questions": [
+      "The team which Dean Mooney played for in 1975 was"
+    ],
+    "sample_index": 144
+  },
+  {
+    "question_id": 10552,
+    "generated_question": "When was the first time Robert Jones became Member of the 51st Parliament of the United Kingdom?",
+    "reference_questions": [
+      "At what time did Robert Brannock Jones hold the position Member of the 51st Parliament of the United Kingdom for the first time"
+    ],
+    "sample_index": 145
+  },
+  {
+    "question_id": 290,
+    "generated_question": "Which team was Darren Williams playing for in 2004?",
+    "reference_questions": [
+      "The team Darren Williams played with in 2002"
+    ],
+    "sample_index": 146
+  },
+  {
+    "question_id": 7706,
+    "generated_question": "When's the first time Mike Kenning played for Charlton Athletic F.C.?",
+    "reference_questions": [
+      "Mike Kenning was playing their first game in Charlton during the year"
+    ],
+    "sample_index": 147
+  },
+  {
+    "question_id": 1067,
+    "generated_question": "Which team did Gian Cesare Discepoli play for between 1970 and 1972?",
+    "reference_questions": [
+      "What's Gian Cesare Discepoli's first team's name?"
+    ],
+    "sample_index": 148
+  },
+  {
+    "question_id": 29431,
+    "generated_question": "Which is the last organisation that Christiane Hoffmann worked for?",
+    "reference_questions": [
+      "Where Christiane Hoffmann worked in 2009"
+    ],
+    "sample_index": 149
+  },
+  {
+    "question_id": 15174,
+    "generated_question": "Who was the Governor of Jamaica during Eurovision Song Contest 2005?",
+    "reference_questions": [
+      "Before ESC 2005, who held the Governor of Jamaica position"
+    ],
+    "sample_index": 150
+  },
+  {
+    "question_id": 11964,
+    "generated_question": "When was the last year Rosie Winterton was Member of the 53rd Parliament of the United Kingdom?",
+    "reference_questions": [
+      "What's the last year of Rosalie Winterton being Member of the 53rd Parliament of the United Kingdom?"
+    ],
+    "sample_index": 151
+  },
+  {
+    "question_id": 7643,
+    "generated_question": "The team Paul Musselwhite played with from 1992 to 2000?",
+    "reference_questions": [
+      "Paul Stephen Musselwhite played for which teams in 1994"
+    ],
+    "sample_index": 152
+  },
+  {
+    "question_id": 24833,
+    "generated_question": "Which was the award that Guy Williams received in 2011?",
+    "reference_questions": [
+      "What award was awarded to Guy Williams in 2011"
+    ],
+    "sample_index": 153
+  },
+  {
+    "question_id": 22488,
+    "generated_question": "Which award did Víctor García de la Concha receive in 2016?",
+    "reference_questions": [
+      "What is awarded to Víctor García de la Concha in 2016"
+    ],
+    "sample_index": 154
+  },
+  {
+    "question_id": 22475,
+    "generated_question": "Which was the award that Ravi Shankar received in 1999?",
+    "reference_questions": [
+      "In 1999, the award won by Robindro Shaunkor Chowdhury"
+    ],
+    "sample_index": 155
+  },
+  {
+    "question_id": 2092,
+    "generated_question": "Which team was Jamie Reed playing for between 2011 and 2013?",
+    "reference_questions": [
+      "What team did Jamie Reed play in 2011"
+    ],
+    "sample_index": 156
+  },
+  {
+    "question_id": 474,
+    "generated_question": "When did Roberto Baggio play his last game for Brescia Calcio?",
+    "reference_questions": [
+      "What year was Roberto Baggio playing their final game?"
+    ],
+    "sample_index": 157
+  },
+  {
+    "question_id": 18884,
+    "generated_question": "What was the award that had been awarded to Ronald Fisher for the first time in their life?",
+    "reference_questions": [
+      "What is the first award that Ronald A. Fisher received"
+    ],
+    "sample_index": 158
+  },
+  {
+    "question_id": 16405,
+    "generated_question": "At what time did Basil Neven-Spence become Member of the 37th Parliament of the United Kingdom for the first time?",
+    "reference_questions": [
+      "When did Basil Neven-Spence last become Member of the 37th Parliament of the United Kingdom?"
+    ],
+    "sample_index": 159
+  },
+  {
+    "question_id": 10668,
+    "generated_question": "Who held the position of emperor of Japan before Games of the 1956 Winter Olympics?",
+    "reference_questions": [
+      "Who was Mikado after 1956 Winter Olympics"
+    ],
+    "sample_index": 160
+  },
+  {
+    "question_id": 26221,
+    "generated_question": "What was the award that had been awarded to Jean Leray for the first time in their life before 1979?",
+    "reference_questions": [
+      "What was the first award Jean Leray ever won?"
+    ],
+    "sample_index": 161
+  },
+  {
+    "question_id": 28912,
+    "generated_question": "Who was the partner of Inge von Wangenheim in the years between 1931 and 1975?",
+    "reference_questions": [
+      "Who was Inge von Wangenheim's partner in 1952"
+    ],
+    "sample_index": 162
+  },
+  {
+    "question_id": 15030,
+    "generated_question": "What person was Prime Minister of India in 1950?",
+    "reference_questions": [
+      "What person was minister of external affairs of india in 1948"
+    ],
+    "sample_index": 163
+  },
+  {
+    "question_id": 23189,
+    "generated_question": "Which was the award that Anne Hébert received in 1988?",
+    "reference_questions": [
+      "What award did Anne Hebert receive in 1988"
+    ],
+    "sample_index": 164
+  },
+  {
+    "question_id": 15680,
+    "generated_question": "What is the last year when Giles Shaw was Member of the 48th Parliament of the United Kingdom?",
+    "reference_questions": [
+      "The last time Sir John Giles Dunkerley Shaw had been Member of the 48th Parliament of the United Kingdom was when"
+    ],
+    "sample_index": 165
+  },
+  {
+    "question_id": 11001,
+    "generated_question": "When was the last time that Joseph-Hippolyte Guibert was the archbishop of Paris?",
+    "reference_questions": [
+      "archbishop of Paris in 1877 was who"
+    ],
+    "sample_index": 166
+  },
+  {
+    "question_id": 20877,
+    "generated_question": "What was the first award that Ernst Gombrich received before 1976?",
+    "reference_questions": [
+      "Which is the first award E. H. Gombrich received"
+    ],
+    "sample_index": 167
+  },
+  {
+    "question_id": 24636,
+    "generated_question": "Which was the award that Matthias Sammer received in 1996?",
+    "reference_questions": [
+      "What is awarded to Matthias Sammer in 1996"
+    ],
+    "sample_index": 168
+  },
+  {
+    "question_id": 19826,
+    "generated_question": "In which year did Anthony Shadid receive the Pulitzer Prize for International Reporting?",
+    "reference_questions": [
+      "Anthony Shadid got Pulitzer Prize for International Reporting in the year"
+    ],
+    "sample_index": 169
+  },
+  {
+    "question_id": 12718,
+    "generated_question": "At what time did Bruce Millan become Member of the 48th Parliament of the United Kingdom for the first time?",
+    "reference_questions": [
+      "When Bruce Millan held the Member of the 48th Parliament of the United Kingdom position for the first time"
+    ],
+    "sample_index": 170
+  },
+  {
+    "question_id": 29785,
+    "generated_question": "Before Washington University in St. Louis, where did Phillip DeLacy work?",
+    "reference_questions": [
+      "Who was employer of Phillip DeLacy prior to WashU"
+    ],
+    "sample_index": 171
+  },
+  {
+    "question_id": 6164,
+    "generated_question": "When was the first time Domingos da Guia was playing for Brazil national football team?",
+    "reference_questions": [
+      "What year was Domingos da Guia playing their first game in Seleçao?"
+    ],
+    "sample_index": 172
+  },
+  {
+    "question_id": 15282,
+    "generated_question": "At what time did Alexandros Koryzis become Prime Minister of Greece for the first time?",
+    "reference_questions": [
+      "What's the last year Alexandros Koryzis's been Prime Minister of Greece?"
+    ],
+    "sample_index": 173
+  },
+  {
+    "question_id": 13088,
+    "generated_question": "Who held the position of Prime Minister of Sweden before 1932?",
+    "reference_questions": [
+      "Who was the Prime Minister of Sweden during WWII"
+    ],
+    "sample_index": 174
+  },
+  {
+    "question_id": 14993,
+    "generated_question": "When was the first time that Jacques Le Goff became president?",
+    "reference_questions": [
+      "What time was Jacques Le Goff holding the president position for the first time?"
+    ],
+    "sample_index": 175
+  },
+  {
+    "question_id": 22741,
+    "generated_question": "In which year did Samantha Cristoforetti receive the Knight Grand Cross of the Order of Merit of the Italian Republic?",
+    "reference_questions": [
+      "What year was Sam Cristoforetti given the Knight Grand Cross of the Order of Merit of the Italian Republic"
+    ],
+    "sample_index": 176
+  },
+  {
+    "question_id": 17405,
+    "generated_question": "Who was the Governor of Western Australia before the 1992 Summer Olympics?",
+    "reference_questions": [
+      "Who held the position of Governor of Western Australia before Games of the XXV Olympiad"
+    ],
+    "sample_index": 177
+  },
+  {
+    "question_id": 9957,
+    "generated_question": "Who was Premier of Quebec before Louis-Alexandre Taschereau [1920-1936]?",
+    "reference_questions": [
+      "Who was the Prime Minister of Quebec when Charles Bowerman held the position of Member of the 32nd Parliament of the United Kingdom"
+    ],
+    "sample_index": 178
+  },
+  {
+    "question_id": 2285,
+    "generated_question": "When was it that Ugo Pozzan played their first game?",
+    "reference_questions": [
+      "What year did Ugo Pozzan play his first game?"
+    ],
+    "sample_index": 179
+  },
+  {
+    "question_id": 28216,
+    "generated_question": "What year did Jay Laurence Lush receive the National Medal of Science?",
+    "reference_questions": [
+      "Jay Laurence Lush received National Medal of Science in what year"
+    ],
+    "sample_index": 180
+  },
+  {
+    "question_id": 1706,
+    "generated_question": "Raffaele Sansone was playing for which team in the years 1934-1944?",
+    "reference_questions": [
+      "Raffaele Sansone played for which teams in 1944"
+    ],
+    "sample_index": 181
+  },
+  {
+    "question_id": 21671,
+    "generated_question": "What was the first award that Karl Schlögel received before 2004?",
+    "reference_questions": [
+      "The award that was awarded to Karl Schlögel for the first time in their life"
+    ],
+    "sample_index": 182
+  },
+  {
+    "question_id": 20735,
+    "generated_question": "In which year did Donald Griffin receive the Daniel Giraud Elliot Medal?",
+    "reference_questions": [
+      "Daniel Giraud Elliot Medal was awarded to Donald R. Griffin in which year"
+    ],
+    "sample_index": 183
+  },
+  {
+    "question_id": 27558,
+    "generated_question": "What was the award that Rebecca Saunders received in 1996?",
+    "reference_questions": [
+      "Which was the first award that Rebecca Saunders received"
+    ],
+    "sample_index": 184
+  },
+  {
+    "question_id": 6013,
+    "generated_question": "What year Robert Acquafresca played their first game for Torino Football Club?",
+    "reference_questions": [
+      "What year Robert Acquafresca played their first game"
+    ],
+    "sample_index": 185
+  },
+  {
+    "question_id": 21316,
+    "generated_question": "What was the first award that Otto Ludwig Lange received before 1988?",
+    "reference_questions": [
+      "What was the prize that was awarded to Otto Ludwig Lange for the first time in their life"
+    ],
+    "sample_index": 186
+  },
+  {
+    "question_id": 19327,
+    "generated_question": "Which was the award that Gustavus Simmons received in 2005?",
+    "reference_questions": [
+      "What is awarded to Gustavus Simmons in 2005"
+    ],
+    "sample_index": 187
+  },
+  {
+    "question_id": 9822,
+    "generated_question": "What person had been Leader of the Opposition before 1891?",
+    "reference_questions": [
+      "Who was the Leader of the Opposition following 15th century"
+    ],
+    "sample_index": 188
+  },
+  {
+    "question_id": 19974,
+    "generated_question": "Which was the award that Sylvia Chang received in 1981?",
+    "reference_questions": [
+      "What was awarded to Sylvia Chang in 1981"
+    ],
+    "sample_index": 189
+  },
+  {
+    "question_id": 24000,
+    "generated_question": "Which award did Sunao Tawara receive in 1914?",
+    "reference_questions": [
+      "What's the first prize Sunao Tawara got?"
+    ],
+    "sample_index": 190
+  },
+  {
+    "question_id": 26183,
+    "generated_question": "When did Eino Linnala receive the title Professor?",
+    "reference_questions": [
+      "What year did Eino Linnala get Professor as a title"
+    ],
+    "sample_index": 191
+  },
+  {
+    "question_id": 27449,
+    "generated_question": "Which was the award that Poul Anderson received in 1998?",
+    "reference_questions": [
+      "What award was given to Michael Karageorge in 1998"
+    ],
+    "sample_index": 192
+  },
+  {
+    "question_id": 3158,
+    "generated_question": "What was the first team Marcello Montanari played for before the 1991-1992 season?",
+    "reference_questions": [
+      "What was the initial team Marcello Montanari played in"
+    ],
+    "sample_index": 193
+  },
+  {
+    "question_id": 23882,
+    "generated_question": "Which was the last award that Cloris Leachman received after the Theatre World Award in 1951?",
+    "reference_questions": [
+      "Last award Cloris Leachman got was what"
+    ],
+    "sample_index": 194
+  },
+  {
+    "question_id": 10654,
+    "generated_question": "When was the last year Juan Alberto Belloch was Member of the Senate of Spain?",
+    "reference_questions": [
+      "What is the last time that Juan Alberto Belloch was Elected senator"
+    ],
+    "sample_index": 195
+  },
+  {
+    "question_id": 8808,
+    "generated_question": "What year did the last Member of Abgeordnetenhaus come to power?",
+    "reference_questions": [
+      "When Member of Abgeordnetenhaus was first elected"
+    ],
+    "sample_index": 196
+  },
+  {
+    "question_id": 10899,
+    "generated_question": "When was the last time Edward Grey, 1st Viscount Grey of Fallodon was Secretary of State for Foreign and Commonwealth Affairs?",
+    "reference_questions": [
+      "What is the last year when Sir Edward Grey was Her Majesty's Principal Secretary of State for Foreign and Commonwealth Affairs"
+    ],
+    "sample_index": 197
+  },
+  {
+    "question_id": 11106,
+    "generated_question": "Who was the first person to hold the post of ambassador of the United Kingdom to the United States before Sir Augustus Foster, 1st Baronet?",
+    "reference_questions": [
+      "Who was the first ambassador of the United Kingdom to the United States"
+    ],
+    "sample_index": 198
+  },
+  {
+    "question_id": 6906,
+    "generated_question": "What was the initial team Tommy Taylor played in before 1953?",
+    "reference_questions": [
+      "Thomas Taylor's first team"
+    ],
+    "sample_index": 199
+  },
+  {
+    "question_id": 5972,
+    "generated_question": "What was the first team Gérson played for before joining the Brazil national football team in 1961?",
+    "reference_questions": [
+      "What's the first team Gérson played for?"
+    ],
+    "sample_index": 200
+  },
+  {
+    "question_id": 26471,
+    "generated_question": "What was the last award that Shinobu Ōtake received?",
+    "reference_questions": [
+      "Which was the first award that Shinobu Otake received"
+    ],
+    "sample_index": 201
+  },
+  {
+    "question_id": 28010,
+    "generated_question": "What year did Josep Perarnau i Espelt receive the Narcís Monturiol Prize?",
+    "reference_questions": [
+      "When did Josep Perarnau i Espelt receive Narcís Monturiol Prize"
+    ],
+    "sample_index": 202
+  },
+  {
+    "question_id": 3627,
+    "generated_question": "What was the team Tommy Allen played for between 1928 and 1932?",
+    "reference_questions": [
+      "Which team was Tommy Allen part of in 1929"
+    ],
+    "sample_index": 203
+  },
+  {
+    "question_id": 11158,
+    "generated_question": "Who was the Foreign Minister of Austria after 1919-1920?",
+    "reference_questions": [
+      "What was Foreign Minister of Austria after Thirty Years' War"
+    ],
+    "sample_index": 204
+  },
+  {
+    "question_id": 1712,
+    "generated_question": "When was the first time Paul Hunt was playing in Swindon Town F.C.?",
+    "reference_questions": [
+      "When Paul Hunt played their first game in Swindon Town Football Club"
+    ],
+    "sample_index": 205
+  },
+  {
+    "question_id": 23021,
+    "generated_question": "In which year did Michael Löwy receive the CNRS silver medal?",
+    "reference_questions": [
+      "Which year did Michael Lowy receive CNRS silver medal"
+    ],
+    "sample_index": 206
+  },
+  {
+    "question_id": 20409,
+    "generated_question": "What year did Richard C. Tolman receive the Josiah Willard Gibbs Lectureship?",
+    "reference_questions": [
+      "What year did Richard C. Tolman get Josiah Willard Gibbs Lectureship?"
+    ],
+    "sample_index": 207
+  },
+  {
+    "question_id": 18635,
+    "generated_question": "When was the last year Richard Luce, Baron Luce was Member of the 46th Parliament of the United Kingdom?",
+    "reference_questions": [
+      "When was Richard Luce the Member of the 46th Parliament of the United Kingdom"
+    ],
+    "sample_index": 208
+  },
+  {
+    "question_id": 19331,
+    "generated_question": "What was the award received by Ronald Rivlin in 1987?",
+    "reference_questions": [
+      "Ronald Rivlin received which award in 1987"
+    ],
+    "sample_index": 209
+  },
+  {
+    "question_id": 19352,
+    "generated_question": "Which was the last award that Denys Wilkinson received after the Tom W. Bonner Prize in Nuclear Physics in 1974?",
+    "reference_questions": [
+      "Which was the latest award that Denys Haigh Wilkinson received"
+    ],
+    "sample_index": 210
+  },
+  {
+    "question_id": 23861,
+    "generated_question": "Which was the award that Theo Rasing received in 2008?",
+    "reference_questions": [
+      "Which award did Theodorus Henricus Maria Rasing receive in 2008"
+    ],
+    "sample_index": 211
+  },
+  {
+    "question_id": 3521,
+    "generated_question": "Which team was Luca Lacrimini playing for in 2007?",
+    "reference_questions": [
+      "What team did Luca Lacrimini play in 2008"
+    ],
+    "sample_index": 212
+  },
+  {
+    "question_id": 1909,
+    "generated_question": "What was the first team Manuel Iori played for before 2012?",
+    "reference_questions": [
+      "Which team is the first one Manuel Iori's ever played in"
+    ],
+    "sample_index": 213
+  },
+  {
+    "question_id": 14065,
+    "generated_question": "Who was the editor-in-chief before World War II?",
+    "reference_questions": [
+      "Which person was holding executive editor position during World War II"
+    ],
+    "sample_index": 214
+  },
+  {
+    "question_id": 6912,
+    "generated_question": "Derek Showers was playing for which team in 1970-1977?",
+    "reference_questions": [
+      "Which team was Derek Showers from 1973"
+    ],
+    "sample_index": 215
+  },
+  {
+    "question_id": 28184,
+    "generated_question": "What was the first award that had been awarded to Valeri Frid before 1995?",
+    "reference_questions": [
+      "Name the award Valery Semyonovich Frid first received"
+    ],
+    "sample_index": 216
+  },
+  {
+    "question_id": 20560,
+    "generated_question": "Which was the award that Gig Young received in 1969?",
+    "reference_questions": [
+      "Which was a last award Gig Young got"
+    ],
+    "sample_index": 217
+  },
+  {
+    "question_id": 17866,
+    "generated_question": "At what time did Wingate Hezekiah Lucas hold the position of executive director for the first time?",
+    "reference_questions": [
+      "What's the latest year that Wingate Hezekiah Lucas was executive director?"
+    ],
+    "sample_index": 218
+  },
+  {
+    "question_id": 9726,
+    "generated_question": "Who was the Governor of Western Australia after 1963?",
+    "reference_questions": [
+      "Who was the Governor of Western Australia while Glenard Paul Lipscomb was a member of the California State Assembly"
+    ],
+    "sample_index": 219
+  },
+  {
+    "question_id": 15837,
+    "generated_question": "What was the last year when Brian Mawhinney, Baron Mawhinney was Chairman of the Conservative Party?",
+    "reference_questions": [
+      "The last time Brian Stanley Mawhinney, Baron Mawhinney was a Chairman of the Conservative Party"
+    ],
+    "sample_index": 220
+  },
+  {
+    "question_id": 27777,
+    "generated_question": "Which was the last award Ejler Bille received?",
+    "reference_questions": [
+      "What was Ejler Christian Torbensen Bille's last award?"
+    ],
+    "sample_index": 221
+  },
+  {
+    "question_id": 1554,
+    "generated_question": "Which team did Frankie Lane play for from 1971 to 1975?",
+    "reference_questions": [
+      "What was the name of the team Frankie Lane played in 1973?"
+    ],
+    "sample_index": 222
+  },
+  {
+    "question_id": 28378,
+    "generated_question": "Which was the award that Julian Schwinger received in 1960?",
+    "reference_questions": [
+      "In 1960 which award did Julian Seymour Schwinger win"
+    ],
+    "sample_index": 223
+  },
+  {
+    "question_id": 5389,
+    "generated_question": "When did Jack Reynolds play his last game for Stockport County F.C.?",
+    "reference_questions": [
+      "Jack Reynolds was playing his last game when"
+    ],
+    "sample_index": 224
+  },
+  {
+    "question_id": 27979,
+    "generated_question": "What award was given to László Polgár in 2010?",
+    "reference_questions": [
+      "In 2010 which award did Polgar Laszlo win"
+    ],
+    "sample_index": 225
+  },
+  {
+    "question_id": 26310,
+    "generated_question": "Which year did Ana Maria Machado receive Ordem do Mérito Cultural?",
+    "reference_questions": [
+      "Which year did Ana Maria Machado receive Ordem do Mérito Cultural"
+    ],
+    "sample_index": 226
+  },
+  {
+    "question_id": 27432,
+    "generated_question": "In which year did Roseana Sarney receive the Ordem do Mérito Cultural?",
+    "reference_questions": [
+      "What year did Roseana Sarney get Ordem do Mérito Cultural?"
+    ],
+    "sample_index": 227
+  },
+  {
+    "question_id": 4902,
+    "generated_question": "Anatoly Baidachny was playing for which team between 1969 and 1974?",
+    "reference_questions": [
+      "What's Anatoly Baidachny's first team's name?"
+    ],
+    "sample_index": 228
+  },
+  {
+    "question_id": 27511,
+    "generated_question": "Which was the last award Javier Bardem received before 2012?",
+    "reference_questions": [
+      "What was Javier Angel Encinas Bardem's last award?"
+    ],
+    "sample_index": 229
+  },
+  {
+    "question_id": 12603,
+    "generated_question": "When was the first time Felip Lorda became a Member of the Catalan Parliament?",
+    "reference_questions": [
+      "What time was Felip Lorda holding the Member of the Catalan Parliament position for the first time?"
+    ],
+    "sample_index": 230
+  },
+  {
+    "question_id": 26084,
+    "generated_question": "Which was the award that Gustav Leonhardt received in 2003?",
+    "reference_questions": [
+      "Which is the award Gustav Maria Leonhardt received in 2003"
+    ],
+    "sample_index": 231
+  },
+  {
+    "question_id": 23553,
+    "generated_question": "Which was the award that William Eagle Clarke received in 1922?",
+    "reference_questions": [
+      "Which award did William Clarke receive in 1922"
+    ],
+    "sample_index": 232
+  },
+  {
+    "question_id": 24891,
+    "generated_question": "In which year did Lotfi Aliasker Zadeh receive the IEEE Medal of Honor?",
+    "reference_questions": [
+      "What year was Lotfi A. Zadeh given the IEEE Medal of Honor"
+    ],
+    "sample_index": 233
+  },
+  {
+    "question_id": 19593,
+    "generated_question": "When was Padma Vibhushan in science & engineering awarded to Venkatraman Ramakrishnan?",
+    "reference_questions": [
+      "Padma Vibhushan in science & engineering has been awarded to Venkatraman Ramakrishnan in which year"
+    ],
+    "sample_index": 234
+  },
+  {
+    "question_id": 27990,
+    "generated_question": "In which year did Mats Zuccarello receive Gullpucken?",
+    "reference_questions": [
+      "What year was Mats André Zuccarello Aasen given the Gullpucken"
+    ],
+    "sample_index": 235
+  },
+  {
+    "question_id": 15021,
+    "generated_question": "Who became the board of directors after Hilda Solis?",
+    "reference_questions": [
+      "Last board of trustees was who"
+    ],
+    "sample_index": 236
+  },
+  {
+    "question_id": 26352,
+    "generated_question": "Which was the last award Carlos Zurita, Duke of Soria received before 2009?",
+    "reference_questions": [
+      "Which was the last award Carlos Zurita, Duke of Soria got"
+    ],
+    "sample_index": 237
+  },
+  {
+    "question_id": 10077,
+    "generated_question": "Who was the Secretary of State for Foreign and Commonwealth Affairs before George Curzon, 1st Marquess Curzon of Kedleston?",
+    "reference_questions": [
+      "Which person was the Secretary of State for Foreign Affairs before Marquis of Curzon George Nathaniel Curzon"
+    ],
+    "sample_index": 238
+  },
+  {
+    "question_id": 5114,
+    "generated_question": "When did Ronnie Dix play his last game for Tottenham Hotspur F.C.?",
+    "reference_questions": [
+      "When Ronnie Dix was playing his final game"
+    ],
+    "sample_index": 239
+  },
+  {
+    "question_id": 9806,
+    "generated_question": "What year did the last Member of the Catalan Parliament come into power?",
+    "reference_questions": [
+      "When was the last Member of the Catalan Parliament in power"
+    ],
+    "sample_index": 240
+  },
+  {
+    "question_id": 15069,
+    "generated_question": "What time was John Kasich holding the member of the State Senate of Ohio position for first time?",
+    "reference_questions": [
+      "What is the last year when Gov. John Kasich Jr. was member of the State Senate of Ohio"
+    ],
+    "sample_index": 241
+  },
+  {
+    "question_id": 14275,
+    "generated_question": "Which person was the monarch of Italy in 500?",
+    "reference_questions": [
+      "The queen of Italy in 499 was which person"
+    ],
+    "sample_index": 242
+  },
+  {
+    "question_id": 20407,
+    "generated_question": "Which was the last award Vardan Ajemian received?",
+    "reference_questions": [
+      "Which is the last award Vardan Ajemian got"
+    ],
+    "sample_index": 243
+  },
+  {
+    "question_id": 20598,
+    "generated_question": "When did Alfred Bester receive the Damon Knight Memorial Grand Master Award?",
+    "reference_questions": [
+      "Alfred Bester got SFWA Grand Master Award in the year"
+    ],
+    "sample_index": 244
+  },
+  {
+    "question_id": 2104,
+    "generated_question": "What was the team Riccardo Corallo played for in the 1999-2000 season?",
+    "reference_questions": [
+      "What team Riccardo Corallo played in 2000"
+    ],
+    "sample_index": 245
+  },
+  {
+    "question_id": 28559,
+    "generated_question": "What year did Mary Midgley get married for the first time?",
+    "reference_questions": [
+      "When Geoffrey Midgley was married for the first time"
+    ],
+    "sample_index": 246
+  },
+  {
+    "question_id": 20407,
+    "generated_question": "Which was the last award Vardan Ajemian received after 1965?",
+    "reference_questions": [
+      "Which award did Vardan Ajemian win last"
+    ],
+    "sample_index": 247
+  },
+  {
+    "question_id": 9218,
+    "generated_question": "Who became the Chairman of the Joint Chiefs of Staff after Thomas Hinman Moorer?",
+    "reference_questions": [
+      "The Chairman of the Joint Chiefs of Staff after Thomas Hinman Moorer was who"
+    ],
+    "sample_index": 248
+  },
+  {
+    "question_id": 27802,
+    "generated_question": "Which was the last award that Lynn Conway received?",
+    "reference_questions": [
+      "The final award Lynn Ann Conway received was what"
+    ],
+    "sample_index": 249
+  }
+]

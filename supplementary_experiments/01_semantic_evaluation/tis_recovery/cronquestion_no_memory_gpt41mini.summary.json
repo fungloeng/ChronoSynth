@@ -1,0 +1,9 @@
+{
+  "n": 972,
+  "operator_correct": 0.31275720164609055,
+  "slot_correct": 0.8065843621399177,
+  "answer_type_correct": 1.0,
+  "granularity_correct": 0.7397119341563786,
+  "reference_correct": 0.8858024691358025,
+  "tis_exact_match": 0.09465020576131687
+}

@@ -1,0 +1,36 @@
+{
+  "dataset": "CRONQUESTION",
+  "model": "gpt-4o-mini",
+  "variants": [
+    {
+      "variant": "no_temporal_rule",
+      "output_path": "result/supplementary_core_20260812/05_validator_ablation/cronquestion/chrono_cronquestion_no_temporal_rule.json",
+      "BLEU-4": 0.31652870509270425,
+      "ROUGE-L": 0.5340743169562322,
+      "CIDEr": 2.943291865715416,
+      "Distinct-1": 0.2675400291120815,
+      "Distinct-2": 0.47728726807421623,
+      "num_samples": 309
+    },
+    {
+      "variant": "no_leakage_check",
+      "output_path": "result/supplementary_core_20260812/05_validator_ablation/cronquestion/chrono_cronquestion_no_leakage_check.json",
+      "BLEU-4": 0.31868805817816637,
+      "ROUGE-L": 0.5356840659397454,
+      "CIDEr": 2.979494846940845,
+      "Distinct-1": 0.26682202155549084,
+      "Distinct-2": 0.47183098591549294,
+      "num_samples": 309
+    },
+    {
+      "variant": "no_draft_filtering",
+      "output_path": "result/supplementary_core_20260812/05_validator_ablation/cronquestion/chrono_cronquestion_no_draft_filtering.json",
+      "BLEU-4": 0.321809195101555,
+      "ROUGE-L": 0.5385370270818938,
+      "CIDEr": 3.005864929599685,
+      "Distinct-1": 0.26756440281030447,
+      "Distinct-2": 0.4769874476987448,
+      "num_samples": 309
+    }
+  ]
+}
