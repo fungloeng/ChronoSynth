@@ -175,6 +175,30 @@
             </div>
           </article>
 
+          <article class="result-showcase supplementary-table-card">
+            <div class="result-copy">
+              <div class="result-label">Matched component diagnostics</div>
+              <h3>Isolating executable generation controls</h3>
+              <p>Each row compares a variant with Full on its exact shared IDs. Positive values denote Variant minus matched Full. The released implementation exposes these concrete controls rather than separately switchable abstract validator modules.</p>
+              <div class="table-wrap compact-table">
+                <table>
+                  <thead><tr><th>Dataset</th><th>Variant</th><th>N</th><th>&Delta; TIS-EM</th><th>&Delta; Answer F1</th><th>&Delta; Leakage</th></tr></thead>
+                  <tbody>
+                    <tr><td>CRONQ.</td><td>Generic placeholders</td><td>490</td><td>+0.2%</td><td>+0.2%</td><td>-0.2%</td></tr>
+                    <tr><td>MultiTQ</td><td>Generic placeholders</td><td>500</td><td>+0.2%</td><td>+1.4%</td><td>-0.8%</td></tr>
+                    <tr><td>CRONQ.</td><td>Without temporal-rule prompt</td><td>298</td><td>+1.0%</td><td>-1.3%</td><td>+0.0%</td></tr>
+                    <tr><td>CRONQ.</td><td>Without leakage check</td><td>298</td><td>+0.0%</td><td>-2.0%</td><td>+1.0%</td></tr>
+                    <tr><td>CRONQ.</td><td>Without draft filtering</td><td>298</td><td>+0.3%</td><td>-1.0%</td><td>+1.0%</td></tr>
+                    <tr><td>MultiTQ</td><td>Without temporal-rule prompt</td><td>300</td><td>-1.7%</td><td>+0.1%</td><td>-2.0%</td></tr>
+                    <tr><td>MultiTQ</td><td>Without leakage check</td><td>300</td><td>-1.0%</td><td>+0.5%</td><td>-2.0%</td></tr>
+                    <tr><td>MultiTQ</td><td>Without draft filtering</td><td>300</td><td>+0.7%</td><td>-0.0%</td><td>-1.0%</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <p class="table-note">These diagnostics support component-specific interpretation rather than a blanket claim that every control improves every semantic metric.</p>
+            </div>
+          </article>
+
           <article class="result-showcase">
             <div class="result-copy">
               <div class="result-label">RQ2</div>
